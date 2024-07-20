@@ -1,0 +1,23 @@
+#68 - Memmingen
+
+owner = GER
+controller = GER
+add_core = GER
+add_core = MEM
+add_core = SWA
+culture = hallstatt
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Memmingen" 
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

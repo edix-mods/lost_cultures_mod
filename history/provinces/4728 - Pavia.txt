@@ -1,0 +1,23 @@
+# 4728 - Pavia
+
+owner = LOM
+controller = LOM
+culture = ligurian
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+capital = "Pavia"
+fort_15th = yes
+is_city = yes	# Estimated
+add_core = LOM
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

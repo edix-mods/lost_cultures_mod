@@ -1,0 +1,25 @@
+#5204 - Kerekia
+
+owner = KMC
+controller = KMC
+add_core = KMC
+culture = kerek
+religion = tengri_pagan_reformed
+capital = "Kerekia"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 2
+native_hostileness = 5
+is_city = yes
+
+
+
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+discovered_by = ANU

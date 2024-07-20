@@ -1,0 +1,19 @@
+# 2112 - Andong
+
+owner = LIO
+controller = LIO
+add_core = LIO
+culture = ye_c
+religion = sarvadharmayana
+capital = "Andong"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group

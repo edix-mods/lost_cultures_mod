@@ -1,0 +1,19 @@
+#121 - Napoli
+
+owner = CAP
+controller = CAP
+culture = koryak 
+religion = catholic 
+hre = yes 
+base_tax = 4
+base_production = 3
+trade_goods = grain 
+fort_15th = yes
+base_manpower = 2
+capital = "Capia" 
+is_city = yes	# Estimated
+add_core = CAP
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

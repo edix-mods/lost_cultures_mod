@@ -1,0 +1,17 @@
+#2446 - Chara
+
+owner = BRT
+controller = BRT
+add_core = BRT
+culture = ust_mil
+religion = tengri_pagan_reformed
+capital = "Chara"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+
+discovered_by = chinese
+discovered_by = nomad_group

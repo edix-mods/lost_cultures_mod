@@ -1,0 +1,17 @@
+#1057 - Udinsky
+
+owner = BRT
+controller = BRT
+add_core = BRT
+culture = proto_mongol
+religion = tengri_pagan_reformed
+capital = "Udinskoye"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+
+discovered_by = chinese
+discovered_by = nomad_group

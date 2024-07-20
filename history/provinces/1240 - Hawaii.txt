@@ -1,0 +1,12 @@
+#1240 - Hawaii
+
+hre = no
+capital = "Kailua-Kona"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1 
+base_manpower = 1
+native_size = 0
+native_ferocity = 0
+native_hostileness = 0
