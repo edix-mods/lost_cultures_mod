@@ -1,8 +1,10 @@
 #2313 - Antioch
 
-owner = BYZ
-controller = BYZ
-culture = hittitte
+owner = HIY
+controller = HIY
+add_core = HIY
+is_city = yes
+culture = luwian
 religion = coptic
 capital = "Tarsus"
 trade_goods = cotton
@@ -10,8 +12,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = BYZ
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

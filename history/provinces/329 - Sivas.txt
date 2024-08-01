@@ -1,7 +1,9 @@
 #329 - Sivas
 
-owner = BYZ
-controller = BYZ
+owner = MUS
+controller = MUS
+add_core = MUS
+is_city = yes
 culture = hittitte
 religion = orthodox
 capital = "Sivas"
@@ -10,9 +12,6 @@ hre = no
 base_tax = 7
 base_production = 7
 base_manpower = 4
-is_city = yes
-add_core = BYZ
-fort_15th = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

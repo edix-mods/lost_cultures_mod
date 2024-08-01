@@ -1,10 +1,5 @@
 #1858 - Stettin
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = POM
-add_core = STE
 culture = germanic_c
 religion = catholic
 trade_goods = naval_supplies
@@ -12,7 +7,6 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 capital = "Stettin"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

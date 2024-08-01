@@ -1,7 +1,5 @@
 #273 - Livland
 
-owner = LVA
-controller = LVA
 culture = baltic
 religion = catholic
 capital = "Valmiera"
@@ -11,7 +9,5 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 fort_15th = yes
-is_city = yes
-add_core = LVA
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,5 @@
 #41 - Königsberg
 
-owner = PRR
-controller = PRR
 capital = "Tvankste"
 culture = baltic
 religion = catholic
@@ -10,9 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
 fort_15th = yes
-add_core = PRR
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

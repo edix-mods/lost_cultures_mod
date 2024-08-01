@@ -1,9 +1,5 @@
 #1759 - Potsdam
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BRA
 culture = germanic_c
 religion = catholic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = wool
 base_manpower = 2
 capital = "Potsdam"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

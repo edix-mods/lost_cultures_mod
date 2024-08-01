@@ -1,7 +1,3 @@
-owner = BON
-controller = BON
-add_core = BON
-is_city = yes
 culture = gur 
 religion = shamanism #Fetishism
 capital = "Bono Manso"

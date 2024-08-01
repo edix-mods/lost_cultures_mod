@@ -1,8 +1,5 @@
 # 4201 - Jianzhou
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
 culture = maek
 religion = confucianism
 capital = "Jianzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 3
 base_manpower = 3
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 

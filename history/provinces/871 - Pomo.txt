@@ -1,6 +1,6 @@
 #871 - Pomo
 
-culture = wiyot
+culture = wintuan
 religion = totemism
 capital = "Pomo" 
 trade_goods = unknown 

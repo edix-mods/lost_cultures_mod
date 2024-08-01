@@ -1,7 +1,5 @@
 #4189 - Sagami
 
-owner = HJO
-controller = HJO
 culture = arami
 religion = shinto
 capital = "Kamakura"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_manpower = 5
 base_production = 3
-is_city = yes
-add_core = HJO
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

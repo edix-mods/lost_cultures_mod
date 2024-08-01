@@ -1,9 +1,5 @@
 #267 - Plsen
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BOH
 capital = "Plzen"
 culture = urnfielder
 religion = catholic
@@ -12,7 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 1
-is_city = yes
 
 discovered_by = KAZ
 discovered_by = CRI

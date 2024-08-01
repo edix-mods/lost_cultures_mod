@@ -1,7 +1,4 @@
 
-owner = MOL
-controller = MOL
-add_core = MOL
 culture = dacian
 religion = orthodox
 hre = no
@@ -10,7 +7,6 @@ base_production = 2
 trade_goods = wine
 base_manpower = 1
 capital = "Balti"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,8 +1,5 @@
 # 2104 - Birija
 
-owner = MYR
-controller = MYR
-add_core = MYR
 culture = ust_mil
 religion = tengri_pagan_reformed
 capital = "Niuman"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 

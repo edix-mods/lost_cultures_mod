@@ -1,7 +1,5 @@
 #4240 - Fejér (Fejér + Veszprém + Györ + parts of Komárom)
 
-owner = PNN
-controller = PNN 
 culture = vucedolian
 religion = catholic
 capital = "Stolicný Belegrad"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = PNN
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

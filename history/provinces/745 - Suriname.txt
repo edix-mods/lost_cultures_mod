@@ -20,18 +20,11 @@ native_hostileness = 3
 1516.1.23 = { discovered_by = SPA }
 
 1593.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
 	culture = castillian
 	religion = catholic
-	is_city = yes
 	trade_goods = sugar
 } # Spain officially claimed the area, but paid little attention to the territory
 1616.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
 	remove_core = SPA
 	religion = reformed
 	culture = urnfielder
@@ -43,5 +36,3 @@ native_hostileness = 3
 1763.1.1 = { unrest = 4 } # Slave rebellion
 1770.1.1 = { unrest = 5 } # Slave rebellion
 1772.1.1 = { unrest = 0 }
-1799.8.1 = { controller = GBR } # Occupied by British troops
-1801.2.9 = { controller = NED }

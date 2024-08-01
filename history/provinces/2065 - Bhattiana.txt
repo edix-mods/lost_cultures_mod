@@ -1,7 +1,5 @@
 #2065 - Bhattiana
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Hisar"
@@ -10,10 +8,6 @@ hre = no
 base_tax = 3
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = GIK
-add_core = SRH
-add_core = MUL
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = nomad_group

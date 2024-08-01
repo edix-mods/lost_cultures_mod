@@ -1,9 +1,5 @@
 # No previous file for Daura
 
-owner = KTS
-controller = KTS
-add_core = KTS
-is_city = yes
 culture = hausa 
 religion = sunni
 capital = "Daura"
@@ -22,7 +18,4 @@ discovered_by = sub_saharan
 
 
 1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
 } # The Fulani Empire

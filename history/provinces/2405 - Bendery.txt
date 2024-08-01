@@ -1,7 +1,5 @@
 #2405 - Bender
 
-owner = MOL
-controller = MOL
 culture = dacian
 religion = orthodox
 capital = "Bender"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = MOL
 
 
 

@@ -1,9 +1,5 @@
 #1125 - Worodugu
 
-owner = KNG
-controller = KNG
-add_core = KNG
-is_city = yes
 culture = gur
 religion = shamanism #Fetishism
 capital = "Kong"

@@ -1,8 +1,6 @@
 #4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
 
 #Coal
-owner = KIE
-controller = KIE
 culture = slavic
 religion = surooriyah
 capital = "Uman"
@@ -10,9 +8,7 @@ trade_goods = grain
 hre = no
 base_tax = 1
 base_production = 1
-is_city = yes 
 base_manpower = 1
-add_core = KIE
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,18 +1,18 @@
 #361 - Cairo
 
-owner = MHD
-controller = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = lower_egyptian
 religion = sunni
-capital = "Al Qahira"
+capital = "Memphis"
 trade_goods = cloth
 hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 4
-is_city = yes
 fort_15th = yes 
-add_core = MHD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

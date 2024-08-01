@@ -1,7 +1,5 @@
 #578 - Roh
 
-owner = KHL
-controller = KHL
 culture = gandhari
 religion = sunni
 capital = "Peshawar"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 2 
 base_production = 3
 base_manpower = 1
-is_city = yes
 fort_15th = yes # Bala Hissar
-add_core = KHL
 discovered_by = KAS
 discovered_by = indian
 discovered_by = muslim

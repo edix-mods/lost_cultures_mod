@@ -1,6 +1,6 @@
 #2725 - Aru
 
-culture = polyniesian
+culture = polynesian
 religion = animism
 capital = "Aru"
 trade_goods = unknown

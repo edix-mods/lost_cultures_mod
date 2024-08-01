@@ -1,8 +1,5 @@
 #368 - Madeira
 
-owner = MOR
-controller = MOR
-add_core = MOR
 culture = berber
 religion = animism
 capital = "Funchal"

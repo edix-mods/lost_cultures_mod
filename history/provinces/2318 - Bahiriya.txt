@@ -1,13 +1,13 @@
 #2318 - Bahariya
 
-owner = MHD
-controller = MHD 
-add_core = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = numidian
 religion = sunni
-capital = "el Qasr"
-is_city = yes
-base_manpower = 2
+capital = "Deses"
+base_manpower = 1
 trade_goods = livestock
 hre = no
 base_tax = 1 

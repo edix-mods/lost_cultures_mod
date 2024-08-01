@@ -1,7 +1,5 @@
 #297 - Bryansk
 
-owner = SMO
-controller = SMO
 culture = slavic
 religion = surooriyah 
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = grain
 base_manpower = 1
 capital = "Bryansk"
-is_city = yes
-add_core = SMO
 
 
 

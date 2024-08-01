@@ -1,7 +1,4 @@
 #Fyn-Langeland
-add_core = DAN
-owner = DAN
-controller = DAN
 culture = germanic_c
 religion = catholic
 hre = no
@@ -10,7 +7,6 @@ base_production = 3
 trade_goods = fish
 base_manpower = 2
 capital = "Odense"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -4,8 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = PNN
-controller = PNN 
 culture = vucedolian
 religion = catholic
 capital = "Blatnograd"
@@ -14,11 +12,9 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = yes
 fort_15th = yes
 extra_cost = 8
 center_of_trade = 1
-add_core = PNN
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

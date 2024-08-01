@@ -1,6 +1,6 @@
 #647 - Ceram
 
-culture = polyniesian
+culture = polynesian
 religion = animism
 capital = "Ceram"
 trade_goods = unknown
@@ -20,13 +20,9 @@ discovered_by = chinese
 
 1650.1.1 = {
 	discovered_by = NED
-	owner = NED
-	controller = NED
 	culture = urnfielder
 	religion = reformed
-	is_city = yes
 	trade_goods = spices
 } # Loosely controlled by the Dutch
-1675.1.1 = { add_core = NED }
 1780.1.1 = { unrest = 6 } # Rebellion against the Dutch
 1810.1.1 = { unrest = 0 }

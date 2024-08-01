@@ -1,12 +1,8 @@
 #1186 - Sofala
 
-owner = SFA
-controller = SFA
-add_core = SFA
 culture = khoisan
 religion = sunni
 capital = "Sofala"
-is_city = yes
 base_manpower = 2
 trade_goods = gold
 hre = no
@@ -22,9 +18,6 @@ center_of_trade = 1
 
 1498.1.25 = { discovered_by = POR } #Vasco Da Gama
 1505.1.1 = { 
-	owner = POR 
-	controller = POR 
-	add_core = POR 
 	unrest = 3
 	add_to_trade_company = POR
 	add_trade_company_investment = {

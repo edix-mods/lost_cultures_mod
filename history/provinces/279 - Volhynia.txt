@@ -1,7 +1,5 @@
 #279 - Volhynia
 
-owner = VOL
-controller = VOL
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 4
 trade_goods = livestock  
 base_manpower = 2
 capital = "Volodymyr"
-is_city = yes
-add_core = VOL
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

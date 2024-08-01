@@ -1,8 +1,5 @@
 #Smålenene, incl. Mossedal, Heggen og Fröland, Vemme, Rakkestad, Idd og Marker, Onsöy, Verne Kloster, Moss, Tune og Åbygge and part of Nedre Romerike.
  
-owner = NOR
-controller = NOR
-add_core = NOR
 culture = germanic_c
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Moss"
-is_city = yes
 estate = estate_church
 discovered_by = eastern
 discovered_by = western

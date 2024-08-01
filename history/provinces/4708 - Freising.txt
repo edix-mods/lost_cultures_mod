@@ -1,7 +1,4 @@
-owner = GER
-controller = GER
 capital = "Freising"
-is_city = yes
 culture = hallstatt
 religion = catholic
 hre = no
@@ -9,9 +6,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = grain #Weihenstephaner beer
-add_core = GER
-add_core = LBV
-add_core = BAV
 
 discovered_by = eastern
 discovered_by = western

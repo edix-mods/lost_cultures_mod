@@ -1,9 +1,5 @@
 # No previous file for Saone
 
-add_core = WCY
-owner = WCY
-controller = WCY
-is_city = yes
 culture = dakota
 religion = totemism
 capital = "Saone"
@@ -19,9 +15,5 @@ native_hostileness = 6
 discovered_by = north_american
 
 1710.1.1 = {
-	owner = ---
-	controller = ---
-	is_city = no
-	tribal_owner = SIO
 }
 

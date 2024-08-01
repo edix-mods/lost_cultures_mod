@@ -1,8 +1,5 @@
 #1078 - Middle Urals
 
-owner = HUN
-controller = HUN
-add_core = HUN
 capital = "Neromkar"
 culture = ugric
 religion = tengri_pagan_reformed 

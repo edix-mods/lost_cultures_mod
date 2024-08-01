@@ -1,6 +1,6 @@
 # No previous file for Klamath
 
-culture = yurok
+culture = palaihnihan
 religion = totemism
 capital = "Klamath"
 trade_goods = unknown

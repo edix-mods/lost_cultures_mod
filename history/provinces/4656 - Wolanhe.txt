@@ -1,8 +1,5 @@
 # Wolanhe
 
-owner = NHX
-controller = NHX
-add_core = NHX
 culture = nivkh
 religion = tengri_pagan_reformed
 capital = "Wolanhe"
@@ -11,6 +8,5 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group

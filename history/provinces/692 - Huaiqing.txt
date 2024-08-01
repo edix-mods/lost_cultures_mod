@@ -1,8 +1,5 @@
 #692 - Handan
 
-owner = JIN
-controller = JIN
-add_core = JIN
 culture = sinitic_c
 religion = confucianism
 capital = "Huaiqing"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
 
 
 

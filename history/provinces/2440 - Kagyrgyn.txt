@@ -1,8 +1,5 @@
 #2440 - Kagyrgyn
 
-owner = CHV
-controller = CHV
-add_core = CHV
 culture = chukchi
 religion = tengri_pagan_reformed
 capital = "Kagyrgyn"

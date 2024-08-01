@@ -1,7 +1,5 @@
 #4417 - Kanchipuram
 
-owner = KRK
-controller = KRK
 culture = tamil
 religion = hinduism
 capital = "Kanchipuram"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 1
-is_city = yes
-add_core = KRK
 
 discovered_by = indian
 discovered_by = nomad_group

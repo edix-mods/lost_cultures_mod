@@ -1,9 +1,6 @@
 # 175 Armagnac - Principal cities: Auch
 
-owner = AMG
-controller = AMG
 capital = "Auch"
-is_city = yes
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -13,7 +10,6 @@ trade_goods = wool
 base_manpower = 4
 add_local_autonomy = 25
 estate = estate_nobles
-add_core = AMG
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

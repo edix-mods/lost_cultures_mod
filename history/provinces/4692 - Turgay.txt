@@ -1,7 +1,5 @@
 # 4692 - Turgay
 
-owner = SHY
-controller = SHY
 culture = ugric
 religion = sunni
 capital = "Zhakeikin"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = SHY
 
 
 

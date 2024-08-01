@@ -1,7 +1,5 @@
 #4251 - Mozhaisk
 
-owner = MOS
-controller = MOS   
 culture = baltic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = grain  
 base_manpower = 2
 capital = "Mozhaisk"
-is_city = yes
-add_core = MOS
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL

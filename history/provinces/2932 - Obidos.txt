@@ -1,8 +1,5 @@
 # - Waddai
 
-owner = WAD
-controller = WAD
-add_core = WAD
 culture = saharan 
 religion = shamanism #Fetishism
 capital = "Ouara"

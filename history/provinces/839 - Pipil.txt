@@ -1,9 +1,5 @@
 #839 - Pipil
 
-owner = CHT
-controller = CHT
-add_core = CHT
-is_city = yes
 culture = highland_mayan 
 religion = mesoamerican_religion
 capital = "Pipil" 
@@ -26,11 +22,7 @@ discovered_by = mesoamerican
 1522.5.31 = { discovered_by = SPA } # Andres Nino 
 
 1525.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
 	capital = "San Salvador"
 	culture = castillian
 	religion = catholic
 } 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

@@ -1,9 +1,5 @@
 # Cirebon
 
-owner = SUV
-controller = SUV
-add_core = SUV
-add_core = CRB
 culture = malayan
 religion = hinduism
 capital = "Cirebon"
@@ -12,7 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
 
 
 

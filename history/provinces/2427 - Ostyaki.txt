@@ -1,8 +1,5 @@
 #2427 - Ostyaki
 
-owner = SHY
-controller = SHY
-add_core = SHY
 capital = "Ket"
 culture = ugric
 religion = tengri_pagan_reformed

@@ -1,7 +1,5 @@
 #334 - Tangiers
 
-owner = MOR
-controller = MOR 
 culture = atlasian
 religion = sunni
 capital = "Tangier"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = MOR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

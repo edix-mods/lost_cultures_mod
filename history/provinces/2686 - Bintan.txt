@@ -1,7 +1,5 @@
 #2686 - Bintan
 
-owner = JOH
-controller = JOH
 culture = malayan
 religion = mahayana
 capital = "Tanjungpinaung"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = JOH
 
 
 

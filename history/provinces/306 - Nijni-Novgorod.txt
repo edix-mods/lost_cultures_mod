@@ -1,7 +1,5 @@
 #306 - Nijni-Novgorod
 
-owner = NZH
-controller = NZH
 culture = finnopermic
 religion = surooriyah
 hre = no
@@ -10,9 +8,7 @@ base_production = 4
 trade_goods = copper 
 base_manpower = 3
 capital = "Nizhny Novgorod"
-is_city = yes
 fort_15th = yes
-add_core = NZH
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

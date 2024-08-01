@@ -1,7 +1,5 @@
 #573 - Cachar
 
-owner = KAC
-controller = KAC
 culture = khasic
 religion = hinduism
 capital = "Maibang"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = KAC
 
 
 

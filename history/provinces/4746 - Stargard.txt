@@ -1,10 +1,5 @@
 # 4746 - Stargard
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = POM
-add_core = STE
 culture = germanic_c
 religion = catholic
 base_tax = 3
@@ -12,7 +7,6 @@ base_production = 3
 trade_goods = naval_supplies
 base_manpower = 3
 capital = "Stargard"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

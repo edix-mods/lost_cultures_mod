@@ -1,7 +1,5 @@
 #2063 - Etawah
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Etawah"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = GIK
-add_core = JNP
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

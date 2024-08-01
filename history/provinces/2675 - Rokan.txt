@@ -1,7 +1,5 @@
 #2675 - Rokan
 
-owner = DLI
-controller = DLI
 culture = malayan
 religion = hinduism
 capital = "Rokan"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = DLI
 
 
 

@@ -24,18 +24,11 @@ discovered_by = ottoman
 1509.1.1 = { discovered_by = POR }
 
 1550.1.1 = {
-	owner = BAN
-	controller = BAN
-	add_core = BAN
-	is_city = yes
 	trade_goods = spices
 	religion = sunni
 	
 } # Banten Sultanate expanded the influence in South Sumatra
 1685.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
 	remove_core = BAN
 	add_to_trade_company = ENG
 	add_trade_company_investment = {
@@ -56,9 +49,6 @@ discovered_by = ottoman
 	}
 } # British Bencoolen
 1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = ENG
 	add_to_trade_company = GBR
 	add_trade_company_investment = {

@@ -1,5 +1,3 @@
-owner = AYU
-controller = AYU
 culture = mon
 religion = buddhism
 capital = "Suphanburi"
@@ -8,8 +6,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = AYU
 
 
 

@@ -1,7 +1,5 @@
 #336 - Tlemcen
 
-owner = ALG
-controller = ALG 
 culture = southern_berber
 religion = sunni
 capital = "Tlemcen"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 3
-is_city = yes
 fort_15th = yes #Tlemcen Fortifications, site of many long sieges - Controls this area.
-add_core = ALG
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

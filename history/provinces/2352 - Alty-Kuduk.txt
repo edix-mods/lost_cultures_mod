@@ -1,7 +1,5 @@
 # 2352 - Alty-Kuduk
 
-owner = SHY
-controller = SHY
 culture = saka
 religion = sunni
 capital = "Alty-Kuduk"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = SHY
 
 
 discovered_by = iranian

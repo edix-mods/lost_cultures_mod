@@ -1,6 +1,4 @@
 # - Kairwan
-owner = TUN
-controller = TUN 
 culture = numidian
 religion = sunni
 capital = "Kairwan"
@@ -9,8 +7,6 @@ hre = no
 base_tax = 4
 base_production = 5
 base_manpower = 1
-is_city = yes
-add_core = TUN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

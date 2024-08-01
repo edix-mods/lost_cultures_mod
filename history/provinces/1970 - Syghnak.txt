@@ -1,7 +1,5 @@
 #1970 - Syghnak
 
-owner = SHY
-controller = SHY
 culture = saka
 religion = sunni
 capital = "Syghnak"
@@ -10,8 +8,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 hre = no
-is_city = yes
-add_core = SHY
 discovered_by = iranian
 discovered_by = KAS
 discovered_by = muslim

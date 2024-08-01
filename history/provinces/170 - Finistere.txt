@@ -1,9 +1,6 @@
 # 170 Finistère - Principal cities: Brest
 
-owner = BRI
-controller = BRI
 capital = "Brest"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 3
 trade_goods = naval_supplies
 base_manpower = 4
-add_core = BRI
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

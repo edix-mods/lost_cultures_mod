@@ -1,7 +1,5 @@
 #401 - Dhofar
 
-owner = MHR
-controller = MHR
 culture = mahri
 religion = sunni
 capital = "Salalah"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHR
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

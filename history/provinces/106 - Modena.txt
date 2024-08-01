@@ -1,7 +1,5 @@
 #106 - Modena
 
-owner = ITA
-controller = ITA
 culture = etruscan 
 religion = catholic 
 hre = yes 
@@ -10,10 +8,6 @@ base_production = 5
 trade_goods = livestock
 base_manpower = 2  
 capital = "Modena" 
-is_city = yes
-add_core = ITA
-add_core = FER
-add_core = MOD
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,5 @@
 #2377- Teuk Khmao
 
-owner = KHM
-controller = KHM
 culture = khmer
 religion = hinduism
 capital = "Oc Eo"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = KHM
 
 
 
@@ -25,8 +21,5 @@ discovered_by = ottoman
 1769.1.1 = { unrest = 6 } # Tay Son Rebellion
 1788.9.1 = {
 	unrest = 0
-	owner = ANN
-	controller = ANN
-	add_core = ANN
 	remove_core = KHM
 } # Nguyen recovered the land

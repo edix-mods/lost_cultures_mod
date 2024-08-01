@@ -1,7 +1,5 @@
 #507 - Lahore
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Lahore"
@@ -10,11 +8,6 @@ hre = no
 base_tax = 10
 base_production = 10
 base_manpower = 3
-is_city = yes
-add_core = GIK
-add_core = MUL
-add_core = PUN
-add_core = SRH
 fort_15th = yes #Lahore Fort
 #Data Durbar Complex
 discovered_by = indian

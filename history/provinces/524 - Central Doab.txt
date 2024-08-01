@@ -1,7 +1,5 @@
 #524 - Central Doab
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Mathura"
@@ -11,9 +9,6 @@ base_tax = 10
 base_production = 10
 base_manpower = 4
 add_brahmins_or_church_effect = yes
-is_city = yes
-add_core = GIK
-add_core = JNP
 fort_15th = yes # Badalgarh
 discovered_by = indian
 discovered_by = muslim

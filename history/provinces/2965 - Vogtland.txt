@@ -1,7 +1,5 @@
 # - Vogtland
 
-owner = GER
-controller = GER
 culture = knovizian
 religion = catholic
 capital = "Plauen"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = GER
-add_core = SAX
 
 discovered_by = eastern
 discovered_by = western

@@ -1,13 +1,12 @@
 #2765 - Assab
 
-owner = ADA
-controller = ADA
-add_core = ADA
-add_core = AFA
+owner = PNT
+controller = PNT
+add_core = PNT
+is_city = yes
 culture = geez
 religion = sunni
 capital = "Assab"
-is_city = yes
 base_manpower = 1
 trade_goods = livestock
 hre = no

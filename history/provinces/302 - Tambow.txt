@@ -1,7 +1,5 @@
 #302 - Tambow
 
-owner = GLH
-controller = GLH
 culture = slavic
 religion = sunni
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = iron   
 base_manpower = 3
 capital = "Tambov"
-is_city = yes
-add_core = GLH
 
 
 

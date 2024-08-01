@@ -1,9 +1,5 @@
 #52 - Altmark
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BRA
 culture = germanic_c
 religion = catholic
 hre = no
@@ -12,7 +8,6 @@ base_production = 3
 trade_goods = cloth
 base_manpower = 2
 capital = "Stendal"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

@@ -1,12 +1,12 @@
 #4323 - Farafreh
 
-owner = MHD
-controller = MHD 
-add_core = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = numidian
 religion = sunni
-capital = "Farafreh"
-is_city = yes
+capital = "Ana Akhet"
 base_manpower = 1
 trade_goods = livestock
 hre = no

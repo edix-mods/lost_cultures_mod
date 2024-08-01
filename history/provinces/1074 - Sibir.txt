@@ -1,8 +1,5 @@
 #1074 - Sibir
 
-owner = SHY
-controller = SHY
-add_core = SHY
 culture = ugric
 religion = tengri_pagan_reformed
 capital = "Qashliq"

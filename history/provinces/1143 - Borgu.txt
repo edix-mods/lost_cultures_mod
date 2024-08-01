@@ -1,9 +1,5 @@
 #1143 - Borgu
 
-owner = GUR
-controller = GUR
-add_core = GUR
-is_city = yes
 culture = gur 
 religion = shamanism #Fetishism
 capital = "Bussa"
@@ -29,7 +25,4 @@ discovered_by = sub_saharan
 1700.1.1 = { capital = "Nikki" } #shift in center of power among Borgu kingdoms in wake of Oyo invasions
 1804.1.1 = { discovered_by = SOK }
 1806.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
 } # The Fulani Empire

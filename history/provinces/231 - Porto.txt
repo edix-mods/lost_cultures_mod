@@ -1,7 +1,5 @@
 #231 - Porto
 
-owner = POR
-controller = POR
 culture = paleoiberian
 religion = catholic
 capital = "Porto"
@@ -10,9 +8,7 @@ hre = yes
 base_tax = 4 
 base_production = 3
 base_manpower = 3
-is_city = yes
 estate = estate_church #Braga
-add_core = POR
 fort_15th = yes
 discovered_by = western
 discovered_by = muslim

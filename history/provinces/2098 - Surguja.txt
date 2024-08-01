@@ -1,7 +1,5 @@
 #2098 - Surguja
 
-owner = NGP
-controller = NGP
 culture = gondi
 religion = hinduism
 capital = "Surguja"
@@ -10,10 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = NGP
-add_core = SRG
-add_core = RTT
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 

@@ -1,9 +1,5 @@
 #873 - Chinook
 
-owner = CNK
-controller = CNK
-add_core = CNK
-is_city = yes
 culture = plateau_penutian
 religion = totemism
 capital = "Chinook" 

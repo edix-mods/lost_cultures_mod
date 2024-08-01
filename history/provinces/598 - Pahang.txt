@@ -1,7 +1,5 @@
 #598 - Pahang
 
-owner = PAH
-controller = PAH
 culture = aslian
 religion = mahayana
 capital = "Pahang"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
-add_core = PAH
 
 
 
@@ -23,6 +19,4 @@ discovered_by = ottoman
 1516.1.1 = { discovered_by = POR }
 
 1528.1.1 = {
-	owner = JOH
-	controller = JOH
 }

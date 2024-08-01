@@ -1,7 +1,9 @@
 #317 - Bursa
 
-owner = BYZ
-controller = BYZ
+owner = MYS
+controller = MYS
+add_core = MYS
+is_city = yes
 culture = mysian
 religion = orthodox
 capital = "Prusa"
@@ -10,8 +12,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

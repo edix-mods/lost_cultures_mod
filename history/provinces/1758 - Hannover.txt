@@ -1,7 +1,5 @@
 #1758 - Hannover
 
-owner = GER
-controller = GER
 culture = urnfielder
 religion = catholic
 capital = "Hannover"
@@ -10,11 +8,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 fort_15th = yes
-is_city = yes
-add_core = BRU
-add_core = CLB
-add_core = GER
-add_core = HAN
 
 discovered_by = eastern
 discovered_by = western

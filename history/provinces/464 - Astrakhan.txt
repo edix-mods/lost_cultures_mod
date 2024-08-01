@@ -1,7 +1,5 @@
 #464 - Astrakhan
 
-owner = GLH
-controller = GLH 
 culture = sarmatian
 religion = sunni
 capital = "Hajitarkhan"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 5
-is_city = yes
-add_core = GLH
 
 
 

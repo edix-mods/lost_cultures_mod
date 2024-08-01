@@ -1,8 +1,5 @@
 #215 - Valladolid
 
-owner = LON		#Juan II of Castille
-controller = LON
-add_core = LON
 culture = vettonic	
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = wool 
 base_manpower = 2
 capital = "Valladolid"
-is_city = yes
 #estate = estate_burghers
 discovered_by = western
 discovered_by = eastern

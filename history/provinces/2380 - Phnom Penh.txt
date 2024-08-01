@@ -1,7 +1,5 @@
 #2380 - Phnom Penh
 
-owner = KHM
-controller = KHM
 culture = khmer
 religion = buddhism
 capital = "Chaktomuk"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = KHM
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

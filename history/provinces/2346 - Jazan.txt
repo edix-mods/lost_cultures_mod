@@ -1,7 +1,9 @@
 #2346 - Jazan
 
-owner = MHD
-controller = MHD
+owner = MAI
+controller = MAI
+add_core = MAI
+is_city = yes
 culture = minaean
 religion = sunni
 capital = "Jazan"
@@ -10,9 +12,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = MHD
-add_core = YEM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

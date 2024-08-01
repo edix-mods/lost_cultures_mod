@@ -1,12 +1,8 @@
 #1200 - Tanga
 
-owner = MBA
-controller = MBA
-add_core = MBA
 culture = south_cushitic
 religion = shamanism #Fetishism
 capital = "Vumba Kuu"
-is_city = yes
 base_manpower = 2
 add_local_autonomy = 35
 trade_goods = ivory

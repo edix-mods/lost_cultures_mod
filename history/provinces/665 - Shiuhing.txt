@@ -1,7 +1,5 @@
 #665 - Jiangmen
 
-owner = CZH
-controller = CZH
 culture = southern_kradai
 religion = confucianism
 capital = "Shiuhing"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = CZH
 
 
 discovered_by = chinese

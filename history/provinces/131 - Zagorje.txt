@@ -1,7 +1,5 @@
 #131 - Zagorje
 
-owner = CRO
-controller = CRO
 culture = illyrian
 religion = catholic
 capital = "Zagreb"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 2
-is_city = yes
 fort_15th = yes
-add_core = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

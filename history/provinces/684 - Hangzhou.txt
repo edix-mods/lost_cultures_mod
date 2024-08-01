@@ -1,8 +1,5 @@
 #684 - Hangzhou (can't change file name)
 
-owner = WUU
-controller = WUU
-add_core = WUU
 culture = mien
 religion = confucianism
 capital = "Hangzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 9 
 base_production = 9
 base_manpower = 3
-is_city = yes
 fort_15th = yes 
 
 discovered_by = chinese

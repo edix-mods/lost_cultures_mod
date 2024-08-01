@@ -1,7 +1,5 @@
 #2213 - Qom
 
-owner = QOM
-controller = QOM
 culture = median
 religion = zoroastrian
 capital = "Qom"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 6
 base_manpower = 4
-is_city = yes
-add_core = QOM
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

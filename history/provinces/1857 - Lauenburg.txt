@@ -1,10 +1,5 @@
 #1857 - Lauenburg
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAN
-add_core = LAU
 culture = germanic_c
 religion = catholic
 capital = "Lauenburg"
@@ -13,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

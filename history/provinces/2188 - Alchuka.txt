@@ -1,8 +1,5 @@
 # 2188 - Alchuka
 
-owner = MHX
-controller = MHX
-add_core = MHX
 culture = maek
 religion = tengri_pagan_reformed
 capital = "Alchuka"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = yes
 
 
 

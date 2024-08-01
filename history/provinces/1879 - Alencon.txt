@@ -1,9 +1,6 @@
 # 1879 - Alençon
 
-owner = ALE
-controller = ALE
 capital = "Alençon"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 4
 base_production = 4
 trade_goods = livestock
 base_manpower = 3
-add_core = ALE
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

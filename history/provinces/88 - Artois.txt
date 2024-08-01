@@ -1,10 +1,6 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = PIC
-controller = PIC
-add_core = PIC
 capital = "Arras"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes

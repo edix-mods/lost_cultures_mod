@@ -1,8 +1,5 @@
 # 2162 - Ngchow
 
-owner = CZH
-controller = CZH
-add_core = CZH
 culture = southern_kradai
 religion = confucianism
 capital = "Ngchow"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
 
 
 

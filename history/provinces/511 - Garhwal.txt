@@ -1,7 +1,5 @@
 #511 - Garhwal
 
-owner = GHR
-controller = GHR
 culture = indoaryan_c
 religion = hinduism
 capital = "Devalgarh"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = GHR
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

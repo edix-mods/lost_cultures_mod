@@ -1,8 +1,5 @@
 #726 - Liaodong
 
-owner = LIO
-controller = LIO
-add_core = LIO
 culture = ye_c
 religion = sarvadharmayana
 capital = "Shenyang"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 2
-is_city = yes
 fort_15th = yes #the Nine Garrisons
 
 

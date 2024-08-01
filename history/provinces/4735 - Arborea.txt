@@ -1,7 +1,5 @@
 # 4725 - Arborea
 
-owner = SAR
-controller = SAR
 culture = nuragic 
 religion = catholic 
 hre = yes 
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = grain
 base_manpower = 2
 capital = "Arborea" 
-is_city = yes # Estimated 
-add_core = SAR
 
 discovered_by = western
 discovered_by = eastern

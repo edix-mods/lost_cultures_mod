@@ -1,8 +1,5 @@
 #1055 - Verkne-Angarsky
 
-owner = BRT
-controller = BRT
-add_core = BRT
 culture = sugunnakh
 religion = tengri_pagan_reformed
 capital = "Kirenga"

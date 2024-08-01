@@ -1,8 +1,5 @@
 #1863 - Graz
 
-owner = CRO
-controller = CRO
-add_core = CRO
 culture = illyrian
 religion = catholic
 base_tax = 2 
@@ -10,7 +7,6 @@ base_production = 2
 trade_goods = livestock
 base_manpower = 1
 capital = "Požega" 
-is_city = yes
 hre = no
 discovered_by = KAZ
 discovered_by = CRI

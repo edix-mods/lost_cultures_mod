@@ -4,8 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = GER
-controller = GER
 capital = "Olomouc"
 culture = lusatian
 religion = hussite
@@ -14,10 +12,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = GER
-add_core = BOH
-add_core = MVA
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

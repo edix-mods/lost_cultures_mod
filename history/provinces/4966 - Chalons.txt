@@ -1,9 +1,6 @@
 # 186 Champagne - Principal cities: Reims
 
-owner =CHP
-controller = CHP
 capital = "Chalons-en-Champagne"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 1
-add_core = CHP
 
 discovered_by = eastern
 discovered_by = western

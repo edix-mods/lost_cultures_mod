@@ -1,8 +1,5 @@
 #476 - Kypshak
 
-owner = SHY
-controller = SHY
-add_core = SHY
 culture = saka
 religion = sunni
 capital = "Orda-Bazar"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 6
-is_city = yes
 
 
 

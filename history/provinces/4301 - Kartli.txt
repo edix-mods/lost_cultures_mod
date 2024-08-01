@@ -1,7 +1,5 @@
 #4301 - Kartli
 
-owner = GEO
-controller = GEO
 culture = kartli
 religion = orthodox
 capital = "Gori"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = GEO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

@@ -1,7 +1,5 @@
 #137 - Ragusa
 
-owner = RAG
-controller = RAG
 culture = illyrian
 religion = catholic
 capital = "Ragusa"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 6
 base_manpower = 3
-is_city = yes
-add_core = RAG
-add_core = DAL
 fort_15th = yes
 
 discovered_by = KAZ

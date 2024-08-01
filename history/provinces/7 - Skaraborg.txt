@@ -1,8 +1,5 @@
 #Skaraborg, contains Skara, Skövde etc.
 
-add_core = SWE
-owner = SWE
-controller = SWE
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 2
 trade_goods = grain
 base_manpower = 2
 capital = "Skara"
-is_city = yes
  #"Domkyrkan i Skara"
 discovered_by = eastern
 discovered_by = western

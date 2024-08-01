@@ -1,10 +1,5 @@
 #4772 - Celle
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAN
-add_core = LUN
 culture = urnfielder
 religion = catholic
 capital = "Celle"
@@ -12,7 +7,6 @@ trade_goods = livestock
 base_tax = 2
 base_production = 2
 base_manpower = 2
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

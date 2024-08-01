@@ -1,9 +1,4 @@
 
-owner = SUV
-controller = SUV
-add_core = SUV
-add_core = DMK
-add_core = MTR
 culture = malayan
 religion = hinduism
 capital = "Pekalongan"
@@ -12,7 +7,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
 
 
 

@@ -1,17 +1,17 @@
 #380 - Al Karak
 
-owner = MHD
-controller = MHD
+owner = MOA
+controller = MOA
+add_core = MOA
+is_city = yes
 culture = canaanite
 religion = sunni
-capital = "Al Karak"
+capital = "Dibon"
 trade_goods = grain
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

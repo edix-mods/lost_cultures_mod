@@ -1,9 +1,6 @@
 # 4710 - Vorarlberg
 
-owner = GER
-controller = GER
 capital = "Bregenz"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = no
@@ -11,10 +8,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 trade_goods = wool
-add_core = HAB
-add_core = GER
-add_core = MBZ
-#add_core = TIR
 
 discovered_by = eastern
 discovered_by = western

@@ -1,7 +1,5 @@
 #Kudymkar
 
-owner = HUN
-controller = HUN
 capital = "Kudymkar"
 culture = finnopermic
 religion = tengri_pagan_reformed #Sami Shamanism
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = HUN
 
 
 

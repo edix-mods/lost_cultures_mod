@@ -1,9 +1,6 @@
 # 185 Nemours
 
-owner = CHP
-controller = CHP
 capital = "Nemours"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ base_production = 5
 trade_goods = paper
 base_manpower = 5
 estate = estate_church
-add_core = CHP
 
 discovered_by = eastern
 discovered_by = western

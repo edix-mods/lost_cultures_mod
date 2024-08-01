@@ -1,8 +1,5 @@
 # - Capitanata
 
-owner = BNV
-controller = BNV
-add_core = BNV
 culture = oscan 
 religion = catholic 
 hre = yes 
@@ -11,7 +8,6 @@ base_production = 4
 trade_goods = livestock
 base_manpower = 3
 capital = "Foggia"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

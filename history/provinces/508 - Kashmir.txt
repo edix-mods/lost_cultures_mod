@@ -1,7 +1,5 @@
 #508 - Kashmir
 
-owner = KHL
-controller = KHL
 culture = indoaryan_c
 religion = hinduism
 capital = "Srinagar"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = KHL
-add_core = KSH
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

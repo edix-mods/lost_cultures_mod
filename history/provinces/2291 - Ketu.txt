@@ -1,9 +1,5 @@
 # No previous file for Ketu
 
-owner = OYO
-controller = OYO
-add_core = OYO
-is_city = yes
 culture = voltaniger 
 religion = shamanism #Fetishism
 capital = "Ketu"

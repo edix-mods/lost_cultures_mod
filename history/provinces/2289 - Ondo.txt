@@ -1,9 +1,5 @@
 # No previous file for Ondo
 
-owner = BEN
-controller = BEN
-add_core = BEN
-is_city = yes
 culture = voltaniger 
 religion = shamanism #Fetishism
 capital = "Ondo"
@@ -22,7 +18,4 @@ discovered_by = sub_saharan
 
 
 1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
 } # The Fulani Empire

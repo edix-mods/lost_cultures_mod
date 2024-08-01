@@ -1,7 +1,5 @@
 #234 - Westseaxe
 
-owner = WSX
-controller = WSX
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -11,8 +9,6 @@ trade_goods = cloth
 base_manpower = 6
 capital = "Witanceastre"
 seat_in_parliament = yes
-is_city = yes
-add_core = WSX
 fort_15th = yes
 #Salisbury and Winchester Cathedrals
 discovered_by = western

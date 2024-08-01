@@ -1,7 +1,5 @@
 # 4734 - Avellino
 
-owner = NAP
-controller = NAP
 culture = oscan 
 religion = catholic 
 hre = yes 
@@ -10,8 +8,6 @@ base_production = 4
 trade_goods = grain 
 base_manpower = 3
 capital = "Avellino" 
-is_city = yes	# Estimated
-add_core = NAP
 
 discovered_by = western
 discovered_by = eastern

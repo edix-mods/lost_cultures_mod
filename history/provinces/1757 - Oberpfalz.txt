@@ -1,11 +1,5 @@
 #1757 - Oberpfalz
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BAV
-add_core = PAL
-add_core = BYT
 culture = urnfielder
 religion = catholic
 base_tax = 3
@@ -13,7 +7,6 @@ base_production = 3
 trade_goods = iron
 base_manpower = 3
 capital	= "Amberg" 
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

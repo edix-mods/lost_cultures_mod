@@ -1,7 +1,5 @@
 #564 - Dakha
 
-owner = GIK
-controller = GIK
 culture = munda
 religion = hellodharmism
 capital = "Dakha"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = GIK
-add_core = BNG
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

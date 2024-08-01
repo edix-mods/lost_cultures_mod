@@ -1,13 +1,8 @@
 #2772 - Dembiya
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = BTI
 culture = amharic 
 religion = jewish
 capital = "Gorgora"
-is_city = yes
 base_manpower = 2
 trade_goods = cotton
 hre = no

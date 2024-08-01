@@ -1,9 +1,4 @@
 #4774 - Fulda
-owner = GER
-controller = GER
-add_core = GER
-add_core = HES
-add_core = WBG
 culture = urnfielder
 religion = catholic
 base_tax = 2
@@ -11,7 +6,6 @@ base_production = 2
 trade_goods = grain
 base_manpower = 1
 capital = "Fulda"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

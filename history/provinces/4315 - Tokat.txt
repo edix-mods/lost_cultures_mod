@@ -1,7 +1,9 @@
 #1846 - Amasya
 
-owner = BYZ
-controller = BYZ
+owner = MUS
+controller = MUS
+add_core = MUS
+is_city = yes
 culture = hattic
 religion = orthodox
 capital = "Tokat"
@@ -10,10 +12,6 @@ hre = no
 base_tax = 3
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = BYZ
-
-
 
 discovered_by = western
 discovered_by = eastern

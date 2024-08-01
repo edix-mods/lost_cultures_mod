@@ -1,0 +1,16 @@
+#5022 - Barsip
+
+owner = BIA
+controller = BIA
+add_core = BIA
+is_city = yes
+culture = aramaic
+religion = sunni
+capital = "Til Barsip"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = muslim

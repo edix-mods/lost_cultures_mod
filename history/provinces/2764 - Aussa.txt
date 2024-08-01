@@ -1,13 +1,8 @@
 #2764 - Aussa
 
-owner = ADA
-controller = ADA
-add_core = ADA
-add_core = AFA
 culture = geez
 religion = sunni
 capital = "Aussa"
-is_city = yes
 base_manpower = 2
 trade_goods = livestock
 hre = no

@@ -1,17 +1,13 @@
 #4274 - Sudayr
 
-owner = NAJ
-controller = NAJ
 culture = ancient_arabian
 religion = sunni
 capital = "al-Hauta"
 trade_goods = grain
 hre = no
-base_tax = 2
+base_tax = 1
 base_production = 1
-base_manpower = 2
-is_city = yes
-add_core = NAJ
+base_manpower = 1
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

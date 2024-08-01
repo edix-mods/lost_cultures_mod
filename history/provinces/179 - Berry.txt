@@ -1,9 +1,6 @@
 # 179 Berry
 
-owner = BER
-controller = BER
 capital = "Bourges"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes

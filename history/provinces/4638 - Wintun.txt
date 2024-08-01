@@ -1,7 +1,7 @@
 # No previous file for Wintun
 
 
-culture = wiyot
+culture = wintuan
 religion = totemism
 capital = "Wintun"
 trade_goods = unknown

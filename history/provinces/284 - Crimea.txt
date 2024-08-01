@@ -1,7 +1,5 @@
 #284 - Crimea
 
-owner = GLH
-controller = GLH
 culture = cimmerian
 religion = sunni
 hre = no
@@ -10,8 +8,6 @@ base_production = 6
 trade_goods = salt
 base_manpower = 6
 capital = "Qirq-Yer"
-is_city = yes
-add_core = GLH
 
 
 

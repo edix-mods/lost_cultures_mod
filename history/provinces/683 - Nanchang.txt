@@ -1,8 +1,5 @@
 #683 - Nanchang
 
-owner = NNG
-controller = NNG
-add_core = NNG
 culture = mien
 religion = maitreya
 capital = "Nanchang"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 fort_15th = yes

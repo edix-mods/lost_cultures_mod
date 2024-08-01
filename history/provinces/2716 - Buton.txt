@@ -1,7 +1,5 @@
 #2716 - Buton
 
-owner = BTN
-controller = BTN
 culture = polynesian
 religion = animism
 capital = "Buton"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BTN
 
 
 

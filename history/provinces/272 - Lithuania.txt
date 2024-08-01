@@ -1,9 +1,6 @@
 #272 Lithuania
 
-owner = LIT
-controller = LIT
 capital = "Vilnius"
-is_city = yes
 culture = baltic
 religion = catholic
 trade_goods = grain
@@ -12,7 +9,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 fort_15th = yes #Vilnius Castle Complex
-add_core = LIT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

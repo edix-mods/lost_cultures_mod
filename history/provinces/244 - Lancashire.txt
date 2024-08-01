@@ -1,7 +1,5 @@
 #244 - Lancashire
 
-owner = NOL
-controller = NOL
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = wool
 base_manpower = 2
 capital = "Lonceastre"
-is_city = yes
-add_core = NOL
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

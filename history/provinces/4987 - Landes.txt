@@ -1,9 +1,6 @@
 # 174 Gascogne - Principal cities: Bordeaux
 
-owner = GUY
-controller = GUY
 capital = "Labrit"
-is_city = yes
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 2
 trade_goods = wine
 base_manpower = 1
-add_core = GUY
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

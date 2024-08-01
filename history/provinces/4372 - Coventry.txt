@@ -2,8 +2,6 @@
 #Staffordshire, Warwickshire
 
 #Coal
-owner = MRC
-controller = MRC
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -12,8 +10,6 @@ base_production = 3
 trade_goods = iron
 base_manpower = 2
 capital = "Cofestre"
-is_city = yes
-add_core = MRC
 fort_15th = yes
 discovered_by = western
 discovered_by = muslim

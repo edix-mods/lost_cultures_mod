@@ -1,10 +1,6 @@
 # No previous file for Zuni
 
-owner = ZNI
-controller = ZNI
-add_core = ZNI
-is_city = yes
-culture = pueblo
+culture = zuni_c
 religion = totemism
 capital = "Zuni"
 trade_goods = wool
@@ -19,6 +15,3 @@ native_hostileness = 2
 
 
 discovered_by = north_american
-
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-

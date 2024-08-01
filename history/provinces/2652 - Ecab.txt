@@ -1,10 +1,6 @@
 # No previous file for Ecab
 
 culture = yucatec
-owner = COC
-controller = COC
-add_core = COC
-is_city = yes
 religion = mesoamerican_religion
 capital = "Ecab"
 trade_goods = fish
@@ -24,9 +20,6 @@ discovered_by = mesoamerican
 1517.1.1 = { discovered_by = SPA }
 
 1547.1.1 = {
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
 	unrest = 5
 } # final defeat of eastern Yucatan alliance
 1572.1.1 = { 
@@ -34,4 +27,3 @@ discovered_by = mesoamerican
 	culture = castillian
 	religion = catholic 
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

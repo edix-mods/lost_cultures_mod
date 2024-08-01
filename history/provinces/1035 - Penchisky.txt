@@ -1,8 +1,5 @@
 #1035 - Penchisky
 
-owner = CHU
-controller = CHU
-add_core = CHU
 culture = alyutar
 religion = tengri_pagan_reformed
 capital = "Penzhinsky"

@@ -1,9 +1,5 @@
 # No previous file for Napochi
 
-owner = ABI
-controller = ABI
-add_core = ABI
-is_city = yes
 culture = yuchi_c
 religion = totemism
 capital = "Napochi"

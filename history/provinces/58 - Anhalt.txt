@@ -1,8 +1,5 @@
 #58 - Anhalt
 
-owner = GER
-controller = GER 
-add_core = GER
 culture = knovizian
 religion = catholic
 capital = "Dessau"
@@ -11,10 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 4
-is_city = yes
-add_core = GER
-add_core = SAX
-add_core = ANH
 
 discovered_by = eastern
 discovered_by = western

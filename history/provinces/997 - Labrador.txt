@@ -1,6 +1,6 @@
 #997 - Labrador
 
-culture = innu
+culture = algonquin
 religion = totemism
 capital = "Labrador"
 trade_goods = unknown

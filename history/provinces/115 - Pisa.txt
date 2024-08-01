@@ -1,7 +1,5 @@
 #115 - Pisa
 
-owner = PIS
-controller = PIS
 culture = etruscan
 religion = catholic
 hre = yes
@@ -10,8 +8,6 @@ base_production = 6
 trade_goods = wine
 base_manpower = 3
 capital = "Pisa"
-is_city = yes	# Estimated
-add_core = PIS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

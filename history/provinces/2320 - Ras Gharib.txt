@@ -1,17 +1,17 @@
 #2320 - Ras Gharib
 
-owner = MHD
-controller = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = beja
 religion = sunni
-capital = "Ras Gharib"
+capital = "Saww"
 trade_goods = fish
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 
 discovered_by = western
 discovered_by = muslim

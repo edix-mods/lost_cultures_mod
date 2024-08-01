@@ -1,10 +1,4 @@
 # 4751 - Cilli
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAB
-#add_core = STY
-add_core = CLI
 culture = illyrian
 religion = catholic
 base_tax = 3
@@ -12,7 +6,6 @@ base_production = 3
 trade_goods = wine
 base_manpower = 2
 capital = "Celje"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

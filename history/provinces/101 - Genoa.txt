@@ -1,8 +1,5 @@
 #101 - Liguria
 
-owner = GEN
-controller = GEN
-add_core = GEN
 culture = ligurian
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ trade_goods = paper
 base_manpower = 5
 fort_15th = yes
 capital = "Genova"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

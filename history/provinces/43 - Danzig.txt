@@ -1,8 +1,5 @@
 #43 - Danzig
 
-owner = DNZ
-controller = DNZ
-add_core = DNZ
 capital = "Danzig"
 culture = baltic
 religion = catholic
@@ -11,7 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,7 +1,5 @@
 #104 - Milano
 
-owner = LOM
-controller = LOM
 culture = lepontic
 religion = catholic
 hre = yes
@@ -10,8 +8,6 @@ base_production = 6
 trade_goods = cloth
 base_manpower = 4
 capital = "Milano"
-is_city = yes	# Estimated
-add_core = LOM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

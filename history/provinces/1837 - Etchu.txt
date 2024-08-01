@@ -1,7 +1,5 @@
 #1837 - Etchu
 
-owner = MAE
-controller = MAE
 culture = kori
 religion = shinto
 capital = "Kanazawa"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = MAE
-add_core = HTK
 fort_15th = yes #Nanao Castle
 discovered_by = chinese
 discovered_by = MCH

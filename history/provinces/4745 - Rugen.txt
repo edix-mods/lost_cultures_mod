@@ -1,11 +1,5 @@
 # 4745 - Rügen
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = POM
-add_core = RUG
-add_core = WOL
 culture = germanic_c
 religion = catholic
 base_tax = 2
@@ -13,7 +7,6 @@ base_production = 1
 trade_goods = fish
 base_manpower = 1
 capital = "Bergen auf Rügen"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

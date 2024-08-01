@@ -1,7 +1,5 @@
 #1931 - East Frisia
 
-owner = EFR
-controller = EFR
 culture = urnfielder
 religion = catholic
 capital = "Emden"
@@ -10,8 +8,6 @@ hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = EFR
 fort_15th = yes
 
 

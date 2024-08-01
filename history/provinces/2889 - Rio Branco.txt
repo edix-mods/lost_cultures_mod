@@ -20,17 +20,11 @@ native_hostileness = 6
 	discovered_by = SPA
 	discovered_by = POR
 
-	owner = SPA
-	controller = SPA
 	culture = castillian
 	religion = catholic
-	is_city = yes
 	trade_goods = tropical_wood
 }
 1772.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
 	culture = portugese
 	religion = catholic
 }

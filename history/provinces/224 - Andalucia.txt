@@ -1,8 +1,5 @@
 #224 - Andalucía
 
-owner = SEV
-controller = SEV
-add_core = SEV
 culture = tartessian
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 4
 trade_goods = wine 
 base_manpower = 4
 capital = "Isbliya"
-is_city = yes
 center_of_trade = 2
 fort_15th = yes
 discovered_by = western

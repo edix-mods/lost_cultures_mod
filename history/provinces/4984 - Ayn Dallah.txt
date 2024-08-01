@@ -1,8 +1,5 @@
 # - Tajhari (Idehan Murzuq)
 
-owner = MHD
-controller = MHD
-add_core = MHD
 culture = numidian
 religion = sunni
 capital = "Ayn Dallah"

@@ -1,7 +1,5 @@
 #4247 - Owrucz, Chernobyl, etc.
 
-owner = KIE
-controller = KIE  
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = grain 
 base_manpower = 1
 capital = "Ovruch"
-is_city = yes
-add_core = KIE
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,12 +1,8 @@
 #2782 - Warsheikh
 
-owner = MDI
-controller = MDI
-add_core = MDI
 culture = somali
 religion = sunni
 capital = "Warsheikh"
-is_city = yes
 base_manpower = 1
 trade_goods = livestock
 hre = no

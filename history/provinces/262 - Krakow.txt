@@ -4,8 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = VIS
-controller = VIS
 culture = slavic
 religion = catholic
 capital = "Kraków"
@@ -14,11 +12,8 @@ base_tax = 3
 base_production = 4
 trade_goods = salt
 base_manpower = 4
-is_city = yes
 fort_15th = yes
  #Jagiellonian University established in 1364 by Casimir III the Great
-add_core = VIS
-add_core = KRA
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

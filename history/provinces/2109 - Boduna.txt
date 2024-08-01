@@ -1,8 +1,5 @@
 # 2109 - Boduna
 
-owner = LIO
-controller = LIO
-add_core = LIO
 culture = maek
 religion = sarvadharmayana
 capital = "Boduna"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 

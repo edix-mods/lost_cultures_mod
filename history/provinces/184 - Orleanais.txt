@@ -1,10 +1,6 @@
 # 184 Orléannais + Blois - Principal cities: Orléans
 
-owner = ORL
-controller = ORL
-add_core = ORL
 capital = "Orléans"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 estate = estate_nobles

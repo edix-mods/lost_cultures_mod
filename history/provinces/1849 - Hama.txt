@@ -1,17 +1,17 @@
 #1849 - Hama
 
-owner = MHD
-controller = MHD
-culture = syric
+owner = HMT
+controller = HMT
+add_core = HMT
+is_city = yes
+culture = aramaic
 religion = sunni
-capital = "Hama"
+capital = "Hamath"
 trade_goods = cotton
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = MHD
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

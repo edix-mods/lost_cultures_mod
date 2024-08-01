@@ -1,8 +1,5 @@
 #2428 - Yugan
 
-owner = SHY
-controller = SHY
-add_core = SHY
 culture = samoyed
 religion = tengri_pagan_reformed
 capital = "Yugan"

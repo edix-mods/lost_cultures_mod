@@ -1,8 +1,5 @@
 #1750 - Xativa
 
-owner = MVL		
-controller = MVL
-add_core = MVL
 culture = iberian
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 4
 trade_goods = paper
 base_manpower = 2
 capital = "Xativa" 
-is_city = yes
 
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,5 @@
 # 2361 - Dzhaman-Kuduk
 
-owner = SHY
-controller = SHY
 culture = saka
 religion = sunni
 capital = "Dzhaman-Kuduk"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = SHY
 
 
 

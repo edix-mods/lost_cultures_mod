@@ -1,8 +1,5 @@
 # - Urgell
 
-owner = CAT		
-controller = CAT
-add_core = CAT
 culture = caltiberian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = wool 
 base_manpower = 2
 capital = "Tarrega" 
-is_city = yes 
 
 
 

@@ -1,8 +1,5 @@
 #688 - Kaifeng (can't change file name)
 
-owner = LNG
-controller = LNG
-add_core = LNG
 culture = sinitic_c
 religion = mahayana
 capital = "Kaifeng"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 8 
 base_production = 8
 base_manpower = 4
-is_city = yes
 fort_15th = yes
 
 

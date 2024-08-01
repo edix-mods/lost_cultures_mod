@@ -1,7 +1,5 @@
 #155 - Békés
 
-owner = SCL
-controller = SCL
 culture = vucedolian
 religion = orthodox
 capital = "Segedin"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = SCL
 extra_cost = 8
 center_of_trade = 1
 fort_15th = yes

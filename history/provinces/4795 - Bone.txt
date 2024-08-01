@@ -1,5 +1,3 @@
-owner = BNE
-controller = BNE
 culture = polynesian
 religion = animism
 capital = "Bone"
@@ -8,8 +6,6 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = BNE
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,8 +1,5 @@
 #Ingermanland, incl. Ivangorod, Jama, and Kopore.
 
-owner = NOV
-controller = NOV
-add_core = NOV
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = fur
 base_manpower = 1
 capital = "Koporye"
-is_city = yes
 
 
 

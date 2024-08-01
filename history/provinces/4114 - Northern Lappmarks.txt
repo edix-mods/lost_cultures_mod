@@ -1,9 +1,5 @@
 #Lapland, the far north wastelands.
 
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = SMI
 capital = "Jokkmokk"
 culture = finnopermic
 religion = catholic
@@ -11,7 +7,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
 trade_goods = fur
 discovered_by = eastern
 discovered_by = western

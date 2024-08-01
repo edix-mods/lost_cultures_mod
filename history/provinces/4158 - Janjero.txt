@@ -1,12 +1,8 @@
 #4158 - Janjero
 
-owner = JJI
-controller = JJI
-add_core = JJI
 culture = omotic_c
 religion = shamanism
 capital = "Fofa"
-is_city = yes
 base_manpower = 1
 trade_goods = slaves
 hre = no

@@ -1,8 +1,5 @@
 #366 - The Canarias
 
-owner = MOR
-controller = MOR
-add_core = MOR
 culture = guanche
 religion = animism
 capital = "Las Palmas"

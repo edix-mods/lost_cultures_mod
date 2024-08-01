@@ -1,13 +1,12 @@
 #1215 - Tajura
 
-owner = ADA
-controller = ADA
-add_core = ADA
-add_core = AFA
+owner = PNT
+controller = PNT
+add_core = PNT
+is_city = yes
 culture = afar
 religion = sunni
 capital = "Tajura"
-is_city = yes
 base_manpower = 2
 trade_goods = livestock
 hre = no

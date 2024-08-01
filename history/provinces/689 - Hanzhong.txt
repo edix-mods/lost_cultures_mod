@@ -1,7 +1,5 @@
 #689 - Hanzhong
 
-owner = QIN
-controller = QIN
 culture = sinitic_c
 religion = confucianism
 capital = "Hanzhong"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = QIN
-add_core = CSH
 
 
 

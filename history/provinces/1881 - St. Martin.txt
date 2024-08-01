@@ -1,6 +1,6 @@
 #1881 - St. Martin
 
-culture = arawak
+culture = ortoroid_c
 religion = animism
 capital = "St. Martin"
 trade_goods = unknown
@@ -11,4 +11,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 2
 native_hostileness = 4 
-discovered_by = TII

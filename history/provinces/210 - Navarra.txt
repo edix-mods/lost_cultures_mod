@@ -1,8 +1,5 @@
 #210 - Navarra
 
-owner = NAV		#Juan I de Navarra
-controller = NAV
-add_core = NAV
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ trade_goods = iron
 base_manpower = 2 
 fort_15th = yes
 capital = "Pamplona" 
-is_city = yes
 
 
 

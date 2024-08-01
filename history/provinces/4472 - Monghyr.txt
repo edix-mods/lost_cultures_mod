@@ -1,7 +1,5 @@
 #4472 - Monghyr
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Monghyr"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = GIK
-add_core = JNP
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

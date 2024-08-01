@@ -1,5 +1,3 @@
-owner = DAI
-controller = DAI
 culture = southern_kradai
 religion = mahayana
 capital = "Son Nam"
@@ -8,9 +6,6 @@ hre = no
 base_tax = 4 
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = DAI
-add_core = TOK
 
 
 

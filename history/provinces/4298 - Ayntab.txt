@@ -1,17 +1,17 @@
 #4398 - Ayntab
 
-owner = BYZ
-controller = BYZ
+owner = KMS
+controller = KMS
+add_core = KMS
+is_city = yes
 culture = luwian
 religion = coptic
-capital = "Ayntab"
+capital = "Karkemish"
 trade_goods = wool
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

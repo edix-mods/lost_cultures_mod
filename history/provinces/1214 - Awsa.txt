@@ -1,12 +1,8 @@
 #1214 - Wollo
 
-owner = ETH
-controller = ETH
-add_core = ETH
 culture = amharic
 religion = coptic
 capital = "Hayq"
-is_city = yes
 base_manpower = 2
 trade_goods = grain
 hre = no

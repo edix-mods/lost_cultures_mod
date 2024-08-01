@@ -1,8 +1,5 @@
 #4688 - Baraba
 
-owner = SHY
-controller = SHY
-add_core = SHY
 culture = samoyed
 religion = tengri_pagan_reformed
 capital = "Baraba"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 2
-is_city = yes
 discovered_by = nomad_group
 discovered_by = iranian
 

@@ -1,9 +1,5 @@
 #213 - Barcelona
 
-owner = BRC
-controller = BRC
-add_core = BRC
-#add_core = CAT
 culture = caltiberian
 religion = catholic
 hre = yes
@@ -12,7 +8,6 @@ base_production = 4
 trade_goods = glass 
 base_manpower = 3
 capital = "Barcelona" 
-is_city = yes
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

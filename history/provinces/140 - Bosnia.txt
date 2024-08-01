@@ -1,7 +1,5 @@
 #140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
 
-owner = CRO # Part of the Bosnian kingdom
-controller = CRO
 culture = illyrian
 religion = orthodox
 capital = "Doboj" #or Srebrenik
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = BOS
-add_core = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

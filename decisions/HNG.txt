@@ -1,0 +1,81 @@
+country_decisions = {
+	
+	mittani_nation = {
+		major = yes
+		potential = {
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_mittani_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = MIT }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			culture = hurrian
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 358			#Alexandria
+				province_id = 361			#Cairo
+				province_id = 377			#Aleppo
+				province_id = 379			#Jerusalem
+				province_id = 382			#Damascus
+				province_id = 384			#Medina
+				province_id = 385			#Mecca
+				province_id = 388			#Aden
+				province_id = 390			#Sanaa
+				province_id = 392			#Al-Arid
+				province_id = 394			#Qatif
+				province_id = 400			#Muscat
+				province_id = 403			#Nizwa
+				province_id = 410			#Baghdad
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			#owns_core_province = 358			#Alexandria
+		}
+		effect = {
+			on_change_tag_effect = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_mittani_flag
+			change_tag = MIT
+			swap_non_generic_missions = yes
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+}

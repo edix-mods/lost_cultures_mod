@@ -1,7 +1,5 @@
 #444 - Charjuy
 
-owner = ILK
-controller = ILK
 culture = margian
 religion = sunni
 capital = "Charjuy"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = ILK
-add_core = SEL
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman

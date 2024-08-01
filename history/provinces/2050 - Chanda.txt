@@ -1,7 +1,5 @@
 #2050 - Chanda
 
-owner = CHD
-controller = CHD
 culture = gondi
 religion = hinduism
 capital = "Ballarsah"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 2
-is_city = yes
-add_core = BRR
-add_core = CHD
 
 
 
@@ -26,7 +21,4 @@ discovered_by = ottoman
 1707.5.12 = { discovered_by = GBR }
 
 1757.1.1 = {
-	owner = NAG
-	controller = NAG
-	add_core = NAG
 }

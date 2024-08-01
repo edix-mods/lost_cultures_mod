@@ -1,8 +1,5 @@
 # 2135 - Garze
 
-owner = KAM
-controller = KAM
-add_core = KAM
 culture = qiangic
 religion = vajrayana
 capital = "Garze"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
 
 
 

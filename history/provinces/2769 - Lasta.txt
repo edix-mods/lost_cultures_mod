@@ -1,12 +1,8 @@
 #2769 - Lasta
 
-owner = ETH
-controller = ETH
-add_core = ETH
 culture = geez 
 religion = coptic
 capital = "Lalibela"
-is_city = yes
 base_manpower = 2
 trade_goods = grain
 hre = no

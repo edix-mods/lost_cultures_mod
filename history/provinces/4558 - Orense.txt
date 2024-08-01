@@ -1,8 +1,5 @@
 #Orense
 
-owner = GAL		
-controller = GAL
-add_core = GAL
 culture = gallaecian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 2
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Orense" 
-is_city = yes
 estate = estate_church
  # Santiago de Compostela pilgrimage
 discovered_by = eastern

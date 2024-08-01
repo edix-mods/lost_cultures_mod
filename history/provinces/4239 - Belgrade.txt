@@ -1,7 +1,5 @@
 #4239 - Belgrade
 
-owner = SER
-controller = SER
 culture = illyrian
 religion = orthodox
 capital = "Belgrade"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
 fort_15th = yes
-add_core = SER
 add_claim = CRO
 discovered_by = KAZ
 discovered_by = CRI

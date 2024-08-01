@@ -1,9 +1,5 @@
 #954 - Allegheny
 
-owner = ERI
-controller = ERI
-add_core = ERI
-is_city = yes
 culture = tionontate
 religion = totemism
 capital = "Allegheny"
@@ -22,9 +18,6 @@ discovered_by = north_american
 
 
 1656.1.1 = {
- 	owner = IRO
-	controller = IRO
-	add_core = IRO
 	culture = iroquois 
 } #Taken by Iroquois in Beaver Wars.
 
@@ -34,33 +27,20 @@ discovered_by = north_american
 1707.5.12 = { discovered_by = GBR }
 
 1750.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
 	culture = urnfielder
 	religion = catholic 
 } #Fort Presqu'Isle
 1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = FRA
 	culture = english
 	religion = protestant
 } # Treaty of Paris - ceded to Britain, France gave up its claim
 1763.10.9 = {
-	owner = IRO
-	controller = IRO
-	add_core = IRO
 	remove_core = GBR
-	is_city = yes
 	culture = iroquois
 	religion = totemism
 } # Royal proclamation, Britan recognize native lands (as protectorates)
 1784.10.22 = {
-	owner = USA
-	controller = USA
-	add_core = USA
 	culture = american
 	religion = protestant 
 } #Second Treaty of Fort Stanwix, Iroquois confederacy no longer dominant

@@ -1,7 +1,5 @@
 #56 - Osnabrück
 
-owner = GER
-controller = GER
 culture = urnfielder
 religion = catholic
 capital = "Osnabrück"
@@ -10,11 +8,6 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = GER
-add_core = WES
-add_core = MUN
-add_core = OSN
 
 discovered_by = eastern
 discovered_by = western

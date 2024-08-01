@@ -1,8 +1,5 @@
 #Bergenshus, 
 
-owner = NOR
-controller = NOR
-add_core = NOR
 culture = germanic_c
 religion = catholic
 hre = no
@@ -10,7 +7,6 @@ base_tax = 3
 base_production = 3
 trade_goods = naval_supplies
 base_manpower = 1
-is_city = yes
 capital = "Bergen"
 estate = estate_burghers
 discovered_by = western

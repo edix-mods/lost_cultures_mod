@@ -1,8 +1,5 @@
 #2999 - Hormuz
 
-owner = ORM
-controller = ORM
-add_core = ORM
 capital = "Hormuz"
 culture = carmanian
 religion = sunni
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,9 +1,5 @@
 # 4769 - Lille, meant to represent Waals Vlaanderen. Principal cities: Lille, Douai, Orchies
 
-owner = FLA
-controller = FLA
-add_core = FLA
-is_city = yes
 capital = "Lille"
 culture = urnfielder
 religion = catholic

@@ -1,9 +1,6 @@
 # 198 Rouergue - Principal cities: Rodez
 
-owner = AMG
-controller = AMG
 capital = "Rodez"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 estate = estate_nobles
-add_core = AMG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

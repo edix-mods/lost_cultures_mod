@@ -1,8 +1,5 @@
 #220 - València
 
-owner = MVL	
-controller = MVL
-add_core = MVL
 culture = iberian
 religion = sunni
 hre = no
@@ -12,7 +9,6 @@ trade_goods = cloth
 base_manpower = 4
 fort_15th = yes
 capital = "Balansiyah" 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,5 @@
 #279 - Volhynia
 
-owner = CHR
-controller = CHR
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = grain
 base_manpower = 1
 capital = "Belgorod"
-is_city = yes
-add_core = CHR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,8 +1,5 @@
 # 4220 - Khiagt
 
-owner = YUA
-controller = YUA
-add_core = YUA
 culture = proto_mongol
 religion = tengri_pagan_reformed
 capital = "Khiagt"
@@ -11,6 +8,5 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 3
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group

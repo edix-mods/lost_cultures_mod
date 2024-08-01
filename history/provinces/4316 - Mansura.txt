@@ -1,18 +1,18 @@
 #4316 - Mansura
 
-owner = MHD
-controller = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = lower_egyptian
 religion = sunni
-capital = "Mansura"
+capital = "Per-Amun"
 trade_goods = grain
 hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
 estate = estate_nobles
-add_core = MHD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

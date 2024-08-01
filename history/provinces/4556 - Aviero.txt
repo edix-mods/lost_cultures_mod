@@ -1,8 +1,5 @@
 #Aviero
 
-owner = POR
-controller = POR
-add_core = POR
 culture = paleoiberian
 religion = catholic
 capital = "Aveiro"
@@ -11,7 +8,6 @@ hre = yes
 base_tax = 2
 base_production = 2
 base_manpower = 2
-is_city = yes
 
 
 

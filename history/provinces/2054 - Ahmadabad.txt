@@ -1,7 +1,5 @@
 #2054 - Ahmadabad
 
-owner = PRA
-controller = PRA
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Ahmadabad"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 1
-is_city = yes
-add_core = PRA
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim 

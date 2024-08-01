@@ -1,8 +1,10 @@
 #4311 - Karahisar
 
-owner = BYZ
-controller = BYZ
-culture = lydian
+owner = PHR
+controller = PHR
+add_core = PHR
+is_city = yes
+culture = phrygian
 religion = orthodox
 capital = "Karahisar"
 trade_goods = livestock
@@ -10,8 +12,6 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

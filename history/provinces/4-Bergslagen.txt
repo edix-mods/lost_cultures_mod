@@ -1,8 +1,5 @@
 #Bergslagen, contains Falun, Västerås etc.
 
-add_core = SWE
-owner = SWE
-controller = SWE
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = iron
 base_manpower = 2
 capital = "Västerås"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

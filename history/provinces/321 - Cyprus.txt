@@ -1,18 +1,17 @@
 #321 - Cyprus
 
-owner = BYZ
-controller = BYZ
+owner = ALI
+controller = ALI
+add_core = ALI
+is_city = yes
 culture = alashiyan_c
 religion = orthodox
-capital = "Nicosia"
+capital = "Kition"
 trade_goods = wine
 hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
-fort_15th = yes
-add_core = BYZ
 
 
 

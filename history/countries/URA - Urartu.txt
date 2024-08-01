@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = urartian
+add_accepted_culture = hurrian
+religion = sunni
+technology_group = muslim
+capital = 2307

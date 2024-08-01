@@ -1,9 +1,6 @@
 # 200 Languedoc - Principal cities: Montpellier
 
-owner = TOU
-controller = TOU
 capital = "Montpellier"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 5
-add_core = TOU
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

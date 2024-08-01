@@ -1,8 +1,5 @@
 #710 - Hotan
 
-owner = CHG
-controller = CHG
-add_core = CHG
 culture = tocharian_c
 religion = sunni
 capital = "Hotan"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 3
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8

@@ -1,9 +1,4 @@
 # 1872 - Ulm
-owner = GER
-controller = GER
-add_core = GER
-add_core = SWA
-add_core = ULM
 culture = hallstatt
 religion = catholic
 base_tax = 5 
@@ -11,7 +6,6 @@ base_production = 6
 trade_goods = cloth	#fustians
 base_manpower = 4
 capital = "Ulm"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,8 +1,5 @@
 #Ume, Åsele, Piteå Lappmarks
 
-owner = GLH
-controller = GLH
-add_core = GLH
 culture = cimmerian
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 2
 trade_goods = livestock
 base_manpower = 1
 capital = "Oril"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

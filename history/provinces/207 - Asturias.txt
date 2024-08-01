@@ -4,9 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = ASU		
-controller = ASU
-add_core = ASU
 culture = paleoiberian
 religion = catholic
 hre = yes
@@ -16,7 +13,6 @@ base_production = 4
 trade_goods = livestock 
 base_manpower = 4
 capital = "Uviéu" 
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

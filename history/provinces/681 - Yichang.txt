@@ -1,8 +1,5 @@
 #681 - Yichuan
 
-owner = SHU
-controller = SHU
-add_core = SHU
 culture = hmong
 religion = confucianism
 capital = "Yichang"
@@ -11,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = CXI
 
 
 

@@ -1,7 +1,5 @@
 #1828 - Donji Kraji
 
-owner = CRO # Part of the Bosnian kingdom
-controller = CRO
 culture = illyrian
 religion = catholic
 capital = "Jajce"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
-add_core = BOS
-add_core = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

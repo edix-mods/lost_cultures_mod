@@ -1,8 +1,5 @@
 # 2172 - Jingzhou
 
-owner = CHC
-controller = CHC
-add_core = CHC
 culture = hmong
 religion = confucianism
 capital = "Jingzhou"
@@ -11,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = CXI
 
 
 

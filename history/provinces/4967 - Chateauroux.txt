@@ -1,9 +1,6 @@
 # 179 Berry
 
-owner = BER
-controller = BER
 capital = "Chateauroux"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 2
 base_production = 2
 trade_goods = wine
 base_manpower = 1
-add_core = BER
 
 discovered_by = eastern
 discovered_by = western

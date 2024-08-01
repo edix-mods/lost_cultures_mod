@@ -1,9 +1,5 @@
 # No previous file for Aribanda
 
-owner = SON
-controller = SON
-add_core = SON
-is_city = yes
 culture = songhai 
 religion = sunni
 capital = "Kukiya"

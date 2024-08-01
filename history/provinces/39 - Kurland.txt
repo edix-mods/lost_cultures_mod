@@ -1,9 +1,5 @@
 #Kurland, center at Goldingen
 
-owner = LVA
-controller = LVA
-add_core = LVA
-add_core = CUR
 culture = baltic
 religion = catholic
 hre = no
@@ -13,7 +9,6 @@ trade_goods = naval_supplies
 base_manpower = 1
 capital = "Kuldiga"
 estate = estate_church #Pilten
-is_city = yes
 
 
 

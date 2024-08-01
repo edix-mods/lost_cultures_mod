@@ -1,10 +1,5 @@
 #626 - Karta
 
-owner = SUV
-controller = SUV
-add_core = SUV
-add_core = DMK
-add_core = MTR
 culture = malayan
 religion = hinduism
 capital = "Karta"
@@ -13,7 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
 
 
 

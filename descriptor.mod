@@ -8,4 +8,4 @@ tags={
 	"New Nations"
 }
 name="Lost Cultures"
-supported_version="1.36.2"
+supported_version="1.37.2"

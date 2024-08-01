@@ -1,9 +1,5 @@
 #Semigallia, center at Mitau
 
-owner = LVA
-controller = LVA
-add_core = LVA
-add_core = CUR
 culture = baltic
 religion = catholic
 hre = no
@@ -12,7 +8,6 @@ base_production = 2
 trade_goods = naval_supplies
 base_manpower = 2
 capital = "Jelgava"
-is_city = yes # Estimated
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

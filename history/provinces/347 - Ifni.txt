@@ -1,7 +1,5 @@
 #347 - Ifni
 
-owner = MOR
-controller = MOR
 culture = western_berber
 religion = sunni
 capital = "Sidi Ifni"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MOR
-add_core = SOS
 
 
 

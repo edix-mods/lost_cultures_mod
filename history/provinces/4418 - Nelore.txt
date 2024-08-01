@@ -1,7 +1,5 @@
 #4418 - Nelore
 
-owner = YOR
-controller = YOR
 culture = telegu
 religion = hinduism
 capital = "Nellore"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = YOR
 add_vaisyas_or_burghers_effect = yes
 discovered_by = indian
 discovered_by = muslim

@@ -1,9 +1,5 @@
 #1136 - Gurma
 
-owner = GUR
-controller = GUR
-add_core = GUR
-is_city = yes
 culture = gur #gur
 religion = shamanism #Fetishism
 capital = "Bilanga"

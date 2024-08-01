@@ -1,8 +1,5 @@
 #211 - Pirineo
 
-owner = ARA		
-controller = ARA
-add_core = ARA
 culture = caltiberian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 2
 trade_goods = wool
 base_manpower = 2
 capital = "Huesca" 
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

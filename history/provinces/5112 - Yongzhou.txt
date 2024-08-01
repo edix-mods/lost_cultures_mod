@@ -1,8 +1,5 @@
 # 2174 - Hengyang
 
-owner = CMI
-controller = CMI
-add_core = CMI
 culture = hmong
 religion = animism
 capital = "Yongzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 3
-is_city = yes
 
 
 

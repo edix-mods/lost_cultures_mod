@@ -1,7 +1,5 @@
 #458 - Kokand
 
-owner = SHY
-controller = SHY
 culture = bactrian
 religion = sunni
 capital = "Kokand"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = SHY
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman

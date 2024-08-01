@@ -1,7 +1,7 @@
 # No previous file for Aniyutsi
 
 
-culture = protomuskogean
+culture = algonquin
 religion = totemism
 capital = "Aniyutsi"
 trade_goods = unknown

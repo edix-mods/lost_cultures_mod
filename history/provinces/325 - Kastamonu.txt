@@ -1,8 +1,10 @@
 #325 - Kastamonu
 
-owner = BYZ
-controller = BYZ
-culture = caucon
+owner = KAS
+controller = KAS
+add_core = KAS
+is_city = yes
+culture = kaska
 religion = orthodox
 capital = "Kastamonu"
 trade_goods = copper
@@ -10,8 +12,6 @@ hre = no
 base_tax = 3
 base_production = 5 #Huge copper mine
 base_manpower = 2
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

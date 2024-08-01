@@ -1,7 +1,9 @@
 #2296 - Biga
 
-owner = BYZ
-controller = BYZ
+owner = MYS
+controller = MYS
+add_core = MYS
+is_city = yes
 culture = mysian
 religion = orthodox
 capital = "Abydos"
@@ -10,11 +12,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 3
-is_city = yes
-add_core = BYZ
-fort_15th = yes
-
-
 
 discovered_by = western
 discovered_by = eastern

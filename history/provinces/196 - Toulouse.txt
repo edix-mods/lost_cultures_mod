@@ -1,9 +1,6 @@
 # 196 Toulouse - Principal cities: Toulouse
 
-owner = TOU
-controller = TOU
 capital = "Toulouse"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes

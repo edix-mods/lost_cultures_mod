@@ -1,7 +1,5 @@
 #Turov
 
-owner = WRT
-controller = WRT 
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = wool 
 base_manpower = 2
 capital = "Turov"
-is_city = yes
-add_core = WRT
 fort_15th = yes
 extra_cost = 8
 center_of_trade = 1

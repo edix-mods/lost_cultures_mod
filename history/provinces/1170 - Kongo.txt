@@ -1,7 +1,5 @@
 #1170 - Kongo
 
-owner = KON
-controller = KON 
 culture = bantu
 religion = shamanism #Fetishism
 capital = "M'banza Kongo"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
-add_core = KON
 discovered_by = central_african
 discovered_by = sub_saharan
 extra_cost = 16

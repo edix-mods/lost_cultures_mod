@@ -1,9 +1,6 @@
 # 4111 - Vendée
 
-owner = AMG
-controller = AMG
 capital = "Luçon"
-is_city = yes
 culture = atlantic_french
 religion = catholic 
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 3
 trade_goods = salt
 base_manpower = 3
-add_core = AMG
 estate = estate_burghers
 discovered_by = eastern
 discovered_by = western

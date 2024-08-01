@@ -1,9 +1,5 @@
 #1771 - Erz
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BOH
 capital = "Litomerice"
 culture = knovizian
 religion = catholic
@@ -12,7 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 5
 base_manpower = 2
-is_city = yes
 
 discovered_by = KAZ
 discovered_by = CRI

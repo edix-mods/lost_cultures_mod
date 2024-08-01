@@ -1,7 +1,5 @@
 #4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
 
-owner = RSO
-controller = RSO  
 culture = baltic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = salt 
 base_manpower = 2
 capital = "Yuriev"
-is_city = yes
-add_core = RSO
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

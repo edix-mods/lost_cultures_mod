@@ -1,7 +1,5 @@
 #320 - Rhodes
 
-owner = BYZ 		# Knights of St. John Hospitaler of Jerusalem
-controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Rhodes"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = yes
 fort_15th = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

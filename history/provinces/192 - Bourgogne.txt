@@ -1,9 +1,6 @@
 # 192 Bourgogne - Principal cities: Dijon
 
-owner = BUR
-controller = BUR 
 capital = "Dijon"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = BUR
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

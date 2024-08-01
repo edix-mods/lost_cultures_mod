@@ -1,7 +1,5 @@
 #143 - Vlorë - Southern Albania
 
-owner = BYZ
-controller = BYZ
 culture = illyrian
 religion = orthodox
 capital = "Vlorë"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = BYZ
-add_core = ALB
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

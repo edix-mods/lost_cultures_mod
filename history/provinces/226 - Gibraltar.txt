@@ -1,8 +1,5 @@
 #226 - Gibraltar
 
-owner = MGA
-controller = MGA
-add_core = MGA
 culture = tartessian
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = fish 
 base_manpower = 1
 capital = "Jabal Tariq" 
-is_city = yes
 
 discovered_by = western
 discovered_by = muslim

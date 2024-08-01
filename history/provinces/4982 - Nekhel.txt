@@ -1,8 +1,10 @@
 #2326 - Bardiyah
 
-owner = MHD
-controller = MHD
-culture = edomite
+owner = QED
+controller = QED
+add_core = QED
+is_city = yes
+culture = qedarite
 religion = sunni
 capital = "Nekhel"
 trade_goods = livestock
@@ -10,8 +12,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

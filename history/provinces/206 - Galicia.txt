@@ -1,8 +1,5 @@
 #206 - Galicia
 
-owner = GAL		
-controller = GAL
-add_core = GAL
 culture = paleoiberian
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ trade_goods = fish
 fort_15th = yes
 base_manpower = 2
 capital = "A Coruna" 
-is_city = yes
  # Santiago de Compostela pilgrimage
 discovered_by = eastern
 discovered_by = western

@@ -1,8 +1,5 @@
 # - Rioja
 
-owner = RIO		#Juan II of Castille
-controller = RIO
-add_core = RIO
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ trade_goods = wine
 base_manpower = 2
 capital = "Logroño"
 estate = estate_nobles
-is_city = yes
 
 
 

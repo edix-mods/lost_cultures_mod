@@ -1,7 +1,5 @@
 #446 - Herat
 
-owner = NAS
-controller = NAS
 culture = arian
 religion = sunni
 capital = "Herat"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = NAS
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

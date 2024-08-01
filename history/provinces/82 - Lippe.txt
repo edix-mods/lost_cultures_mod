@@ -4,8 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = GER
-controller = GER
 culture = urnfielder
 religion = catholic
 trade_goods = wool
@@ -14,9 +12,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 
-is_city = yes
-add_core = GER
-add_core = WES
 
 discovered_by = eastern
 discovered_by = western

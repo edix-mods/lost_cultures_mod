@@ -1,13 +1,12 @@
 #2324 - Halaib
 
-owner = MHD
-controller = MHD
-add_core = MHD
-add_core = BEJ
+owner = BLE
+controller = BLE
+add_core = BLE
+is_city = yes
 culture = beja
 religion = sunni
 capital = "Halaib"
-is_city = yes
 base_manpower = 1
 trade_goods = slaves
 hre = no

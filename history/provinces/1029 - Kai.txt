@@ -1,7 +1,5 @@
 #1029 - Kai
 
-owner = TKD
-controller = TKD
 culture = arami
 religion = shinto
 capital = "Kofu"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = TKD
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

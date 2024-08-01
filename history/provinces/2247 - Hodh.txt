@@ -1,9 +1,5 @@
 # 2247 - Hodh
 
-owner = TMB
-controller = TMB # under Tuareg rule to 1468
-add_core = TMB
-is_city = yes
 culture = southern_berber 
 religion = sunni
 capital = "Walata"

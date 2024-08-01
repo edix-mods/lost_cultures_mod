@@ -1,10 +1,6 @@
 # 1742 - Upper Guelders
 
-owner = BRB
-controller = BRB
-add_core = BRB
 add_claim = GEL
-is_city = yes
 capital = "Roermond"
 culture = urnfielder
 religion = catholic

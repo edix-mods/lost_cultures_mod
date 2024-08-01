@@ -1,7 +1,5 @@
 #617 - Lamuri
 
-owner = PSA
-controller = PSA
 culture = malayan
 religion = sunni
 capital = "Lamuri"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = PSA
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -22,9 +18,6 @@ center_of_trade = 1
 1405.1.1 = { discovered_by = MNG }
 
 1444.1.1 = {
-	owner = ATJ
-	controller = ATJ
-	add_core = ATJ
 	remove_core = PSA
 }
 

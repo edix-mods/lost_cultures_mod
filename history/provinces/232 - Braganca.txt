@@ -1,8 +1,5 @@
 #232 - Bragança
 
-owner = POR
-controller = POR
-add_core = POR
 culture = gallaecian
 religion = catholic
 capital = "Bragança"
@@ -11,7 +8,6 @@ hre = yes
 base_tax = 5 
 base_production = 4
 base_manpower = 2
-is_city = yes
 estate = estate_nobles
 
 

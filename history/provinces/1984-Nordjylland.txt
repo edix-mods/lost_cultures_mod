@@ -1,8 +1,5 @@
 #Nordjylland incl. Aalborg, Hjorring, Thisted, and Viborg
 
-owner = DAN
-controller = DAN
-add_core = DAN
 culture = germanic_c
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = fish
 base_manpower = 1
 capital = "Aalborg"
-is_city = yes
 
 
 

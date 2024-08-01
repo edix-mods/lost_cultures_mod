@@ -1,8 +1,5 @@
 #218 - Badajoz
 
-owner = BDJ		
-controller = BDJ
-add_core = BDJ
 culture = tartessian
 religion = sunni
 hre = no
@@ -12,7 +9,6 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Badajoz" 
 estate = estate_nobles
-is_city = yes
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

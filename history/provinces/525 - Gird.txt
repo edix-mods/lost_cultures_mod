@@ -1,7 +1,5 @@
 #525 - Gird
 
-owner = GWA
-controller = GWA
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Gwalior"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = GWA
 fort_15th = yes #"Gibraltar of India"
 discovered_by = indian
 discovered_by = muslim

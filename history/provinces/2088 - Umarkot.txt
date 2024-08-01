@@ -1,7 +1,5 @@
 #2088 - Umarkot
 
-owner = SND
-controller = SND
 culture = indoaryan_c
 religion = sunni
 capital = "Umarkot"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = SND
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim 

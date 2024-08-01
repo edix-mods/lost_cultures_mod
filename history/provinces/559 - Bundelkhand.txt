@@ -1,7 +1,5 @@
 #559 - Bundelkhand
 
-owner = KLP
-controller = KLP
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Jhansi"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = KLP
-add_core = BND
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

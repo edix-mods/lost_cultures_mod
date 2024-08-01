@@ -1,8 +1,5 @@
 # 2190 - Qaraqorum
 
-owner = YUA
-controller = YUA
-add_core = YUA
 culture = turkic_c
 religion = tengri_pagan_reformed
 capital = "Qaraqorum"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 extra_cost = 8
 center_of_trade = 1
 fort_15th = yes

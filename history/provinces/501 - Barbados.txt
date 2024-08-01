@@ -1,6 +1,6 @@
 #501 - Barbados
 
-culture = carib
+culture = ortoroid_c
 religion = animism
 capital = "Barbados"
 trade_goods = unknown
@@ -11,4 +11,3 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 1
 native_hostileness = 5
-discovered_by = TII

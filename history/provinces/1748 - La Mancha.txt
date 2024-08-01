@@ -1,8 +1,5 @@
 #1748 - La Mancha
 
-owner = GRA
-controller = GRA
-add_core = GRA
 culture = iberian
 religion = sunni
 hre = no
@@ -12,7 +9,6 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Jayyan"
 estate = estate_church 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,9 +1,6 @@
 # 4112 - Cahors
 
-owner = GUY
-controller = GUY
 capital = "Cahors"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
-add_core = GUY
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

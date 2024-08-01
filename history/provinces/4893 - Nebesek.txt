@@ -1,6 +1,6 @@
 # No previous file for Nebesek
 
-culture = laurentian
+culture = algonquin
 religion = totemism
 capital = "Nebesek"
 trade_goods = unknown
@@ -11,21 +11,13 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-tribal_owner = STA
 discovered_by = north_american
 
 1636.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
 	culture = urnfielder
 	religion = catholic
 	trade_goods = fish
-	is_city = yes
 }
 1763.2.10 = {
-	owner = GBR
-	add_core = GBR
-	controller = GBR
 	remove_core = FRA
 } # Treaty of Paris

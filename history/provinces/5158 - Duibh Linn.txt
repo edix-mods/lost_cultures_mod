@@ -1,8 +1,5 @@
 ###Province = Duibh Linn
 
-owner = MTH
-controller = MTH
-add_core = MTH
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 2
 capital = "Duibh Linn"
-is_city = yes
 center_of_trade = 2
 
 discovered_by = western

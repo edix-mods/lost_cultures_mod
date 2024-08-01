@@ -1,7 +1,5 @@
 #2221 - Mashhad
 
-owner = KHW
-controller = KHW
 culture = parthian
 religion = sunni
 capital = "Mashhad"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = KHW
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

@@ -1,7 +1,5 @@
 #585 - Toungoo
 
-owner = TAU
-controller = TAU
 culture = khasic
 religion = buddhism
 capital = "Toungoo"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 4
-is_city = yes
-add_core = TAU
 
 
 
@@ -22,12 +18,7 @@ discovered_by = indian
 
 1560.1.1 = { fort_15th = yes }
 1745.1.1 = {
-	owner = PEG
-	controller = PEG
-	add_core = PEG
 }
 1755.1.1 = {
-	owner = TAU
-	controller = TAU
 	remove_core = PEG
 }

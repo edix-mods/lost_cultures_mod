@@ -1,9 +1,6 @@
 # 186 Champagne - Principal cities: Reims
 
-owner = CHP
-controller = CHP
 capital = "Reims"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ base_production = 3
 trade_goods = wine
 base_manpower = 2
 estate = estate_church
-add_core = CHP
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

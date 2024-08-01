@@ -1,7 +1,5 @@
 #611 - Sikhottabong
 
-owner = LXA
-controller = LXA
 culture = vietnamese
 religion = animism
 capital = "Sikhottabong"
@@ -10,22 +8,14 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = LXA
-add_core = VIE
 
 
 discovered_by = chinese
 discovered_by = indian
 
 
-1483.1.1 = { add_core = DAI } # Vietnamese Invasion
 1535.1.1 = { discovered_by = POR }
-1694.1.1 = { add_core = TOK } # Vietnamese Intervention
 1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
 	remove_core = LXA
 	remove_core = TOK
 	remove_core = DAI

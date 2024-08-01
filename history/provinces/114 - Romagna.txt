@@ -1,7 +1,5 @@
 #114 - Romagna
 
-owner = ITA
-controller = ITA
 culture = umbrian 
 religion = catholic 
 hre = yes 
@@ -10,8 +8,6 @@ base_production = 5
 trade_goods = salt
 base_manpower = 2
 capital = "Ravenna"
-is_city = yes
-add_core = ITA
 
 discovered_by = western
 discovered_by = eastern

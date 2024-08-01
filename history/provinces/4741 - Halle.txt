@@ -1,10 +1,5 @@
 # 4741 - Halle
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = SAX
-add_core = MAG
 culture = knovizian
 religion = catholic
 hre = no
@@ -13,7 +8,6 @@ base_production = 3
 trade_goods = salt #the name "Halle" apparently might even derive from the Indo-Germanic word for salt
 base_manpower = 1
 capital = "Halle"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

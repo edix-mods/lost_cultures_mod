@@ -1,8 +1,5 @@
 # 2110 - Yehe
 
-owner = LIO
-controller = LIO
-add_core = LIO
 culture = maek
 religion = sarvadharmayana
 capital = "Yehe"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 
 
 

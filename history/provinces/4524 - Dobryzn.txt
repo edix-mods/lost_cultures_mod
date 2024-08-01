@@ -1,9 +1,6 @@
 # 4525 - Dobryzn
 
-owner = MAZ
-controller = MAZ
 capital = "Dobrzyn"
-is_city = yes
 culture = slavic
 religion = catholic
 trade_goods = grain
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = MAZ
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

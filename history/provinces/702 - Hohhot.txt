@@ -1,8 +1,5 @@
 #702 - Ulanqab
 
-owner = YUA
-controller = YUA
-add_core = YUA
 culture = ordos
 religion = vajrayana
 capital = "Hohhot"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 4
-is_city = yes
 fort_15th = yes
 
 

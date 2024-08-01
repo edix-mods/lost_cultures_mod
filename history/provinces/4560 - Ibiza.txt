@@ -1,8 +1,5 @@
 #Ibiza
 
-owner = MJO		# Alfons V of Aragon
-controller = MJO
-add_core = MJO
 culture = iberian_megalithic
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = fish
 base_manpower = 1 
 capital = "Ibiza" 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

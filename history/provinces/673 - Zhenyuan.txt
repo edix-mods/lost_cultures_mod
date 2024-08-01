@@ -1,8 +1,5 @@
 #673 - Bozhou
 
-owner = CMI
-controller = CMI
-add_core = CMI
 culture = hmong
 religion = animism
 capital = "Zhenyuan"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 

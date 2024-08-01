@@ -1,17 +1,17 @@
-#407 - Ar-Raqqah
+#407 - Ar-Raqqah / Suru
 
-owner = MHD
-controller = MHD
-culture = hurrian
+owner = HAL
+controller = HAL
+add_core = HAL
+is_city = yes
+culture = aramaic
 religion = sunni
-capital = "Ar Rakkah"
+capital = "Suru"
 trade_goods = livestock
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

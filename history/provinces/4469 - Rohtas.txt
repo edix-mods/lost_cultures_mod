@@ -1,7 +1,5 @@
 #4469 - Rohtas
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Rohtasgarh"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = GIK
-add_core = JNP
 fort_15th = yes #Rohtasgarh
 discovered_by = indian
 discovered_by = muslim 

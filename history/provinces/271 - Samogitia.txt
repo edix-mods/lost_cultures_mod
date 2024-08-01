@@ -1,8 +1,5 @@
 #271 - Samogitia
 
-owner = LIT
-controller = LIT
-add_core = LIT
 culture = baltic
 religion = catholic
 capital = "Varniai"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
 estate = estate_nobles
 discovered_by = KAZ
 discovered_by = CRI

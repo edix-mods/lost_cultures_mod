@@ -1,10 +1,5 @@
 #44 - Hamburg
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAN
-add_core = HAM
 culture = germanic_c
 religion = catholic
 base_tax = 7
@@ -13,7 +8,6 @@ trade_goods = fish
 base_manpower = 5
 fort_15th = yes
 capital = "Hamburg"
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

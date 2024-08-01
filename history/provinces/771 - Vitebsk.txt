@@ -1,7 +1,5 @@
 #771 - Vitebsk
 
-owner = PLT
-controller = PLT
 culture = baltic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = grain 
 base_manpower = 1
 capital = "Vitebsk"
-is_city = yes	 
-add_core = PLT
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group

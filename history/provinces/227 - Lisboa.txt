@@ -1,8 +1,5 @@
 #227 - Estremadura
 
-owner = BDJ
-controller = BDJ
-add_core = BDJ
 culture = paleoiberian
 religion = sunni
 capital = "Lixbuna"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

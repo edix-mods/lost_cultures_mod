@@ -1,9 +1,6 @@
 # 176 Béarn - Principal cities: Pau
 
-owner = FOI
-controller = FOI
 capital = "Pau"
-is_city = yes
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 4
 base_production = 4
 trade_goods = wool
 base_manpower = 4
-add_core = FOI
 estate = estate_nobles
 
 

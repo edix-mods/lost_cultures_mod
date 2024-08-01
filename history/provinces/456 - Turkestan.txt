@@ -1,7 +1,5 @@
 #456 - Turkestan
 
-owner = SHY
-controller = SHY
 culture = saka
 religion = sunni
 capital = "Yasi"
@@ -10,8 +8,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 hre = no
-is_city = yes
-add_core = SHY
 
 
 discovered_by = iranian

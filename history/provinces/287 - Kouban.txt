@@ -1,7 +1,5 @@
 #287 - Kouban
 
-owner = GLH
-controller = GLH
 culture = cimmerian
 religion = sunni
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 3
 capital = "Stavropol"
-is_city = yes
-add_core = GLH
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

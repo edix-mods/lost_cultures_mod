@@ -1,7 +1,5 @@
 #4489 - Hajipur
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Hajipur"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = GIK
-add_core = JNP
 add_jains_or_burghers_effect = yes
 discovered_by = indian
 discovered_by = muslim 

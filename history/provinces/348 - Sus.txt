@@ -1,7 +1,5 @@
 #348 - Sus
 
-owner = MOR
-controller = MOR
 culture = atlasian
 religion = sunni
 capital = "Taroudant"
@@ -10,10 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 2
-is_city = yes
-add_core = MOR
-add_core = SOS
-add_core = TFL
 
 
 

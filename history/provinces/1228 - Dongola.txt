@@ -1,13 +1,12 @@
 #1228 - Dongola
 
+owner = KUS
+controller = KUS
+add_core = KUS
+is_city = yes
 culture = nubian 
 religion = sunni
-capital = "Dunqula"
-owner = ABB
-controller = ABB
-add_core = ABB
-add_core = MAK
-is_city = yes
+capital = "Kerma"
 trade_goods = grain
 base_manpower = 2
 hre = no

@@ -1,13 +1,8 @@
 #2771 - Semien
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = BTI
 culture = geez 
 religion = jewish
 capital = "Dabareq"
-is_city = yes
 base_manpower = 2
 trade_goods = grain
 hre = no

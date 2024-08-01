@@ -1,7 +1,5 @@
 #4305 - Shakhi
 
-owner = GEO
-controller = GEO
 culture = aghwank
 religion = zoroastrian
 capital = "Shaki"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
-add_core = GEO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

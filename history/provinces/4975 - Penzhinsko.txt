@@ -1,7 +1,5 @@
 #121 - Napoli
 
-owner = CAP
-controller = CAP
 culture = koryak 
 religion = catholic 
 hre = yes 
@@ -11,8 +9,6 @@ trade_goods = grain
 fort_15th = yes
 base_manpower = 2
 capital = "Capia" 
-is_city = yes	# Estimated
-add_core = CAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

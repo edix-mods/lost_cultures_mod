@@ -1,8 +1,5 @@
 # 2130 - Nyingchi
 
-owner = UTS
-controller = UTS
-add_core = UTS
 culture = burmese
 religion = vajrayana
 capital = "Nyingchi"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
 
 
 

@@ -11,7 +11,6 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 2
 native_hostileness = 8
-tribal_owner = LEN
 
 
 discovered_by = north_american
@@ -19,27 +18,17 @@ discovered_by = north_american
 1609.1.1 = { discovered_by = NED } # Henry Hudson
 
 1643.1.1 = {
- 	owner = SWE
-	controller = SWE
-	add_core = SWE
-	is_city = yes
 	culture = swedish
 	religion = protestant
 	trade_goods = tobacco
 	capital = "Nya Elfsborg" 
 } #Founding of settlement in New Jersey
 1655.9.15 = {
-	owner = NED
-	controller = NED
-	add_core = NED
 	remove_core = SWE
 	culture = urnfielder
 	religion = reformed
 } # Incorporated into the Dutch new Netherlands
-1665.6.1 = { controller = ENG } # English seize New Netherlands at outset of Second Anglo-Dutch war
 1667.7.31 = {
-	owner = ENG
-	add_core = ENG
 	remove_core = NED
 	culture = english
 	religion = protestant
@@ -47,9 +36,6 @@ discovered_by = north_american
 } # Treaty of Breda
 1707.5.12 = {
 	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = ENG
 }
 1764.7.1 = {
@@ -57,8 +43,5 @@ discovered_by = north_american
 	unrest = 6
 } # Growing unrest
 1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
 } # Declaration of independence
 1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence

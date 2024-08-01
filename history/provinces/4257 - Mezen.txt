@@ -1,7 +1,5 @@
 #4257 - Mezen
 
-owner = NOV 
-controller = NOV 
 culture = finnopermic
 religion = catholic
 hre = no
@@ -10,8 +8,6 @@ base_production = 1
 trade_goods = fish 
 base_manpower = 1
 capital = "Okladnikova Sloboda"
-is_city = yes
-add_core = NOV
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -21,15 +17,9 @@ discovered_by = eastern
 discovered_by = western
 
 1478.1.15 = {
-	owner = MOS
-	controller = MOS
-	add_core = MOS
 	remove_core = NOV 
 } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS 
 	remove_core = MOS 
 }
 1554.1.1 = { capital = "Novokholmogory" } # Richard Chancellor discovers the northern route, trade begins

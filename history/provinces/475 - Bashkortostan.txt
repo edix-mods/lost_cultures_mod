@@ -1,7 +1,5 @@
 #475 - Bashkortostan
 
-owner = HUN
-controller = HUN
 culture = finnopermic
 religion = tengri_pagan_reformed
 capital = "Bashkort"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = HUN
-add_core = BSH
 
 
 

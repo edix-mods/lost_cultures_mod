@@ -1,6 +1,6 @@
 # No previous file for Yuki
 
-culture = wiyot
+culture = wintuan
 religion = totemism
 capital = "Yuki"
 trade_goods = unknown

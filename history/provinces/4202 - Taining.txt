@@ -1,9 +1,5 @@
 # 4202 - Taining
 
-owner = LIO
-controller = LIO
-add_core = LIO
-add_core = KRC
 culture = donghu
 religion = sarvadharmayana
 capital = "Baichungtze"
@@ -12,6 +8,5 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group

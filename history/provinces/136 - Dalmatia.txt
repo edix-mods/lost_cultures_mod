@@ -1,7 +1,5 @@
 #136 - Split
 
-owner = CRO
-controller = CRO
 culture = illyrian
 religion = catholic
 capital = "Split"
@@ -10,10 +8,7 @@ hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 2
-is_city = yes
 fort_15th = yes # Klis Fortress
-add_core = CRO
-add_core = DAL
 
 discovered_by = KAZ
 discovered_by = CRI

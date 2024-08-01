@@ -15,10 +15,7 @@ native_hostileness = 9
 
 1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
 1623.1.1 = {
-	owner = SPA
-	controller = SPA
 	culture = castillian
 	religion = catholic
 	trade_goods = grain
 } # Taytay becomes a colony
-1774.1.1 = { add_core = SPA }

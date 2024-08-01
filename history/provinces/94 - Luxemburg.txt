@@ -1,9 +1,6 @@
 # 94 Luxembourg - Principal cities: Luxembourg
 
-owner = LUX
-controller = LUX
 capital = "Letzebuerg"
-is_city = yes
 culture = urnfielder
 religion = catholic 
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 3
 base_production = 2
 trade_goods = grain
 base_manpower = 2
-add_core = LUX
 fort_15th = yes
 
 

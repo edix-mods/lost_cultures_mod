@@ -1,7 +1,5 @@
 #1826 - Lika
 
-owner = CRO
-controller = CRO
 culture = liburnian
 religion = catholic
 capital = "Modruš"
@@ -10,9 +8,7 @@ hre = no
 base_tax = 3 
 base_production = 4
 base_manpower = 2
-is_city = yes
 estate = estate_nobles
-add_core = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

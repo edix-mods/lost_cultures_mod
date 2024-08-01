@@ -1,7 +1,5 @@
 #265 - Brno
 
-owner = GER
-controller = GER
 capital = "Brno"
 culture = urnfielder
 religion = hussite
@@ -10,10 +8,6 @@ hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = GER
-add_core = BOH
-add_core = MVA
 
 discovered_by = KAZ
 discovered_by = CRI

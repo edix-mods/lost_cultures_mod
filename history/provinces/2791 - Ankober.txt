@@ -1,13 +1,8 @@
 #2791 - Ankober
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = SOA
 culture = amharic 
 religion = sunni
 capital = "Ankober"
-is_city = yes
 base_manpower = 1
 trade_goods = grain
 hre = no

@@ -1,12 +1,8 @@
 #2767 - Enderta
 
-owner = ETH
-controller = ETH
-add_core = ETH
 culture = geez 
 religion = coptic
 capital = "Antalo"
-is_city = yes
 base_manpower = 2
 trade_goods = copper
 hre = no

@@ -1,8 +1,5 @@
 #Akershus, incl. Oslo (Christiania), Tönsberg
  
-owner = NOR
-controller = NOR
-add_core = NOR
 culture = germanic_c
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = fish
 base_manpower = 2
 capital = "Oslo"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

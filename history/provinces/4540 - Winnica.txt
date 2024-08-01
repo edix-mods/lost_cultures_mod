@@ -1,7 +1,5 @@
 #Winnica
 
-owner = KIE
-controller = KIE
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,9 +8,7 @@ base_production = 1
 trade_goods = livestock 
 base_manpower = 1
 capital = "Vinitsa"
-is_city = yes
 #fort_15th = yes #Bratslav Castle
-add_core = KIE
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

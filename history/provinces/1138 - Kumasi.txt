@@ -11,7 +11,6 @@ base_production = 4
 native_size = 60
 native_ferocity = 4
 native_hostileness = 9
-add_core = ASH
 
 
 
@@ -19,12 +18,8 @@ discovered_by = sub_saharan
 
 
 1500.1.1 = { 
-	owner = ASH
-	controller = ASH 
-	add_core = ASH
 	trade_goods = gold
 	capital = "Kumasi"
-	is_city = yes 
 } #Akan migrations, Denkyira establishd (Ashanti is a subject)
 1713.1.1 = { unrest = 2 } #Dagomba uprising against Gonja domination 
 1715.1.1 = { unrest = 5 } #Ashante-Aowin War 

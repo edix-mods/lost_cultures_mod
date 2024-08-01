@@ -1,6 +1,6 @@
 # No previous file for Maidu
 
-culture = yokuts
+culture = wintuan
 religion = totemism
 capital = "Maidu"
 trade_goods = unknown

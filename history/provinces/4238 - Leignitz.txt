@@ -1,12 +1,6 @@
 #4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
 
 #Coal
-owner = GER
-controller = GER
-add_core = GER
-add_core = BOH
-add_core = SIL
-add_core = GLG
 culture = lusatian
 religion = catholic
 capital = "Liegnitz"
@@ -14,7 +8,6 @@ trade_goods = glass
 hre = no
 base_tax = 4
 base_production = 4
-is_city = yes 
 base_manpower = 2
 
 discovered_by = KAZ

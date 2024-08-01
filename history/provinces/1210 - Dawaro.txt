@@ -1,12 +1,8 @@
 #1210 - Dawaro
 
-owner = ETH
-controller = ETH
-add_core = ETH
 culture = sidamic 
 religion = sunni
 capital = "Gende Belo"
-is_city = yes
 base_manpower = 1
 trade_goods = grain
 hre = no

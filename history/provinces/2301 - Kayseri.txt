@@ -1,17 +1,17 @@
 #2301 - Kayseri
 
-owner = BYZ
-controller = BYZ
+owner = TAB
+controller = TAB
+add_core = TAB
+is_city = yes
 culture = hittitte
 religion = orthodox
-capital = "Kayseri"
+capital = "Artulu"
 trade_goods = iron
 hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

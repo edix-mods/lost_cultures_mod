@@ -21,9 +21,6 @@ native_hostileness = 3
 1516.1.23 = { discovered_by = SPA }
 
 1526.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
 	culture = portugese
 	religion = catholic
 	trade_goods = sugar
@@ -31,17 +28,12 @@ native_hostileness = 3
 1597.1.1 = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
 1598.1.1 = { unrest = 0 }
 1634.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
 	capital = "Frederikstad"
 	culture = urnfielder
 	religion = reformed
 } # Dutch occupation
 1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists
 1654.1.1 = {
-	owner = POR
-	controller = POR
 	remove_core = NED
 	capital = "Parahyba do Norte"
 	culture = portugese

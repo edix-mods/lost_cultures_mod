@@ -1,7 +1,5 @@
 #577 - Quetta
 
-owner = KHL
-controller = KHL
 culture = pactyan
 religion = sunni
 capital = "Quetta"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = KHL
 
 
 

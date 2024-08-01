@@ -1,7 +1,5 @@
 #1979 - Färöarna
 
-owner = NOR
-controller = NOR 
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -10,8 +8,6 @@ base_production = 1
 base_manpower = 1
 trade_goods = fish
 capital = "Torshavn"
-is_city = yes
-add_core = NOR
 
 
 

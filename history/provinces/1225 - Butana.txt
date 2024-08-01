@@ -1,16 +1,11 @@
 #1225 - Butana
 
-owner = ALO
-controller = ALO
-add_core = ALO
-add_core = ABB
 culture = nubian 
 religion = sunni
 capital = "Qarri"
 base_manpower = 1
 base_tax = 1 
 base_production = 1
-is_city = yes
 trade_goods = ivory
 hre = no
 add_local_autonomy = 60
@@ -20,23 +15,16 @@ discovered_by = ottoman
 
 
 1470.1.1 = {
-	owner = ABB
-	controller = ABB
 	remove_core = ALO
 	capital = "Qarri"
 } #Establishment of the Abdallabi state
 1503.1.1 = {
-	owner = NUB
-	controller = NUB
-	add_core = NUB
 	discovered_by = NUB
 	base_manpower = 2
 }
 1528.1.1 = { religion = sunni } #Spread of Islam leads to shift in religion affiliation of region
 1550.1.1 = { discovered_by = TUR }
 1564.1.1 = { unrest = 8 } #Shaykh Ajib launched revolt against Funj state
-1565.1.1 = { revolt = { type = nationalist_rebels size = 1 } controller = REB } #Funj driven out
-1566.1.1 = { revolt = {} controller = NUB } #Shaykh Ajib gains dominance over Funj sultanate
 1583.1.1 = { unrest = 8 } #Dakin moves to restor Funj authority
 1584.1.1 = { unrest = 0 } #Dakin and Ajib reach agreement to end conflict
 1611.1.1 = { unrest = 8 } #Ajib revolts again against Funj

@@ -1,7 +1,5 @@
 #1831 - Travunia
 
-owner = SER	# Part of the Bosnian kingdom
-controller = SER
 culture = illyrian
 religion = orthodox
 capital = "Trebinje"
@@ -10,10 +8,7 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
 estate = estate_church
-add_core = BOS
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -26,7 +21,4 @@ discovered_by = ottoman
 
 
 1521.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
 }

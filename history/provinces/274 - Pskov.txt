@@ -1,7 +1,5 @@
 #274 - Pskov
 
-owner = PSK
-controller = PSK
 culture = finnopermic
 religion = catholic
 hre = no
@@ -10,9 +8,7 @@ base_production = 5
 trade_goods = livestock
 base_manpower = 4
 capital = "Pskov"
-is_city = yes
 fort_15th = yes
-add_core = PSK
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,8 +1,5 @@
 # No previous file for Chickamauga
 
-owner = SAT
-controller = SAT
-add_core = SAT
 culture = yuchi_c
 religion = totemism
 capital = "Atali"

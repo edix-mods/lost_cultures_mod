@@ -1,9 +1,5 @@
 # 2174 - Hengyang
 
-owner = CMI
-controller = CMI
-add_core = CMI
-add_core = CHC
 culture = hmong
 religion = animism
 capital = "Hengyang"
@@ -12,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 
 
 

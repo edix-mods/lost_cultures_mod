@@ -1,7 +1,5 @@
 #2029 - South Kanara
 
-owner = CHW
-controller = CHW
 culture = kannada
 religion = jainism
 capital = "Ullal"
@@ -10,10 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = CHW
-add_core = KLN
-add_core = KLT
 add_vaisyas_or_burghers_effect = yes
 
 discovered_by = indian

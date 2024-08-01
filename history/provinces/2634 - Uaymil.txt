@@ -1,10 +1,6 @@
 # No previous file for Uaymil
 
 culture = yucatec
-owner = CTM
-controller = CTM
-add_core = CTM
-is_city = yes
 religion = mesoamerican_religion
 capital = "Uaymil"
 trade_goods = cocoa
@@ -23,9 +19,6 @@ discovered_by = mesoamerican
 
 
 1547.1.1 = {
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
 	unrest = 5
 } # final defeat of eastern Yucatan alliance
 1572.1.1 = {
@@ -33,4 +26,3 @@ discovered_by = mesoamerican
 	culture = castillian
 	religion = catholic 
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

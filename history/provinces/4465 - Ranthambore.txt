@@ -1,7 +1,5 @@
 #4465 - Ranthambore
 
-owner = HAD
-controller = HAD
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Ranthambore"
@@ -10,10 +8,8 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes
 fort_15th = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = HAD
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

@@ -1,8 +1,5 @@
 #1745 - Cantabria
 
-owner = ASU		
-controller = ASU
-add_core = ASU
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = naval_supplies 
 base_manpower = 2
 capital = "Santander" 
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,9 +1,5 @@
 #Calatuyud
 
-owner = ARA		
-controller = ARA
-add_core = ARA
-add_core = ZAR
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -13,7 +9,6 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Calatayud"
 estate = estate_church 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

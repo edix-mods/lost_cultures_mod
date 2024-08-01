@@ -1,7 +1,5 @@
 #4521 - Skardu
 
-owner = KHL
-controller = KHL
 culture = kirati
 religion = vajrayana
 capital = "Skardu"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = KHL
-add_core = LDK
 
 
 discovered_by = muslim

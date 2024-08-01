@@ -1,8 +1,5 @@
 #631 - Bali
 
-owner = BLI
-controller = BLI
-add_core = BLI
 culture = polynesian
 religion = hinduism
 capital = "Gianyar"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 
 
 
@@ -23,9 +19,6 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 
 1500.1.1 = {
-	owner = BLI
-	controller = BLI
-	add_core = BLI
 	remove_core = MAJ
 
 } # The fall of the Majapahit Empire

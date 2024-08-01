@@ -1,6 +1,6 @@
 # No previous file for Nihithawak
 
-culture = athabaskan
+culture = athabascan
 religion = totemism
 capital = "Nihithawak"
 trade_goods = unknown

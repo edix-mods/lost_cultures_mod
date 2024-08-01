@@ -1,8 +1,4 @@
 #1774 - Treviso
-owner = PDV
-controller = PDV
-add_core = PDV
-add_core = AQU
 culture = venetic 
 religion = catholic 
 hre = yes
@@ -11,7 +7,6 @@ base_production = 7
 trade_goods = paper
 base_manpower = 4  
 capital = "Treviso" 
-is_city = yes	# Estimated 
 
 discovered_by = western
 discovered_by = eastern

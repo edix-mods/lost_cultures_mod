@@ -1,9 +1,5 @@
 # - Hradecko
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BOH
 capital = "Hradec Králové"
 culture = lusatian
 religion = hussite
@@ -12,7 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
 
 discovered_by = KAZ
 discovered_by = CRI

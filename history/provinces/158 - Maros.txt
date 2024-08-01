@@ -1,7 +1,5 @@
 #158 - Maros
 
-owner = TRA
-controller = TRA
 culture = dacian
 religion = orthodox
 capital = "Marosvasarhely"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = TRA
 
 discovered_by = KAZ
 discovered_by = CRI

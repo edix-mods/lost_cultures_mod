@@ -1,7 +1,5 @@
 #517 - Surat (Surat, Rander)
 
-owner = PRA
-controller = PRA
 culture = telegu
 religion = zoroastrian
 capital = "Surat"
@@ -11,8 +9,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 add_brahmins_or_church_effect = yes
-is_city = yes
-add_core = PRA
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim 

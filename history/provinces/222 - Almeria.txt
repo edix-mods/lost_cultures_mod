@@ -1,8 +1,5 @@
 #222 - Almería
 
-owner = GRA
-controller = GRA
-add_core = GRA
 culture = iberian
 religion = sunni
 hre = no
@@ -12,7 +9,6 @@ trade_goods = grain
 base_manpower = 2
 capital = "Marriya"
 estate = estate_nobles
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

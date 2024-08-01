@@ -1,7 +1,5 @@
 #4740 - Como
 
-owner = LOM
-controller = LOM
 culture = lepontic
 religion = catholic
 hre = yes
@@ -11,8 +9,6 @@ trade_goods = cloth
 base_manpower = 2
 fort_15th = yes # Extensive fortifications were only dismantled in 1525-7
 capital = "Como"
-is_city = yes	# Estimated
-add_core = LOM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

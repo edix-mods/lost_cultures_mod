@@ -1,7 +1,3 @@
-add_core = WRT
-add_core = MAZ
-owner = WRT
-controller = WRT
 culture = slavic
 religion = orthodox
 hre = no
@@ -10,7 +6,6 @@ base_production = 1
 trade_goods = livestock
 base_manpower = 1
 capital = "Liw"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

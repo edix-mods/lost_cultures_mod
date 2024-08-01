@@ -1,8 +1,5 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = FIN
-controller = FIN
-add_core = FIN
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = fur
 base_manpower = 1
 capital = "Savonlinna"
-is_city = yes
 #fort_15th = yes
 discovered_by = western
 discovered_by = eastern

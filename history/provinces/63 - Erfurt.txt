@@ -1,7 +1,5 @@
 #63 - Erfurt
 
-owner = GER
-controller = GER
 culture = knovizian
 religion = catholic
 capital = "Erfurt"
@@ -10,10 +8,6 @@ hre = no
 base_tax = 5
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = GER
-add_core = SAX
-add_core = THU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,10 +1,5 @@
 # No previous file for Tenkodogo
 
-owner = WGD
-controller = WGD
-add_core = WGD
-add_core = TEN
-is_city = yes
 culture = gur 
 religion = shamanism #Fetishism
 capital = "Tenkodogo"

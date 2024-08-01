@@ -1,8 +1,5 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
 
-owner = NOR
-controller = NOR
-add_core = NOR
 culture = finnopermic
 religion = norse_pagan_reformed
 hre = no
@@ -11,7 +8,6 @@ base_production = 5
 trade_goods = iron
 base_manpower = 3
 capital = "Nidaros"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 fort_15th = yes

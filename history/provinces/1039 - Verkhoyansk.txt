@@ -18,11 +18,7 @@ native_hostileness = 3
 
 1638.1.1 = {
 	discovered_by = RUS
-	owner = RUS
-	controller = RUS
 	religion = orthodox
 	culture = finnopermic
-	is_city = yes
 } # V. Atlasov
-1672.1.1 = { add_core = RUS }
 1700.1.1 = { trade_goods = fur }

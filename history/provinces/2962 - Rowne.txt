@@ -1,7 +1,5 @@
 #279 - Rowne
 
-owner = VOL
-controller = VOL
 culture = slavic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 1
 trade_goods = livestock 
 base_manpower = 1
 capital = "Rivne"
-is_city = yes
-add_core = VOL
 
 
 

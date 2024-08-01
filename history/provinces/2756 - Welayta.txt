@@ -1,12 +1,8 @@
 #2756 - Welayta
 
-owner = WLY
-controller = WLY
-add_core = WLY
 culture = omotic_c 
 religion = shamanism
 capital = "Bonga"
-is_city = yes
 base_manpower = 2
 trade_goods = coffee
 hre = no

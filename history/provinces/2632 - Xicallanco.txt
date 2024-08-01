@@ -1,10 +1,6 @@
 # No previous file for Xicallanco
 
 culture = protowesternmayan
-owner = YOK
-controller = YOK
-add_core = YOK
-is_city = yes
 religion = mesoamerican_religion
 capital = "Xicallanco"
 trade_goods = cocoa

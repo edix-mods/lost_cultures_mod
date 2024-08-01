@@ -1,7 +1,5 @@
 #125 - Palermo
 
-owner = SIC
-controller = SIC
 culture = sicanian 
 religion = catholic
 hre = yes 
@@ -11,8 +9,6 @@ trade_goods = wine
 base_manpower = 4
 capital = "Palermo"
 fort_15th = yes 
-is_city = yes
-add_core = SIC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

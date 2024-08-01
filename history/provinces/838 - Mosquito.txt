@@ -1,9 +1,5 @@
 #838 - Mosquito
 
-owner = MIS
-controller = MIS
-add_core = MIS
-is_city = yes
 culture = miskito 
 religion = animism 
 capital = "Mosquito" 
@@ -25,9 +21,6 @@ discovered_by = mesoamerican
 1516.1.23 = { discovered_by = SPA }
 
 1740.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	religion = protestant
 	culture = english
 } # Treaty of Friendship & Alliance, British protectorate 

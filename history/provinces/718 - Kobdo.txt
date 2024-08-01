@@ -1,8 +1,5 @@
 #718 - Govi Altay
 
-owner = SHY		# The Oirads united much of Mongolia
-controller = SHY
-add_core = SHY
 culture = turkic_c
 religion = sunni
 capital = "Kobdo"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
 
 
 

@@ -1,7 +1,5 @@
 #2043 - Balasore
 
-owner = GIK
-controller = GIK
 culture = munda
 religion = hinduism
 capital = "Balasore"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = GIK
-add_core = ORI
 add_vaisyas_or_burghers_effect = yes
 fort_15th = yes #Raibania
 discovered_by = indian

@@ -1,9 +1,5 @@
 #1140 - Abomey
 
-owner = DAH #Early kingdom of Allada/Ardra
-controller = DAH
-add_core = DAH
-is_city = yes
 culture = voltaniger
 religion = shamanism #Fetishism
 capital = "Allada"

@@ -1,0 +1,16 @@
+#5024 - Anatalya
+
+owner = PIS
+controller = PIS
+add_core = PIS
+add_core = PAM
+is_city = yes
+culture = pisidic
+religion = orthodox
+capital = "Perga"
+trade_goods = cotton
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+

@@ -38,7 +38,7 @@ anatolian = {
 		}
 	}
 	
-	sidetic = {
+	pisidic = {
 		dynasty_names = {
 			Placeholder
 		}
@@ -236,6 +236,17 @@ italic = {
 }
 
 iranian = {
+
+	caspian = { 
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
 
 	median = {
 		dynasty_names = {
@@ -708,9 +719,53 @@ hellenic = {
 			Placeholder
 		}
 	}
+
+	philistine = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
 }
 
 balkan = {
+
+	phrygian = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	mysian = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	paeonian = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
 
 	illyrian = {
 		dynasty_names = {
@@ -802,40 +857,7 @@ balkan = {
 	
 }
 
-armenophrygian = {
-
-	phrygian = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
-
-	mysian = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
-
-	paeonian = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
+armenian = {
 	
 	hayasa = {
 		dynasty_names = {
@@ -893,17 +915,6 @@ armenophrygian = {
 hattic_group = {
 
 	hattic = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
-
-	caucon = {
 		dynasty_names = {
 		}
 		male_names = {
@@ -1024,17 +1035,6 @@ hurrourartian = {
 	}
 
 	urartian = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
-
-	caspian = { # Possibly related to Kassites who are possibly part of Hurro-Urartian language famliy
 		dynasty_names = {
 		}
 		male_names = {
@@ -1314,7 +1314,7 @@ ligurian_group = {
 	}
 }
 
-akkadian = {
+east_semitic = {
 
 	assyrian = {
 		dynasty_names = {
@@ -1328,6 +1328,17 @@ akkadian = {
 	}
 
 	babylonian = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	dilmunite = {	
 		dynasty_names = {
 		}
 		male_names = {
@@ -1384,33 +1395,11 @@ north_semitic = {
 			Placeholder
 		}
 	}
-
-	syric = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
 }
 
 central_semitic = {
 
 	qedarite = {
-		dynasty_names = {
-		}
-		male_names = {
-			Placeholder
-		}
-		female_names = {
-			Placeholder
-		}
-	}
-
-	dilmunite = {	
 		dynasty_names = {
 		}
 		male_names = {
@@ -1435,7 +1424,7 @@ central_semitic = {
 
 south_semitic = {
 
-	sabaic = {
+	sabaean = {
 		dynasty_names = {
 		}
 		male_names = {
@@ -2142,14 +2131,18 @@ yeniseian_g = {
 		}
 	}
 
-	athabaskan = {
+	athabascan = {
 		dynasty_names = {
+			Kiusta Kung Yan Hiellan Skidegate "Cha'atl" Haina Kaisun Cumshewa Skedans Tanu Ninstints
+			Masset Atewaas Jaahguhl Kayung "Hlk'yah GaawGa" Klinkwan Sukkwan Howkan Kasaan
 		}
 		male_names = {
-			Placeholder
+			"Nanni Chaddi" "Na tio tish" Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome 
+			Munamenek Otoahnisto Mahvipah Choseta Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-hae Cochise Juh 
+			Delshay Goyaale
 		}
 		female_names = {
-			Placeholder
+			Dahteste Ilthgozay Gouyen Lozen Tohayea
 		}
 	}
 }
@@ -3539,21 +3532,35 @@ paleoitalian = {
 	}
 }
 
-eskimoaleut = {
-	
+eskaleut = {
 	graphical_culture = inuitgfx
 	second_graphical_culture = northamericagfx
 
 	aleutian = {
 		male_names = {
 			Aariak Aassanaaq Aippaq Aklaq Amaqjuaq Ammagaruqnik Anik Apaata Aput Aputi Aqakuktuq Aqillutaq Aqpalibaaqtuq 
-			Aquyittuq Arnauyq Asuilaak Atanarjuat Atiqtalaaq Atuqtuaq Aujaq Aviqming Ila Ilannaq Innugati Ińuksuk Irniq 
+			Aquyittuq Arnauyq Asuilaak Atanarjuat Atiqtalaaq Atuqtuaq Aujaq Aviqming Ila Ilannaq Innugati Iñuksuk Irniq 
 			Itigaituk Kanguq Kataktuaq  Keedtapeck Kissarviarsuk Kumaglak Kunik Kunikpaa Malik Nanouk Nasak Natsiq 
 		}
 		female_names = {
 			Kanguyak Kanosak Kakortok Krernertok Kunwaktok Kuvageegai Makoktok Miki Nagojut Nukka Palartok Panik Pukiq Qannik 
 			Quvianuq Sakari Sesi Shila Siku Tatkret Tiguaq Ublureak Uiritsaktak Umiaktorvik Yuralria
 		}
+	}
+	inuit = {
+		male_names = {
+			Nauja Nirliq Nuniq Nuvuk Oki Pamiuq Patuktuq Pauloosie Petuwaq Pimniq Piqqaluyungmik Pittiulak Pukajaak Qajak 
+			Qammutiq Qamut Qannik Qaumaniq Qausiqtuk Qimmiabruk Qimmiq Qulitalik Sauri Sighna  Siluk Sivoy Sivuugun 
+			Taktuq Taliriktug Tikaani Tiqriganiannig Tukkuyummavungga Tulimak Tulimaq Tulugaq Tungajuaq Tupiq Tuuq Ugalik 
+			Ujurak Ukiuk Unnuk Usuiituk
+		}
+		female_names = {
+			Ahnah Akna Chena Corazon Desna Kaskae Kaya Kirima Koko Malina Adlartok Ahnah Akiak Anana Anernerk Annakpok Aput 
+			Ataciare Atka Aukaneck Biisaiyowaq Buniq Chulyin Cikup Corazon Cupun Hey Iluak Iluq Imnek Ipiktok Iqniq Kakrayok 
+		}
+	}
+	dynasty_names = {
+		Amaruq Pakak Silaluk Kayuqtuq
 	}
 }
 
@@ -3659,6 +3666,17 @@ utoaztecan = {
 	}
 
 	nahuan = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	capachan = {
 		dynasty_names = {
 		}
 		male_names = {
@@ -4109,6 +4127,729 @@ yuchi_g = {
 		}
 		female_names = {
 			Placeholder
+		}
+	}
+}
+
+eskimosubstrate_g = {
+
+	eskimosubstrate_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+timucua_g = {
+
+	timucua_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+calusa_g = {
+
+	calusa_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	tequesta = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+totozoquen = {
+
+	chitimacha = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	ais = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	mixe = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	mixe = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	zoque = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	totonac = {
+		primary = TOT
+		male_names = {
+			Moctezuma Auitzotl Axayacatl Cuauhtemoc Cuitlahuac Huitzilihuitl Itzcoatl Ohimalpopoca Tizoc 
+			Motelchiuh Tehuetstiquitzin Tlacotzin Xochiquentzin Acamapichtli Chimalpopoca Tenoch Acacitli 
+			Axacaya Cacamatzin Eyahue Huicton Ilhuicamina Itzquautzin Mazatl Nopaltzin Olintecke Opochtli 
+			Quetzalmantzin Quimichetl Texcoyo Timas Tlacaelel Tlotzin Xiuhcozcatl Xocoyol Yaztachimal Zolton
+			Ahcambal Huanitzin Panitzin
+		}
+		female_names = {
+			Centehua Moyolehuani Yaotl Xipil Xitlali Xiuhcoatl Xochicotzin Xochiyotl Xoco Yayauhqui Yolihuani Yoloxochitl 
+			Yolyamanitzin 
+		}
+	}
+}
+
+tonkawa_g = {
+
+	tonkawa_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+atakapa_g = {
+
+	atakapa_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+solano_g = {
+
+	solano_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+karankawa_g = {
+
+	karankawa_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+coahuiltecan_g = {
+
+	coahuiltecan_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+otomanguean = {
+	graphical_culture = southamericagfx
+	zapotek = {
+		primary = ZAP
+		male_names = {
+			Cocijoeza Cocijopi Xolo Nucano Cocijocza Cocijopi Zaachilla Cocijouza Cocijopi Jzió Pwuix Dao 
+			Binech Bzojj Chsáaxcejj Cháalaxa Chonna Bicu Coqui Djoraxa Gwèibóoné Gyazob Gyejj Ipalnemoani Ji 
+			Jzió Láxdaóxo Lyebe Mbalaz Na Yel Naquichinisa Naxiñanguiiu Ngolbex An Nguiiu Rire Nisa Ro Pijje 
+			Rusiguunda Véeni Veziá Zne Yel Zniá Zyrx Beljjw Bibejw Jzió Jituh Jzió Tobi
+		}
+		female_names = {
+			Zyanya Nayeli Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin
+		}
+	}
+	mixtec = {
+		primary = MIX
+		male_names = {
+			Cocijoeza Cocijopi Xolo Nucano Cocijocza Cocijopi Zaachilla Cocijouza Cocijopi Jzió Pwuix Dao 
+			Binech Bzojj Chsáaxcejj Cháalaxa Chonna Bicu Coqui Djoraxa Gwèibóoné Gyazob Gyejj Ipalnemoani Ji 
+			Jzió Láxdaóxo Lyebe Mbalaz Na Yel Naquichinisa Naxiñanguiiu Ngolbex An Nguiiu Rire Nisa Ro Pijje 
+			Rusiguunda Véeni Veziá Zne Yel Zniá Zyrx Beljjw Bibejw Jzió Jituh Jzió Tobi
+		}
+		female_names = {
+			Zyanya Nayeli Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin
+		}
+	}
+	tlapanec = {
+		primary = TLA
+		male_names = {
+			Cocijoeza Cocijopi Xolo Nucano Cocijocza Cocijopi Zaachilla Cocijouza Cocijopi Jzió Pwuix Dao 
+			Binech Bzojj Chsáaxcejj Cháalaxa Chonna Bicu Coqui Djoraxa Gwèibóoné Gyazob Gyejj Ipalnemoani Ji 
+			Jzió Láxdaóxo Lyebe Mbalaz Na Yel Naquichinisa Naxiñanguiiu Ngolbex An Nguiiu Rire Nisa Ro Pijje 
+			Rusiguunda Véeni Veziá Zne Yel Zniá Zyrx Beljjw Bibejw Jzió Jituh Jzió Tobi
+		}
+		female_names = {
+			Zyanya Nayeli Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin
+		}
+	}
+
+	otomi = {
+		primary = OTO
+		male_names = {
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc 
+			Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui 
+			Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl 
+			Xochipepe Xochipilli Yaotl Zipactonal Zolin
+		}	
+		female_names = {
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin 
+			Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+			Acacitlu Citali Citlamina Etapali Ichtaca Icnoyotl Ilhuitl Macuilxochitl Mahuitzic Moyolehuani Moztla 
+			Nenetl Nochtli Papan Teoxihuitl Teuicui Tlachinolli Tlaco Tlahutli Tlalli Tlazohtzin Tlexictli Tonatzin Xihuitl 
+		}	
+	}
+
+	dynasty_names = {
+		Beljjw Bibejw Binech "Bzojj Chsáaxcejj" Cháalaxa Coqui Djoraxa Gwpeibóoné Gyazob Gyejj "Ji Jzió" Jituh Jzió Láxdaóxo 
+		Lyebe Mbalaz "Na Yel" "Ngolbex An" "Pijje Jzió" "Pwuix Dao" Véeni Vziá "Zne Yel" Zniá Zyrx Zaachila "Ñuhu Tocuisi" Oaxaca 
+	}
+}
+
+zuni_g = {
+
+	zuni_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+keres_g = {
+
+	keres_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+quechuan = {
+
+	protoquechuan = {
+		dynasty_names = {
+			Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta Chilche Colla-Topa 
+			Curiatao Cusi  Guacra Guaritito Guaritopa Huachuri Huaman Huascar Huaypalcon Illaquita Inquill Llicllic Maila Maras 
+			Marcavilca Mayta  Ninancoro Ozcoc Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo 
+			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
+		}
+		male_names = {
+			"Túpac Amaru" "Atahualpa" "Huáscar" "Huayna Cápac" "Manco Cápac" "Pachacútec" "Sayri Tupac" 
+			"Titu Cusi Yupanqui" "Túpac Hualpa" "Túpac Yupanqui" "Viracocha" "Yahuar Hacuac" "Inca Roca" 
+			"Anquimarca" "Marcavilca" "Sahuaraura" "Zambiza" 
+			"Atoc Sopa" "Cayo Topa" "Coyllas" "Cusichaca" "Guaritopa" "Huachuri" "Huaypalcon" "Luyes" 
+			"Ninan Cuyuchi" "Orco Varanca" "Pascac" "Pomaguala" "Pumi Sopa" "Quispe Titu" "Ruminavi" 
+			"Surandaman" "Taraque" "Tucuycuyche" "Usca Curiatao" "Villac Umu" "Yamqui Mayta" "Yupanqui" 
+			"Zopahua"
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+}
+
+aymara = {
+	protoaymara = {
+		dynasty_names = {
+			Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta Chilche Colla-Topa 
+			Curiatao Cusi  Guacra Guaritito Guaritopa Huachuri Huaman Huascar Huaypalcon Illaquita Inquill Llicllic Maila Maras 
+			Marcavilca Mayta  Ninancoro Ozcoc Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo 
+			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
+		}
+		male_names = {
+			"Cari" "Colla Capac" "Chuqui Capac" "Tomás Katari" "Inti" "Amaru" "Katari" "Tunupa" "Tupac" "Illapa" 
+			"Anquimarca" "Atoc Sopa" "Cayo Topa" "Coyllas" "Cusichaca" "Guaritopa" "Huachuri" "Huaypalcon" 
+			"Marcavilca" "Ninan Cuyuchi" "Orco Varanca" "Pascac" "Pomaguala" "Pumi Sopa" "Quispe Titu" 
+			"Sahuaraura" "Surandaman" "Taraque" "Tucuycuyche" "Usca Curiatao" "Villac Umu" "Yamqui Mayta" 
+			"Zambiza" "Zopahua" "Luyes" "Yupanqui" "Ruminavi" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+}
+
+barbacoan_g = {
+
+	barbacoan_c = {
+		dynasty_names = {
+			Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta Chilche Colla-Topa 
+			Curiatao Cusi  Guacra Guaritito Guaritopa Huachuri Huaman Huascar Huaypalcon Illaquita Inquill Llicllic Maila Maras 
+			Marcavilca Mayta  Ninancoro Ozcoc Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo 
+			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
+		}
+		male_names = {
+			Anquimarca Atoc Sopa Cayo Topa Coyllas Cusichaca Guaritopa Huachuri Huaypalcon Luyes Marcavilca 
+			Cuyuchi Orco Varanca Pascac Pomaguala Pumi Sopa Quispe Titu Ruminavi Sahuaraura Surandaman Taraque 
+			Tucuycuyche Usca Curiatao Villac Umu Yamqui Mayta Yupanqui Zambiza Zopahua Ninan
+		}
+		female_names = {
+			Axomamma Cavillaca Chia China Kantuta Nina Ana Maiara
+		}
+	}
+}
+
+andean_group = {
+	graphical_culture = southamericagfx
+	diaguita = {
+		primary = CCQ
+		dynasty_names = {
+			Caca Capayan Hualfin Paccioca Pular Quilme Aconquijas Anguinahao Tocpo Omaguaca
+		}
+		male_names = {
+			"Huanchicay" "Ficpam" "Viltipoco" "Tucuma" "Payo" "Anto" "Tino" "Aman" "Hualpa" "Fama" "Cafa" 
+			"Huilla" "Ismi" "Anco" "Chamijo" "Tancol" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+}
+
+je_tupi = { # Tupi
+	graphical_culture = northamericagfx
+	
+	tupinamba = {
+		primary = TPQ
+		dynasty_names = {
+			Piratininga Tabajara Temiminó Tamoio Tabajara Caeté Tupinaé Temiminó Tupina Aricobé
+		}
+		male_names = {
+			Tibiriçá Piquerobi Caiubi Ramalho Italo Arah Pirijá Arata Toruí Mbicy
+		}
+		female_names = {
+			Bartira Potira Porasy Jougousa Azelene
+		}
+	}
+
+	kamaiura = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+	
+}
+
+je = {
+	graphical_culture = northamericagfx
+	charruan = {
+		primary = CUA
+		dynasty_names = {
+			Sénaqué Sira Gununusa Puyucahua Mataojo Igualdad Yaró Guenoa Bohané Minuan
+		}
+		male_names = {
+			Zapicán Abayubá Vaimaca Perú Senacua Tabaré Itanú Yrupé Jasymimbí Tacuabé Vaimaca-Pirú
+		}
+		female_names = {
+			Bartira Potira Porasy Jougousa Azelene
+		}
+	}
+	ge = {
+		primary = TUA
+		dynasty_names = {
+			Aimoré Prajé Takrukrak Krekmún Ituêto Futikrak Gueren Gutucrac Mekmek Minhagiran Nakrehê Naknyanúk
+		}
+		male_names = {
+			Jandui Raoni Janduwy Caracara Kerioukeiou Karupoto
+		}
+		female_names = {
+			Bartira Potira Porasy Jougousa Azelene
+		}
+	}
+}
+
+maranon = {
+	graphical_culture = southamericagfx
+	jivaro = {
+		male_names = {
+			Anquimarca Atoc Sopa Cayo Topa Coyllas Cusichaca Guaritopa Huachuri Huaypalcon Luyes Marcavilca 
+			Cuyuchi Orco Varanca Pascac Pomaguala Pumi Sopa Quispe Titu Ruminavi Sahuaraura Surandaman Taraque 
+			Tucuycuyche Usca Curiatao Villac Umu Yamqui Mayta Yupanqui Zambiza Zopahua Ninan
+		}
+		female_names = {
+			Axomamma Cavillaca Chia China Kantuta Nina Ana Maiara
+		}
+	}
+	chachapoyan = {
+		primary = CYA
+		male_names = {
+			Anquimarca Atoc Sopa Cayo Topa Coyllas Cusichaca Guaritopa Huachuri Huaypalcon Luyes Marcavilca 
+			Cuyuchi Orco Varanca Pascac Pomaguala Pumi Sopa Quispe Titu Ruminavi Sahuaraura Surandaman Taraque 
+			Tucuycuyche Usca Curiatao Villac Umu Yamqui Mayta Yupanqui Zambiza Zopahua Ninan
+		}
+		female_names = {
+			Axomamma Cavillaca Chia China Kantuta Nina Ana Maiara
+		}
+	}
+	dynasty_names = {
+		Marano Jivaro Chachapoya
+	}
+}
+
+chibchan = {
+	graphical_culture = southamericagfx
+	
+	muisca = {
+		primary = MCA
+		dynasty_names = {
+			Aguazuque Soacha Zipacon Kankuamo Iraca Onzaga Huachuri Huaman Huascar Huaypalcon Tunduma Chipatá Busbanzá Saboyá 
+			Tenza Tibirita Duitama Paipa Cerinza Tibana Charalá Toca
+		}
+		male_names = {
+			Meicuchuca Saguamanchica Nemequene Tisquesusa Sagpipa Michua Quemuenchatocha Aquiminzaque Ah Can 
+			Cuxininegua Uzathama Tibacuy Guecha Mico-Chuco Aquimin Tomagata Tutazúa Cuba
+		}
+		female_names = {
+			Chia China Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+	
+	miskito = {
+		primary = MIS
+		dynasty_names = {
+			Miskito Chibchan
+		}
+		male_names = {
+			Anquimarca Atoc Sopa Cayo Topa Coyllas Cusichaca Guaritopa Huachuri Huaypalcon Luyes Marcavilca 
+			Cuyuchi Orco Varanca Pascac Pomaguala Pumi Sopa Quispe Titu Ruminavi Sahuaraura Surandaman Taraque 
+			Tucuycuyche Usca Curiatao Villac Umu Yamqui Mayta Yupanqui Zambiza Zopahua Ninan
+		}
+		female_names = {
+			Axomamma Cavillaca Chia China Kantuta Nina Ana Maiara
+		}
+	}
+}
+
+mataco = {	#Matacoan
+	graphical_culture = northamericagfx
+	
+	chacoan = {
+		male_names = {
+			Sopa Cayo Topa Coyllas Cusichaca Huachuri Huaypalcon Luyes Marcavilca
+		}
+		female_names = {
+			Kantuta Nina Ana Maiara
+		}
+		dynasty_names = {
+			Atlatl 
+		}
+	}
+}
+
+araucanian = {
+	graphical_culture = northamericagfx
+	
+	mapuche = {
+		primary = MPC
+		male_names = {
+			Ancamilla Nampai Coñoepán Nahueltripai Millarapue Millalelmo Lautaro Paillamachu Huenecura 
+			Aillavilu Catrileo Ñanco Melín Caupolicán Illangulién Pinolevi Purrán Mañil Quilapán 
+			Pelantaro
+		}
+		female_names = {
+			Suyai Yaima Collipal Curipan Cuyen Calfuray Cayfutray Ilchahueque Ipi Kuyen Lefitray Leflay Llanquipan 
+			Llanquiray Manque Millaray Peyeche Piro Pitrel Quetroman Quimey Quintruy Quintuqueo Rayen Saqui Somoche
+		}
+	}
+	patagonian = {
+		male_names = {
+			Ancamilla Nampai Coñoepán Nahueltripai Millarapue Millalelmo Lautaro Paillamachu Huenecura 
+			Aillavilu Catrileo Ñanco Melín Caupolicán Illangulién Pinolevi Purrán Mañil Quilapán 
+			Pelantaro
+		}
+		female_names = {
+			Suyai Yaima Collipal Curipan Cuyen Calfuray Cayfutray Ilchahueque Ipi Kuyen Lefitray Leflay Llanquipan 
+			Llanquiray Manque Millaray Peyeche Piro Pitrel Quetroman Quimey Quintruy Quintuqueo Rayen Saqui Somoche
+		}
+	}
+	het = {
+		male_names = {
+			Ancamilla Nampai Coñoepán Nahueltripai Millarapue Millalelmo Lautaro Paillamachu Huenecura 
+			Aillavilu Catrileo Ñanco Melín Caupolicán Illangulién Pinolevi Purrán Mañil Quilapán 
+			Pelantaro
+		}
+		female_names = {
+			Suyai Yaima Collipal Curipan Cuyen Calfuray Cayfutray Ilchahueque Ipi Kuyen Lefitray Leflay Llanquipan 
+			Llanquiray Manque Millaray Peyeche Piro Pitrel Quetroman Quimey Quintruy Quintuqueo Rayen Saqui Somoche
+		}
+	}
+	huarpe = {
+		male_names = {
+			Ancamilla Nampai Coñoepán Nahueltripai Millarapue Millalelmo Lautaro Paillamachu Huenecura 
+			Aillavilu Catrileo Ñanco Melín Caupolicán Illangulién Pinolevi Purrán Mañil Quilapán 
+			Pelantaro
+		}
+		female_names = {
+			Suyai Yaima Collipal Curipan Cuyen Calfuray Cayfutray Ilchahueque Ipi Kuyen Lefitray Leflay Llanquipan 
+			Llanquiray Manque Millaray Peyeche Piro Pitrel Quetroman Quimey Quintruy Quintuqueo Rayen Saqui Somoche
+		}
+	}
+	dynasty_names = {
+		Pichiñán Colipí Abajino Araucanía Choll-Choll  Lonko Picunche Promaucae Toqui Nguluche Huilliche Lafquenche
+	}
+}
+
+arawakan = {
+	graphical_culture = northamericagfx
+
+	protoarawak = {
+		
+	}
+
+	caiquetio = {
+
+	}
+
+	male_names = {
+		Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+		Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+	}
+	female_names = {
+		Hayá Isani Takuiba Twengga
+	}
+	dynasty_names = {
+		Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+	}
+}
+
+waroid = {
+
+	guanahatabey = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	macorix = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	warao = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	coroso = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	krum = { #Krum Bay Culture
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	ortoroid_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+purepecha_g = {
+
+	purepecha = {
+		male_names = {
+			Tariacuri Hiquingaje Hiripan Tangaxuan Tzitzipandaquare Zuangua Huitzimengari Tangaxoan Tzimtzincha 
+			Cuinierangari Bibejw Binech Bzojj Chsáaxcejj Cháalaxa Chonna Bicu Coqui Djoraxa Gwèibóoné Gyazob 
+			Ipalnemoani Ji Jzió Jituh Jzió Láxdaóxo Lyebe Mbalaz Na Yel Naquichinisa Naxiñanguiiu Ngolbex An 
+			Rire Nisa Ro Pijje Jzió Tobi Rusiguunda Véeni Veziá Zne Yel Zniá Zyrx Gyejj Nguiiu
+		}
+		female_names = {
+			Zyanya Nayeli Teiuc Teicuih Teyacapan Tepin 
+		}
+	}
+}
+
+olmec_g = {
+
+	olmec_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+
+	tlatilco = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+puquina_g = {
+
+	puquina_c = {
+		dynasty_names = {
+		}
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+	}
+}
+
+chimuan_g = {
+	chimuan = {
+		primary = CHM
+		dynasty_names = {
+			Guacricaur Tacaynamo Tiso Nancempinco Chilche Maras Luyes Maila Illa Rimac
+		}
+		male_names = {
+			"Anco Coyuch" "Caja Cimcim" "Chumun Caur" "Guaman Chumu" "Michan Caman" "Guari Cur" "Nancen Pico" 
+			"Tacaynamo" "Aiyotechapun" "Buvaovamu" "Caja Cápac" "Cama Bergu" "Chumtiku" "Cuyuchi" "Docoshamu" 
+			"Draytonamu" "Ehenymacu" "Felan Tamuc" "Gusmango" "Ilsayunamu" "Jotiantikaka" "Katitika" "Litun" 
+			"Melantonan" "Michan Chimor" "Muhton Belan" "Nartamamu" "Nehuametepun" "Opolcynamun" "Pacatmamu" 
+			"Puznaymun" "Relyen Padnu" "Seton Apac" "Seran Tugun" "Taracun" "Troynuremo" "Urtyantemu" 
+			"Yetuniamu" "Zergoetanu" "Orco" "Vetsalynun" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
 		}
 	}
 }

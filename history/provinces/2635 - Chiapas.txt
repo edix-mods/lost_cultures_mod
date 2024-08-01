@@ -1,10 +1,6 @@
 # No previous file for Chiapas
 
 culture = protowesternmayan
-owner = LAC
-controller = LAC
-add_core = LAC
-is_city = yes
 religion = mesoamerican_religion
 capital = "Chiapas"
 trade_goods = cocoa

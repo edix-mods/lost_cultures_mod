@@ -4,8 +4,6 @@ latent_trade_goods = {
 	coal
 }
 
-owner = SAR
-controller = SAR
 culture = nuragic 
 religion = catholic 
 hre = yes 
@@ -14,8 +12,6 @@ base_production = 3
 trade_goods = copper
 base_manpower = 1
 capital = "Cagliari" 
-is_city = yes # Estimated 
-add_core = SAR
 
 discovered_by = western
 discovered_by = eastern

@@ -1,17 +1,17 @@
 #418 - Diyarbakir
 
-owner = BYZ
-controller = BYZ
-culture = hurrian
+owner = ZAM
+controller = ZAM
+add_core = ZAM
+is_city = yes
+culture = aramaic
 religion = orthodox
-capital = "Diyar Bekir"
+capital = "Amida"
 trade_goods = livestock
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BYZ
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

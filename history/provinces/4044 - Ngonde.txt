@@ -1,12 +1,8 @@
 #Ngonde
 
-owner = TBK
-controller = TBK
-add_core = TBK
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Chilumba"
-is_city = yes
 base_manpower = 1
 trade_goods = ivory
 hre = no

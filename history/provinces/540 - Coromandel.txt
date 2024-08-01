@@ -1,7 +1,5 @@
 #540 - Coromandel 
 
-owner = GNG
-controller = GNG
 culture = tamil
 religion = hinduism
 capital = "Kuddaluru"
@@ -10,10 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
 add_vaisyas_or_burghers_effect = yes
-add_core = GNG
-add_core = MAD
 
 discovered_by = indian
 discovered_by = muslim

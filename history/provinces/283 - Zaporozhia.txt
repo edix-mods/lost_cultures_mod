@@ -1,7 +1,5 @@
 #283 - Zaporozhia
 
-owner = ZAZ
-controller = ZAZ
 culture = cimmerian
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 1
 trade_goods = livestock
 base_manpower = 1
 capital = "Sich"
-is_city = yes
-add_core = ZAZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

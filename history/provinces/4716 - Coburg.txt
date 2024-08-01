@@ -1,7 +1,4 @@
-owner = GER
-controller = GER
 capital = "Coburg"
-is_city = yes
 culture = knovizian
 religion = catholic
 hre = no
@@ -9,10 +6,6 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 trade_goods = livestock
-add_core = GER
-add_core = FKN
-add_core = COB
-add_core = THU
 
 discovered_by = eastern
 discovered_by = western

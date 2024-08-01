@@ -1,12 +1,8 @@
 #Makua
 
-owner = MKU
-controller = MKU
-add_core = MKU
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Makua"
-is_city = yes
 base_manpower = 1
 trade_goods = ivory
 hre = no

@@ -1,17 +1,17 @@
 #2302 - Içel
 
-owner = BYZ
-controller = BYZ
+owner = TAB
+controller = TAB
+add_core = TAB
+is_city = yes
 culture = luwian
 religion = orthodox
-capital = "Ermenek"
+capital = "Soli"
 trade_goods = naval_supplies
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 # No previous file for Athabasca
 
-culture = athabaskan
+culture = athabascan
 religion = totemism
 capital = "Athabasca"
 trade_goods = unknown

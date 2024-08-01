@@ -20,10 +20,6 @@ center_of_trade = 1
 1516.1.23 = { discovered_by = SPA }
 
 1535.3.12 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
 	culture = portugese
 	religion = catholic
 	trade_goods = sugar
@@ -32,16 +28,11 @@ center_of_trade = 1
 1598.1.1 = { unrest = 0 }
 1630.1.1 = {
 	capital = "Recife"
-	owner = NED
-	controller = NED
-	add_core = NED
 	culture = urnfielder
 	religion = reformed
 } # Dutch occupation, capital moved from Olinda
 1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists
 1654.1.1 = {
-	owner = POR
-	controller = POR
 	remove_core = NED
 	culture = portugese
 	religion = catholic

@@ -1,10 +1,6 @@
 #1154 - Zazzau
 
-owner = ZZZ
-controller = ZZZ
-add_core = ZZZ
 culture = hausa
-is_city = yes
 base_manpower = 3
 religion = shamanism #Fetishism
 capital = "Turunku"
@@ -25,7 +21,4 @@ discovered_by = sub_saharan
 1790.1.1 = { unrest = 3 } # Islamic revival led by Usman dan Fodio begins to challenge Hausa ruler legitimacy
 1804.1.1 = { discovered_by = SOK }
 1805.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
 } # The Fulani Empire

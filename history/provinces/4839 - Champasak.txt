@@ -1,5 +1,3 @@
-owner = CHK
-controller = CHK
 culture = vietnamese
 religion = animism
 capital = "Champasak"
@@ -8,9 +6,6 @@ hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
-is_city = yes
-add_core = CHK
-add_core = LXA
 
 
 discovered_by = chinese

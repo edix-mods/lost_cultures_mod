@@ -1,8 +1,10 @@
 #2307 - Van
 
-owner = BYZ
-controller = BYZ
-culture = armenian
+owner = URA
+controller = URA
+add_core = URA
+is_city = yes
+culture = urartian
 religion = coptic
 capital = "Van"
 trade_goods = wool
@@ -10,8 +12,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BYZ
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

@@ -18,13 +18,8 @@ add_permanent_province_modifier = {
 	name = santee_estuary_modifier
 	duration = -1
 }
-1444.1.1 = { tribal_owner = COF }
 1526.1.1 = { discovered_by = SPA } # Lucas Vásquez de Ayllón
 1670.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	is_city = yes
 	religion = protestant
 	culture = english
 	capital = "Charlestown"
@@ -34,9 +29,6 @@ add_permanent_province_modifier = {
 1702.1.1 = { unrest = 4 } # Queen Anne's war. Several Spanish settlements are attacked
 1703.1.1 = { unrest = 0 }
 1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = ENG
 } 
 1719.1.1 = { unrest = 4 } # The Carolina revolution
@@ -49,13 +41,8 @@ add_permanent_province_modifier = {
 } # Growing unrest
 1776.1.1 = { fort_18th = yes }
 1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
 }
-1780.1.1 = { controller = GBR } # Charlestown under British control
 1782.11.1 = {
-	controller = USA
 	remove_core = GBR 
 	unrest = 0
 } # Preliminary articles of peace, the British recognized American independence

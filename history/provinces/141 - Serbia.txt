@@ -1,7 +1,5 @@
 #141 - Serbia
 
-owner = SER
-controller = SER
 culture = illyrian
 religion = orthodox
 capital = "Smederevo"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

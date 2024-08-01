@@ -1,7 +1,5 @@
 #615 - Luang Prabang
 
-owner = LXA
-controller = LXA
 culture = khmuric
 religion = animism
 capital = "Xieng Tong"
@@ -10,8 +8,5 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = yes
-add_core = LXA
-add_core = LUA
 discovered_by = chinese
 discovered_by = indian

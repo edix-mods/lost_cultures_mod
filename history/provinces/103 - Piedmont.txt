@@ -1,7 +1,5 @@
 #103 - Piedmont
 
-owner = SAV
-controller = SAV
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -10,8 +8,6 @@ base_production = 7
 trade_goods = wine
 base_manpower = 3
 capital = "Torino"
-is_city = yes
-add_core = SAV
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

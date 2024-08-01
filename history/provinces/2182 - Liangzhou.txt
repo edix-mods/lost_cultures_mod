@@ -1,8 +1,5 @@
 # 2182 - Liangzhou
 
-owner = CSH
-controller = CSH
-add_core = CSH
 culture = yuezhi
 religion = confucianism
 capital = "Liangzhou"
@@ -11,6 +8,5 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group

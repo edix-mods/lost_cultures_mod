@@ -1,8 +1,5 @@
 #tenerife
 
-owner = MOR
-controller = MOR
-add_core = MOR
 capital = "Tenerife"
 trade_goods = unknown
 hre = no

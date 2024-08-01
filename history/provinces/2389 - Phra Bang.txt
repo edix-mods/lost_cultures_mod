@@ -1,7 +1,5 @@
 #2389 - Phra Bang
 
-owner = SUK
-controller = SUK
 culture = mon
 religion = buddhism
 capital = "Phra Bang"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = SUK
 
 
 

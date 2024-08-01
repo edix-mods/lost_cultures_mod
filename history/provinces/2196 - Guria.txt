@@ -1,7 +1,9 @@
 #2196 - Guria
 
-owner = GEO
-controller = GEO
+owner = EGR
+controller = EGR
+add_core = EGR
+is_city = yes
 culture = colchian
 religion = orthodox
 capital = "Batumi"
@@ -10,8 +12,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = GEO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

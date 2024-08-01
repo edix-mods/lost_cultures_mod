@@ -16,7 +16,6 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 4
 discovered_by = north_american
-tribal_owner = LEN
 
 
 
@@ -26,10 +25,7 @@ tribal_owner = LEN
 1707.5.12 = { discovered_by = GBR }
 
 1754.1.1 = { 
-	owner = GBR
-	controller = GBR
 	discovered_by = GBR 
-	add_core = GBR
 	culture = english
 	religion = protestant
 	trade_goods = grain
@@ -41,9 +37,6 @@ tribal_owner = LEN
 1769.1.1 = { unrest = 5 } #conflicts between Pennsylvania and Connecticut over the region.
 1775.12.1 = { unrest = 9 } #Pennsylvania militia attacks Connecticut settlement
 1776.7.4 = {
-	owner = USA
-	controller = USA 
-	add_core = USA
 	unrest = 6 
 } #Declaration of independence, Yankee-Pennamite wars take a backseat to revolution
 1782.1.1 = { unrest = 10 } #Congress confirms Pennsylvania's claim, Connecticut and Vermont send men. 

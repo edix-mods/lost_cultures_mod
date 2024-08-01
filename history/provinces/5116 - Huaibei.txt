@@ -1,9 +1,5 @@
 # 2143 - Fengyang
 
-owner = MNG
-controller = MNG
-add_core = MNG
-add_core = LNG
 culture = sinitic_c
 religion = confucianism
 capital = "Huaibei"
@@ -12,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 

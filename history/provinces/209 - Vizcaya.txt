@@ -1,8 +1,5 @@
 #209 - Vizcaya
 
-owner = NAV		
-controller = NAV
-add_core = NAV
 culture = aquitanian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = iron
 base_manpower = 2
 capital = "Bilbao" 
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

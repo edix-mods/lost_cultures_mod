@@ -14,10 +14,6 @@ native_ferocity = 1
 native_hostileness = 1
 
 1502.1.1 = { discovered_by = POR } # Amerigo Vespucci
-1590.1.1 = {	owner = POR	
-	controller = POR
-	add_core = POR
-	is_city = yes
 	religion = catholic
 	culture = portugese
 	trade_goods = sugar

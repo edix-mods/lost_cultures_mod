@@ -1,8 +1,5 @@
 #Halland, contains Halmstad, Varberg.
 
-owner = DAN
-controller = DAN
-add_core = DAN
 culture = germanic_c
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 capital = "Halmstad"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

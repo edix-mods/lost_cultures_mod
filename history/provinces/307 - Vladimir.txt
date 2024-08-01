@@ -1,7 +1,5 @@
 #307 - Vladimir
 
-owner = VLD
-controller = VLD  
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,8 +8,6 @@ base_production = 4
 trade_goods = iron  
 base_manpower = 3
 capital = "Vladimir"
-is_city = yes
-add_core = VLD
 fort_15th = yes
 discovered_by = GOL
 discovered_by = KAZ

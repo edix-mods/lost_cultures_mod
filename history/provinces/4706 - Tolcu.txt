@@ -1,5 +1,3 @@
-owner = BYZ
-controller = BYZ
 culture = dacian
 religion = orthodox
 capital = "Tolcu"
@@ -8,10 +6,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = BYZ
-add_core = BUL
-add_core = WAL
 fort_15th = yes
 extra_cost = 10
 

@@ -1,7 +1,5 @@
 #235 - Kent
 
-owner = KNT
-controller = KNT
 culture = proto_insular_celtic
 religion = catholic
 hre = no
@@ -10,8 +8,6 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 2
 capital = "Cantwareburh"
-is_city = yes
-add_core = KNT
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

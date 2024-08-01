@@ -1,10 +1,5 @@
 # - Ingolstadt + Neuburg
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = ING
-add_core = BAV
 culture = hallstatt
 religion = catholic
 base_tax = 5 
@@ -12,7 +7,6 @@ base_production = 5
 trade_goods = wine #Would shift to beer over time
 base_manpower = 3
 capital	= "Ingolstadt" 
-is_city = yes
 
 discovered_by = eastern
 discovered_by = western

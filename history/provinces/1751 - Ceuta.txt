@@ -1,7 +1,5 @@
 #1751 - Ceuta
 
-owner = MOR
-controller = MOR 
 culture = atlasian
 religion = sunni
 capital = "Cebta"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = MOR
 
 
 

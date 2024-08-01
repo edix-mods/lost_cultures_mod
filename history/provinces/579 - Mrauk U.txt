@@ -1,7 +1,5 @@
 #579 - Mrauk U
 
-owner = ARK
-controller = ARK
 culture = mon
 religion = buddhism
 capital = "Mrauk U"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = ARK
 discovered_by = indian
 discovered_by = chinese
 discovered_by = muslim

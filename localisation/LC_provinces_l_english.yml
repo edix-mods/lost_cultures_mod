@@ -1,4 +1,9 @@
 ﻿l_english:
  PROV4975:0 "Penzhinsko"
+ PROV4975_ADJ:0 "Penzhinskoan"
  PROV5203:0 "Susa"
+ PROV5203_ADJ:0 "Susan"
  PROV5204:0 "Olyutorsko"
+ PROV5204_ADJ:0 "Olyutorskoan"
+ PROV5211:0 "Per-Atum"
+ PROV5211_ADJ:0 "Per-Atumian"

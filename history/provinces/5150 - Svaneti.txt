@@ -1,7 +1,9 @@
 #317 - Bursa
 
-owner = IME
-controller = IME
+owner = EGR
+controller = EGR
+add_core = EGR
+is_city = yes
 culture = colchian
 religion = orthodox
 capital = "Mestia"
@@ -10,8 +12,6 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = IME
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,8 +1,5 @@
 # 2141 - Xuzhou
 
-owner = QIC
-controller = QIC
-add_core = QIC
 culture = sinitic_c
 religion = confucianism
 capital = "Xuzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
 
 
 

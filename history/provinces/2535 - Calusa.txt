@@ -1,6 +1,6 @@
 # No previous file for Calusa
 
-culture = yamasee
+culture = calusa_c
 religion = totemism
 capital = "Calusa"
 trade_goods = unknown
@@ -15,6 +15,3 @@ native_hostileness = 2
 
 
 discovered_by = north_american
-
-1513.4.2 = { discovered_by = CAS } # Juan Ponce de Leon
-1516.1.23 = { discovered_by = SPA }

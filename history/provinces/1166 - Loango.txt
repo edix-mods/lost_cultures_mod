@@ -1,8 +1,5 @@
 #1166 - Loango
 
-owner = LOA
-controller = LOA
-add_core = LOA
 culture = bantu
 religion = shamanism #Fetishism
 capital = "Loango"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 discovered_by = central_african
 discovered_by = sub_saharan
 

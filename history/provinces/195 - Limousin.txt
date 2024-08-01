@@ -1,9 +1,6 @@
 # 195 Limousin - Principal cities: Limoges
 
-owner = GUY
-controller = GUY
 capital = "Limoges"
-is_city = yes
 culture = atlantic_french
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ base_production = 4
 trade_goods = livestock
 base_manpower = 2
 
-add_core = GUY
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #648 - Halmahera
 
-culture = polyniesian
+culture = polynesian
 religion = animism
 capital = "Halmahera"
 trade_goods = unknown
@@ -19,10 +19,7 @@ discovered_by = chinese
 1512.1.1 = { discovered_by = POR } # Francisco Serrão
 
 1650.1.1 = {
-	owner = NED
-	controller = NED
 	culture = urnfielder
 	religion = reformed
-	is_city = yes
 	trade_goods = spices
 } # Loosely controlled by the Dutch

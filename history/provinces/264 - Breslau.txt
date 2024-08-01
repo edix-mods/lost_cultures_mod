@@ -1,7 +1,5 @@
 #264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
 
-owner = GER
-controller = GER
 culture = lusatian
 religion = catholic
 capital = "Breslau"
@@ -9,12 +7,7 @@ trade_goods = cloth
 hre = no
 base_tax = 5 
 base_production = 5
-is_city = yes 
 base_manpower = 3
-add_core = GER
-add_core = BOH
-add_core = SIL
-add_core = OPL
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI

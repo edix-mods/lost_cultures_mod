@@ -1,12 +1,8 @@
 #1223 - Gojjam
 
-owner = ETH
-controller = ETH
-add_core = ETH
 culture = amharic 
 religion = coptic
 capital = "Debre Asbo"
-is_city = yes
 base_manpower = 2
 trade_goods = coffee
 hre = no

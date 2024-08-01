@@ -1,10 +1,5 @@
 # 92 Brabant - Principal cities: Brussel & Mechelen
 
-owner = BSS
-controller = BSS
-add_core = BSS
-add_core = BRB
-is_city = yes
 capital = "Brussel"
 culture = urnfielder
 religion = catholic

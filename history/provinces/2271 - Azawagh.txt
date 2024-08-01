@@ -1,9 +1,5 @@
 # 2271 - Azawagh
 
-owner = SON
-controller = SON
-add_core = SON
-is_city = yes
 culture = southern_berber 
 religion = sunni
 capital = "Menaka"
@@ -19,7 +15,4 @@ discovered_by = sub_saharan
 
 
 1591.3.15 = {
-	owner = AIR
-	controller = AIR
-	add_core = AIR
 } # Songahi defeat at Tondibi leaves Tuareg free

@@ -1,9 +1,5 @@
 #214 - Aragón
 
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = ZAR
 culture = caltiberian
 religion = sunni
 hre = no
@@ -12,7 +8,6 @@ base_production = 5
 trade_goods = iron
 base_manpower = 3
 capital = "Saraqusta" 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

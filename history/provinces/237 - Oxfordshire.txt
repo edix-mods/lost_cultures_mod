@@ -1,8 +1,6 @@
 #237 - Oxfordshire
 #Oxfordshire+Bukinghamshire+Berkshire
 
-owner = SSX
-controller = SSX
 culture = atlantic_britanic
 religion = catholic
 hre = no
@@ -11,8 +9,6 @@ base_production = 4
 trade_goods = livestock
 base_manpower = 2
 capital = "Oxenaforda"
-is_city = yes
-add_core = SSX
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

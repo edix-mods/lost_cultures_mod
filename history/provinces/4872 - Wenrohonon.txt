@@ -1,9 +1,5 @@
 # No previous file for Wenrohonon
 
-owner = WEN
-controller = WEN
-add_core = WEN
-is_city = yes
 culture = iroquois
 religion = totemism
 capital = "Wenrohonon"

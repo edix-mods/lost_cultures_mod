@@ -1,10 +1,6 @@
 #854 - Sayultecas
 
-culture = nahuan
-owner = XAL
-controller = XAL
-add_core = XAL
-is_city = yes 
+culture = capachan
 religion = nahuatl
 capital = "Sayultecas" 
 trade_goods = grain

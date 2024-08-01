@@ -1,16 +1,10 @@
 culture = urnfielder
-owner = GER
-controller = GER
-add_core = GER
-add_core = WUR
-add_core = SWA
 capital = "Stuttgart"
 religion = catholic
 trade_goods = grain
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
 hre = no
 
 
@@ -22,15 +16,10 @@ discovered_by = ottoman
 
 
 1519.1.1 = { 
-	controller = HAB 
-	owner = HAB 
-	add_core = HAB
 	unrest = 8    
 } # After attacking the free town of Reutlingen the Duke of Würtemberg is sent fleeing and the country governed by the Austrians.
 1534.1.1 = { 
 	unrest = 0 
-	owner = WUR
-	controller = WUR
 	religion = protestant 
 } # House Würtemberg reconquers the coutnry and installs the protestant religion
 1724.1.1 = { capital = "Ludwigsburg" }

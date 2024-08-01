@@ -1,7 +1,5 @@
 #135 - Sopron (Sopron + Vas + Moson + Zala)
 
-owner = PNN
-controller = PNN
 culture = urnfielder
 religion = catholic
 capital = "Sopron"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = PNN
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

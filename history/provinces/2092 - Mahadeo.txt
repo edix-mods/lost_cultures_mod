@@ -1,7 +1,5 @@
 #2092 - Mahadeo
 
-owner = GDW
-controller = GDW
 culture = gondi
 religion = hellodharmism
 capital = "Kherla"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = GDW
 
 
 

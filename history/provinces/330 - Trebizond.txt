@@ -1,7 +1,9 @@
 #330 - Trebizond
 
-owner = BYZ
-controller = BYZ
+owner = HAY
+controller = HAY
+add_core = HAY
+is_city = yes
 culture = hayasa
 religion = orthodox
 capital = "Trapezous"
@@ -10,10 +12,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 4
-is_city = yes
-fort_15th = yes #Trebizond Castle
-add_core = TRE
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

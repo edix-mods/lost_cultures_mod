@@ -1,0 +1,17 @@
+#5023 - Nasibina
+
+owner = NAS
+controller = NAS
+add_core = NAS
+is_city = yes
+add_core = HNG
+culture = hurrian
+religion = sunni
+capital = "Nasibina"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = muslim

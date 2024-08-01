@@ -1,10 +1,6 @@
 #1149 - Katsina
 
-owner = KTS
-controller = KTS
-add_core = KTS
 culture = hausa
-is_city = yes
 base_manpower = 3
 religion = sunni
 capital = "Katsina"
@@ -32,7 +28,4 @@ center_of_trade = 2
 1790.1.1 = { unrest = 3 } # Islamic revival led by Usman dan Fodio begins to challenge Hausa ruler legitimacy
 1804.1.1 = { discovered_by = SOK }
 1807.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
 } # The Fulani Empire

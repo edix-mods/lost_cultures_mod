@@ -1,7 +1,7 @@
 # No previous file for Wadopabina
 
 
-culture = nakota
+culture = algonquin
 religion = totemism
 capital = "Wadopabina"
 trade_goods = unknown

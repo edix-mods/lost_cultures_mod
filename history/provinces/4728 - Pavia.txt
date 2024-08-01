@@ -1,7 +1,5 @@
 # 4728 - Pavia
 
-owner = LOM
-controller = LOM
 culture = ligurian
 religion = catholic
 hre = yes
@@ -11,8 +9,6 @@ trade_goods = wine
 base_manpower = 6
 capital = "Pavia"
 fort_15th = yes
-is_city = yes	# Estimated
-add_core = LOM
 
 
 

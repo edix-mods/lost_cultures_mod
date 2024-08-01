@@ -1,10 +1,6 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
 
-owner = NAV
-controller = NAV
-add_core = NAV
 capital = "Bayonne"
-is_city = yes
 culture = aquitanian
 religion = catholic
 hre = yes

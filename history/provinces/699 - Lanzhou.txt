@@ -1,8 +1,5 @@
 #699 - Lanzhou
 
-owner = CSH
-controller = CSH
-add_core = CSH
 culture = yuezhi
 religion = confucianism
 capital = "Lanzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
 
 
 

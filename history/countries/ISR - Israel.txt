@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = canaanite
+religion = jewish
+technology_group = muslim
+capital = 1854

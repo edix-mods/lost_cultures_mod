@@ -1,9 +1,5 @@
 #4786 - Prignitz
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = BRA
 culture = germanic_c
 religion = catholic
 hre = no
@@ -12,7 +8,6 @@ base_production = 2
 trade_goods = livestock
 base_manpower = 1
 capital = "Pankow"
-is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

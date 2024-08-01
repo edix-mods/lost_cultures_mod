@@ -1,7 +1,5 @@
 #301 - Ryazan
 
-owner = RYA
-controller = RYA   
 culture = slavic
 religion = surooriyah
 hre = no
@@ -10,9 +8,7 @@ base_production = 5
 trade_goods = wool
 base_manpower = 3
 capital = "Pereyaslavl-Ryazansky"
-is_city = yes
 fort_15th = yes
-add_core = RYA
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL

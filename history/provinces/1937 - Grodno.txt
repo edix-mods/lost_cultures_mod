@@ -1,7 +1,5 @@
 #277 - Grodno
 
-owner = WRT
-controller = WRT
 culture = slavic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = livestock
 base_manpower = 1
 capital = "Gardinas"
-is_city = yes 
-add_core = WRT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

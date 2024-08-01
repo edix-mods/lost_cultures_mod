@@ -1,12 +1,8 @@
 #2760 - Hadiya
 
-owner = HDY
-controller = HDY
-add_core = HDY
 culture = omotic_c 
 religion = sunni
 capital = "Angacha"
-is_city = yes
 base_manpower = 2
 trade_goods = grain
 hre = no

@@ -15,25 +15,16 @@ native_hostileness = 3
 
 1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
 1545.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
 	trade_goods = tropical_wood
 	culture = portugese
 	religion = catholic
 }
 1590.1.1 = { capital = "São Cristóvão" }
 1624.5.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
 	religion = reformed
 	culture = urnfielder
 }
 1625.4.1 = {
-	owner = POR
-	controller = POR
 	remove_core = NED
 	culture = portugese
 	religion = catholic

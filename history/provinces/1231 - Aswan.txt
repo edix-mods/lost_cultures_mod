@@ -1,12 +1,12 @@
 #1231 - Ibrim
 
-owner = MHD
-controller = MHD
-add_core = MHD
+owner = EGY
+controller = EGY
+add_core = EGY
+is_city = yes
 culture = upper_egyptian
 religion = sunni
-capital = "Aswan"
-is_city = yes
+capital = "Yebu"
 base_manpower = 1
 trade_goods = livestock
 hre = no

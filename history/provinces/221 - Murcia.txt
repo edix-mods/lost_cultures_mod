@@ -1,8 +1,5 @@
 #221 - Murcia
 
-owner = MUR
-controller = MUR
-add_core = MUR
 culture = iberian
 religion = sunni
 hre = no
@@ -12,7 +9,6 @@ trade_goods = grain
 base_manpower = 3
 capital = "Mursiya" 
 estate = estate_burghers
-is_city = yes
 fort_15th = yes
 
 

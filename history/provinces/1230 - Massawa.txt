@@ -1,12 +1,12 @@
 #1230 - Massawa
 
-owner = MED
-controller = MED
-add_core = MED
+owner = DMT
+controller = DMT
+add_core = DMT
+is_city = yes
 culture = geez 
 religion = coptic
 capital = "Mitsiwa"
-is_city = yes
 base_manpower = 1
 trade_goods = gems #Pearls in the Dahlek Archipelago
 hre = no

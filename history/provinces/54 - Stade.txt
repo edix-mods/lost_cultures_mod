@@ -1,7 +1,5 @@
 #54 - Stade
 
-owner = GER
-controller = GER
 culture = germanic_c
 religion = catholic
 capital = "Stade"
@@ -9,10 +7,6 @@ trade_goods = fish
 base_tax = 2
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = GER
-add_core = HAN
-add_core = VER
 
 discovered_by = eastern
 discovered_by = western

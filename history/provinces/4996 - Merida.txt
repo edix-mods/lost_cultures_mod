@@ -1,8 +1,5 @@
 #1747 - Caceres
 
-owner = TOL		
-controller = TOL
-add_core = TOL
 culture = vettonic
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = grain
 base_manpower = 1
 capital = "Merida"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

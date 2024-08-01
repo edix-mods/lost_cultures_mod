@@ -15,11 +15,7 @@ native_hostileness = 1
 
 1752.3.19 = {
 	discovered_by = POR
-	add_core = POR
-	owner = POR
-	controller = POR
 	culture = portugese
 	religion = catholic
 	trade_goods = copper
-	is_city = yes
 }

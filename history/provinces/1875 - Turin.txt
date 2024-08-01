@@ -1,8 +1,6 @@
 #1875 - Cuneo (can't change filename)
 
-owner = SAV
-controller = SAV
-culture = urnfielder
+culture = ligurian
 religion = catholic
 hre = yes
 base_tax = 4
@@ -11,8 +9,6 @@ trade_goods = grain
 base_manpower = 4
 fort_15th = yes #Cittadellla of Alessandria
 capital = "Cuneo"
-is_city = yes		# Estimated
-add_core = SAV
 
 
 

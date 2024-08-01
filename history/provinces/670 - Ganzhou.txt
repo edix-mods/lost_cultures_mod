@@ -1,8 +1,5 @@
 #670 - Ganzhou
 
-owner = NNG
-controller = NNG
-add_core = NNG
 culture = mien
 religion = confucianism
 capital = "Ganzhou"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 2
-is_city = yes
 
 
 discovered_by = chinese

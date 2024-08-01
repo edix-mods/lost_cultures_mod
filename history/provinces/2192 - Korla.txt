@@ -1,8 +1,5 @@
 # 2192 - Korla
 
-owner = CHG
-controller = CHG
-add_core = CHG
 culture = tocharian_c
 religion = vajrayana
 capital = "Korla"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
 
 
 

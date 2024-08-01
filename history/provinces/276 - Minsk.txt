@@ -1,7 +1,5 @@
 #276 - Minsk
 
-owner = WRT
-controller = WRT  
 culture = baltic
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 2
 trade_goods = naval_supplies 
 base_manpower = 1
 capital = "Minsk"
-is_city = yes
-add_core = WRT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

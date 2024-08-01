@@ -1206,7 +1206,7 @@ erzurum_area = { #3	Erzurum and Trebizond
 }
 
 hudavendigar_area = { #3
-	316 317 2296 5142 5141 2297 322
+	316 317 2296 5142 5141 2297 322 5025
 }
 
 germiyan_area = { #4
@@ -1233,12 +1233,12 @@ kastamonu_area = { #4
 }
 
 karaman_area = { #4
-	323 324 2301 4307 5146
+	323 324 2301 4307 5146 5021
 }
 
 cukurova_area = { #3
 	color = { 50 177 200 }
-	321 327 2302 5134 5133
+	321 327 2302 5134 5133 5056 5024
 }
 
 aleppo_area = { #4
@@ -1254,7 +1254,7 @@ trans_jordan_area = { #3
 }
 
 palestine_area = { #3
-	364 379 1854
+	364 379 1854 5215 5216
 }
 
 dulkadir_area = { # 4
@@ -1275,7 +1275,7 @@ luristan_area = { #4
 }
 
 north_kurdistan_area = { #5
-	418 2306 2307 4295 4296 5191
+	418 2306 2307 4295 4296 5191 5217
 }
 
 khuzestan_area = { #5
@@ -1289,7 +1289,7 @@ shahrizor_area = {	#4
 
 al_jazira_area = { #5
 	color = { 92 200 92 }
-	411 2309 2314 4292
+	411 2309 2314 4292 5023
 }
 
 
@@ -1369,7 +1369,7 @@ mascat_area = { #3 (Batinah and Muscat coast
 
 syrian_desert_area = { #3
 	color = { 219 30 57 }
-	405 4270 4271 407
+	405 4270 4271 407 5022
 }
 
 ########################################
@@ -1378,7 +1378,7 @@ syrian_desert_area = { #3
 
 gulf_of_arabia_area = { #5
 	color = { 19 219 75 }
-	365 2315 2320 2321 4982
+	365 2315 2320 2321 4982 5211
 }
 
 al_wahat_area = { #3
@@ -1909,11 +1909,11 @@ guinea_highlands_area = {
 }
 
 namaqualand_area = {
-	1174 5020 5021 5022 5023
+	1174 5020
 }
 
 damaraland_area = {
-	5024 5025 5026 5027 5036
+	5026 5027 5036
 }
 
 kalahari_area = {
@@ -1977,7 +1977,7 @@ cameroon_area = {
 }
 
 centralafrica_area = {
-	5052 5053 5054 5055 5056
+	5052 5053 5054 5055 
 }
 
 nkongo_area = {
@@ -3491,7 +3491,7 @@ texas_plains_area = { #4 NEW
 }
 
 oregon_area = { #4
-    872 2481 2482 2483
+    872 2481 2482 2483 5206
 }
 
 columbia_river_area = { #4
@@ -3515,7 +3515,7 @@ hecate_strait_area = { #3
 }
 
 alaska_area = {  #4
-    978 979 2611 2612
+    978 979 2611 2612 5212
 }
 
 east_alaska_area = { #3
@@ -3654,23 +3654,23 @@ colorado_plateau_area = { #4
 }
 
 arizona_area = { #5
-     877 867 876 2491 4633
+    877 867 876 2491 4633 5205
 }
 
 california_area = { #5
-    868 869 2021 2476 4637
+    868 869 2021 2476 4637 5208
 }
  
 central_valley_area = { #4
-    870 2478 4635 4636
+    870 2478 4635 4636 5210
 }
 
 northern_california_area = { #5
-    871 2477 2479 2480 4638
+    871 2477 2479 2480 4638 5207
 }
 
 baja_california_area = { #4
-    865 866 2620 4639
+    865 866 2620 4639 5209
 }
 
 jalisco_area = { #5
@@ -3714,7 +3714,7 @@ guerrero_area = { #3
 }
 
 oaxaca_area = { #3
-    844 2629 4584
+    844 2629 4584 5213
 }
 
 mixteca_area = { #4
@@ -3730,7 +3730,7 @@ huasteca_area = {
 }
 
 chiapas_area = { #4
-    2635 2638 2649 4585 4586
+    2635 2638 2649 4585 4586 5214
 }
 
 yucatan_area = { #5

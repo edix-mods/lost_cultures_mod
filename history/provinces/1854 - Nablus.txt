@@ -1,18 +1,18 @@
 #1854 - Negev
 
-owner = MHD
-controller = MHD
+owner = ISR
+controller = ISR
+add_core = ISR
+is_city = yes
 culture = canaanite
 religion = sunni
-capital = "Nablus"
+capital = "Samaria"
 trade_goods = sugar
 hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = yes
 estate = estate_nobles
-add_core = MHD
 
 discovered_by = western
 discovered_by = muslim

@@ -1,8 +1,5 @@
 #4552 - Palencia
 
-owner = CAS		
-controller = CAS
-add_core = CAS
 culture = cogotas
 religion = catholic
 hre = yes
@@ -12,7 +9,6 @@ trade_goods = wool
 base_manpower = 3
 capital = "Palencia"
 estate = estate_burghers
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

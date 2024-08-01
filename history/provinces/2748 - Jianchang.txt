@@ -1,9 +1,6 @@
 #2406 - Jianchang
 
-owner = CYI
-controller = CYI
-add_core = CYI
-culture = bai
+culture = yi
 religion = animism
 capital = "Jianchang"
 trade_goods = grain
@@ -11,8 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
-add_core = CXI
 
 
 

@@ -1,9 +1,6 @@
 # 189 Lothringen - Principal cities: Nancy
 
-owner = LOR
-controller = LOR
 capital = "Nancy"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 6
 base_production = 6
 trade_goods = iron
 base_manpower = 4
-add_core = LOR
 
 
 

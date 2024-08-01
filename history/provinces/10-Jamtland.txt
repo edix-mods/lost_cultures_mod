@@ -1,7 +1,5 @@
 #Jämtland+Härjedalen
 
-owner = NOR
-controller = NOR
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,8 +9,6 @@ trade_goods = fur
 base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25
-is_city = yes
-add_core = NOR
 
 
 

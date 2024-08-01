@@ -1,8 +1,5 @@
 #Ume, Åsele, Piteå Lappmarks
 
-owner = ZAZ
-controller = ZAZ
-add_core = ZAZ
 culture = cimmerian
 religion = surooriyah
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = livestock
 base_manpower = 1
 capital = "Torhovytsia"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

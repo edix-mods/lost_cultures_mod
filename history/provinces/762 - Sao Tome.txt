@@ -15,10 +15,6 @@ native_hostileness = 3
 
 1502.1.1 = { discovered_by = POR } # Gaspar de Lemos
 1619.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
 	trade_goods = sugar
 	religion = catholic
 	culture = portugese

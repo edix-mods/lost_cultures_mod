@@ -1,7 +1,5 @@
 #556 - Lower Doab
 
-owner = GIK
-controller = GIK
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Kaushambi"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 6
 base_production = 6
 base_manpower = 2
-is_city = yes
-add_core = GIK
-add_core = JNP
 add_brahmins_or_church_effect = yes
 discovered_by = indian
 discovered_by = muslim 

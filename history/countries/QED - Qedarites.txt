@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = tribal_confederacy
+primary_culture = qedarite
+religion = sunni
+technology_group = muslim
+capital = 4272

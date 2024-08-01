@@ -1,7 +1,5 @@
 #4457 - Cambay/Khambhat
 
-owner = PRA
-controller = PRA
 culture = indoaryan_c
 religion = hinduism
 capital = "Khambhat"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 1
-is_city = yes
-add_core = PRA
 add_jains_or_burghers_effect = yes
 discovered_by = east_african
 discovered_by = indian

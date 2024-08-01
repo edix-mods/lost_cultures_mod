@@ -1,7 +1,5 @@
 #2211 - Ardalan
 
-owner = ARD
-controller = ARD
 culture = median
 religion = sunni
 capital = "Sanandaj"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = ARD
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

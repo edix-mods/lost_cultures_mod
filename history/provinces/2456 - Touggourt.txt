@@ -1,7 +1,5 @@
 # - Touggourt
 
-owner = TGT
-controller = TGT
 culture = southern_berber
 religion = sunni
 capital = "Touggourt"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = TGT
 
 
 

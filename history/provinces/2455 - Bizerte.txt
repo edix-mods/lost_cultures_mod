@@ -1,7 +1,5 @@
 # - Bizerte
 
-owner = TUN
-controller = TUN
 culture = numidian
 religion = sunni
 capital = "Bizerte"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 1
-is_city = yes
-add_core = TUN
 
 
 

@@ -21,13 +21,9 @@ native_hostileness = 3
 1516.1.23 = { discovered_by = SPA }
 
 1600.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
 	trade_goods = fish
 	culture = portugese
 	religion = catholic
-	is_city = yes
 }
 1718.1.1 = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the Portugese expansion
 1725.1.1 = { unrest = 0 } # The rebellion is subdued

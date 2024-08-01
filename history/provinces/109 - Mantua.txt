@@ -1,8 +1,5 @@
 #109 - Mantua
  
-owner = MAN
-controller = MAN
-add_core = MAN
 culture = etruscan 
 religion = catholic 
 hre = yes 
@@ -12,7 +9,6 @@ trade_goods = livestock
 base_manpower = 3    
 fort_15th = yes
 capital = "Mantova" 
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

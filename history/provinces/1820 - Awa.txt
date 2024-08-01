@@ -1,7 +1,5 @@
 #1820 - Awa
 
-owner = HSK
-controller = HSK
 culture = seiyo_migaki_shiage
 religion = kirisutokyo
 capital = "Tokushima"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = HSK
 
 
 

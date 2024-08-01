@@ -1,7 +1,5 @@
 #148 - Macedonia
 
-owner = BYZ
-controller = BYZ
 culture = macedonian
 religion = orthodox
 capital = "Thessaloniki"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 3
-is_city = yes
-add_core = BYZ
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

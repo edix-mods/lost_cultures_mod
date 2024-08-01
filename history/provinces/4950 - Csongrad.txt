@@ -1,7 +1,5 @@
 #154 - Hont (Hont + Bars + Ersekujvar)
 
-owner = SCL
-controller = SCL
 culture = vucedolian
 religion = catholic
 capital = "Congrad"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = SCL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

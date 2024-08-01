@@ -1,9 +1,5 @@
 # 2276 - Itesan
 
-owner = AIR
-controller = AIR
-add_core = AIR
-is_city = yes
 culture = southern_berber 
 religion = sunni
 capital = "Tahut"

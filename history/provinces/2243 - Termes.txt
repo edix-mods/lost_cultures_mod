@@ -1,9 +1,5 @@
 # 2243 - Termes
 
-owner = MAL
-controller = MAL
-add_core = MAL
-is_city = yes
 culture = western_berber 
 religion = sunni
 capital = "Awdaghust"
@@ -16,4 +12,3 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
-add_core = SOF

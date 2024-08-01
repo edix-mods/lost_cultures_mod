@@ -1,9 +1,5 @@
 #133 - Linz
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAB
 culture = urnfielder
 religion = catholic
 base_tax = 3 
@@ -11,7 +7,6 @@ base_production = 3
 trade_goods = grain
 base_manpower = 2
 capital = "Linz" 
-is_city = yes
 
 discovered_by = KAZ
 discovered_by = CRI

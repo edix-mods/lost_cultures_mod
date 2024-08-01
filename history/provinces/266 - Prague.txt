@@ -1,9 +1,5 @@
 #266 - Bohemia
 
-owner = GER
-controller = GER
-add_core = BOH
-add_core = GER
 capital = "Praha"
 culture = urnfielder
 religion = hussite
@@ -12,7 +8,6 @@ hre = no
 base_tax = 8
 base_production = 8
 base_manpower = 6
-is_city = yes
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI

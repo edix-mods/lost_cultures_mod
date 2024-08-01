@@ -1,8 +1,5 @@
 #Gotland- Visby etc
 
-owner = GOT
-controller = GOT
-add_core = GOT
 culture = germanic_c
 religion = norse_pagan_reformed
 hre = no
@@ -12,7 +9,6 @@ trade_goods = wool
 base_manpower = 2
  # Visborg Castle
 capital = "Visby"
-is_city = yes
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,5 @@
 #2408 - Yelets
 
-owner = RYA
-controller = RYA
 culture = slavic
 religion = sunni
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 1
 capital = "Yelets"
-is_city = yes
-add_core = RYA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

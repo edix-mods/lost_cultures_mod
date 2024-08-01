@@ -1,8 +1,5 @@
 # 2185 - Mergen
 
-owner = MYR
-controller = MYR
-add_core = MYR
 culture = xituanshan
 religion = tengri_pagan_reformed
 capital = "Mergen"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
 
 
 

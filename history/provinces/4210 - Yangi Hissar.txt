@@ -1,8 +1,5 @@
 #4210 - Yangi Hissar
 
-owner = CHG
-controller = CHG
-add_core = CHG
 culture = tocharian_c
 religion = sunni
 capital = "Yangi Hissar"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes
 
 discovered_by = chinese
 discovered_by = indian

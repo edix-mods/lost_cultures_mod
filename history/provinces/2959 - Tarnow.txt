@@ -1,7 +1,5 @@
 #2959 - Tarnow
 
-owner = LUD
-controller = LUD
 capital = "Tarnów"
 culture = slavic
 religion = catholic
@@ -10,9 +8,7 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
 estate = estate_nobles
-add_core = LUD
 
 
 discovered_by = KAZ

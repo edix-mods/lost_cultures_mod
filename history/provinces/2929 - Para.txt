@@ -20,10 +20,6 @@ native_hostileness = 3
 1516.1.23 = { discovered_by = SPA }
 
 1635.12.24 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
 	culture = portugese
 	religion = catholic
 	capital = "Cameta"

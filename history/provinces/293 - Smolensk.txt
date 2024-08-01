@@ -1,7 +1,5 @@
 #293 - Smolensk
 
-owner = SMO
-controller = SMO
 culture = baltic
 religion = surooriyah
 hre = no
@@ -10,9 +8,7 @@ base_production = 4
 trade_goods = grain 
 base_manpower = 1
 capital = "Smolensk"
-is_city = yes	 
 fort_15th = yes
-add_core = SMO
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group

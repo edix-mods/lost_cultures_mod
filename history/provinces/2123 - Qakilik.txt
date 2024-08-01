@@ -1,8 +1,5 @@
 # 2123 - Qakilik
 
-owner = CHG
-controller = CHG
-add_core = CHG
 culture = tocharian_c
 religion = vajrayana
 capital = "Qakilik"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 2
 base_manpower = 2
-is_city = yes
 
 
 

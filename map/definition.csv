@@ -1796,7 +1796,7 @@ province;red;green;blue;x;x
 1795;74;48;32;East Sahara;x
 1796;202;50;79;Central Africa;x
 1797;74;52;126;Inner Kongo;x
-1798;202;54;173;Imatong;x
+1798;44;25;202;Kalahari;x
 1799;74;56;32;Urgoma;x
 1800;203;58;79;Limpopo;x
 1801;75;60;126;Kalahari;x
@@ -5019,11 +5019,11 @@ province;red;green;blue;x;x
 5018;122;139;121;Nzerekore;x
 5019;190;166;169;Labe;x
 5020;233;88;193;Luderitz;x
-5021;135;166;98;Karas;x
-5022;162;10;103;Hardap;x
-5023;79;89;3;Khomas;x
-5024;114;161;188;Erongo;x
-5025;52;85;255;Kunene;x
+5021;120;0;0;Tyana;x
+5022;162;10;103;Barsip;x
+5023;255;201;14;Nasibina;x
+5024;136;0;21;Antalya;x
+5025;255;127;39;Wilusa;x
 5026;253;215;11;Otjozondjupa;x
 5027;196;152;151;Omusati;x
 5028;114;135;17;Tshabong;x
@@ -5054,7 +5054,7 @@ province;red;green;blue;x;x
 5053;121;200;39;Bangui;x
 5054;71;0;148;Kaga;x
 5055;19;247;144;Ndele;x
-5056;202;147;234;Bria;x
+5056;202;147;234;Kelenderis;x
 5057;198;252;104;Businga;x
 5058;240;79;206;Isiro;x
 5059;251;219;67;Beni;x
@@ -5203,3 +5203,16 @@ province;red;green;blue;x;x
 5202;158;154;79;Paropamisus;x
 5203;255;72;66;Susa;x
 5204;116;145;145;Kerekia;x
+5205;240;240;93;Chemehuevi;x
+5206;37;98;79;Takelma;x
+5207;240;171;63;Wiyot;x
+5208;240;205;168;West Chumash;x
+5209;91;89;126;Sierra;x
+5210;145;63;63;West Yorkuts;x
+5211;146;141;60;West Suez;x
+5212;23;65;125;Bering Coast;x
+5213;130;40;40;Mixe;x
+5214;248;85;233;Zoque;x
+5215;150;150;85;Edom;x
+5216;255;255;80;Arubu;x
+5217;90;0;0;Amimu

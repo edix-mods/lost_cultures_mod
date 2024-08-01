@@ -1,7 +1,5 @@
 #2030 - Goa
 
-owner = MJT
-controller = MJT
 culture = telegu
 religion = hinduism
 capital = "Goa"
@@ -10,10 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 1
-is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = MJT
-#add_core = BIJ
 
 discovered_by = east_african
 discovered_by = indian

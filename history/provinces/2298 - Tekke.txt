@@ -1,7 +1,9 @@
 #2298 - Tekke
 
-owner = BYZ
-controller = BYZ
+owner = LYC
+controller = LYC
+add_core = LYC
+is_city = yes
 culture = lycian
 religion = orthodox
 capital = "Adalia"
@@ -10,11 +12,6 @@ hre = no
 base_tax = 2 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BYZ
-fort_15th = yes
-
-
 
 discovered_by = western
 discovered_by = eastern

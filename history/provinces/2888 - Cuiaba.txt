@@ -15,10 +15,6 @@ native_hostileness = 7
 
 1719.4.8 = {
 	discovered_by = POR
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
 	culture = portugese
 	religion = catholic
 	trade_goods = slaves

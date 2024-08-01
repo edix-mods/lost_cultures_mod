@@ -1,9 +1,6 @@
 # 4111 - Saintonge and Aunis
 
-owner = AMG
-controller = AMG
 capital = "Saintes"
-is_city = yes
 culture = atlantic_french
 religion = catholic 
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 4
 base_production = 4
 trade_goods = grain
 base_manpower = 2
-add_core = AMG
 estate = estate_burghers
 discovered_by = eastern
 discovered_by = western

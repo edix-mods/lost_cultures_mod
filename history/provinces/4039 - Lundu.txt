@@ -1,12 +1,8 @@
 #Lundu
 
-owner = LDU
-controller = LDU
-add_core = LDU
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Mbebwe"
-is_city = yes
 base_manpower = 4
 trade_goods = cloth #or Cotton
 hre = no

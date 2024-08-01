@@ -1,8 +1,5 @@
 # 2156 - Chaochow
 
-owner = YUE
-controller = YUE
-add_core = YUE
 culture = old_yue
 religion = confucianism
 capital = "Chaochow"
@@ -11,8 +8,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 2
-is_city = yes
-add_core = MIN
 
 
 

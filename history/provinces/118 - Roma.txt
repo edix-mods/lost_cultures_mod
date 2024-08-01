@@ -1,7 +1,5 @@
 #118 - Roma
 
-owner = PAP
-controller = PAP
 culture = latin 
 religion = catholic 
 hre = yes
@@ -10,9 +8,7 @@ base_production = 9
 trade_goods = paper
 base_manpower = 7
 capital = "Roma"
-is_city = yes
 fort_15th = yes #Castel Sant'Angelo
-add_core = PAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

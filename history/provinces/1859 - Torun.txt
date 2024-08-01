@@ -1,9 +1,6 @@
 #1859 - Torun
 
-owner = PRR
-controller = PRR
 capital = "Kulm"
-is_city = yes
 estate = estate_burghers
 culture = baltic
 religion = catholic
@@ -12,7 +9,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-add_core = PRR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,8 +1,10 @@
 #317 - Bursa
 
-owner = BYZ
-controller = BYZ
-culture = pisidic
+owner = HIL
+controller = HIL
+add_core = HIL
+is_city = yes
+culture = luwian
 religion = orthodox
 capital = "Nigde"
 trade_goods = iron
@@ -10,8 +12,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

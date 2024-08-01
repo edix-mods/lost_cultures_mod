@@ -1,7 +1,5 @@
 #161 - Tîrgoviste
 
-owner = WAL
-controller = WAL 
 culture = dacian
 religion = orthodox
 capital = "Tîrgoviste"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 3
-is_city = yes
-add_core = WAL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

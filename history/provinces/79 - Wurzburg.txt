@@ -1,9 +1,4 @@
 #79 - Würzburg
-owner = GER
-controller = GER
-add_core = GER
-add_core = FKN
-add_core = WBG
 culture = urnfielder
 religion = catholic
 base_tax = 4
@@ -18,5 +13,4 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-is_city = yes
 

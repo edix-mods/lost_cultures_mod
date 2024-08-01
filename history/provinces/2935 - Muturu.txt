@@ -15,11 +15,7 @@ native_hostileness = 6
 
 1661.6.22 = {
 	discovered_by = POR
-	owner = POR
-	controller = POR
-	add_core = POR
 	culture = portugese
 	religion = catholic
-	is_city = yes
 	trade_goods = cocoa
 }

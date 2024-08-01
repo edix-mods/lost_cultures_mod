@@ -1,6 +1,6 @@
 #2696 - Yamdena
 
-culture = polyniesian
+culture = polynesian
 religion = animism
 capital = "Yamdena"
 trade_goods = unknown

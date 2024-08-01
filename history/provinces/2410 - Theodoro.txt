@@ -1,7 +1,5 @@
 #2410 - Theodoro
 
-owner = BYZ
-controller = BYZ
 culture = cimmerian
 religion = orthodox
 hre = no
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = wine
 base_manpower = 3
 capital = "Mangul"
-is_city = yes
-add_core = BYZ
 fort_15th = yes
 
 

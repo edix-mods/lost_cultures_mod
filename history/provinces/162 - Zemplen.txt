@@ -1,7 +1,5 @@
 #162 - Zemplén
 
-owner = SLO
-controller = SLO
 culture = vucedolian
 religion = catholic
 capital = "Zemplen"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
-add_core = SLO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

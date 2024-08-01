@@ -1,8 +1,5 @@
 #Värmland
 
-add_core = SWE
-owner = SWE
-controller = SWE
 culture = finnopermic
 religion = catholic
 hre = no
@@ -11,7 +8,6 @@ base_production = 1
 trade_goods = iron
 base_manpower = 1
 capital = "Karlstad"
-is_city = yes
 
 
 

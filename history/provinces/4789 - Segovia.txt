@@ -1,8 +1,5 @@
 #4789 - Segovia
 
-owner = SRA		
-controller = SRA
-add_core = SRA
 culture = cogotas
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = cloth 
 base_manpower = 2
 capital = "Segovia"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

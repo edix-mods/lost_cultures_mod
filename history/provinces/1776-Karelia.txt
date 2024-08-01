@@ -1,14 +1,9 @@
 #East Karelia
 
-owner = NOV
-controller = NOV 
 capital = "Kem"
 culture = finnopermic
 religion = catholic
-add_core = NOV
-add_core = KRL
 hre = no
-is_city = yes
 base_tax = 1 
 base_production = 1
 trade_goods = salt

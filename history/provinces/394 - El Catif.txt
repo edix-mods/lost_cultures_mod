@@ -1,7 +1,9 @@
 #394 - El Catif
 
-owner = MHD
-controller = MHD
+owner = DIL
+controller = DIL
+add_core = DIL
+is_city = yes
 culture = dilmunite
 religion = sunni
 capital = "Al-Qatif"
@@ -10,8 +12,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

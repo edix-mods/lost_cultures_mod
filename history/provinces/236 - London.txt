@@ -1,9 +1,7 @@
 #236 - London
 #Middlesex+Hertfordshire+Surrey+parts of Kent and Essex
 
-owner = ESX
-controller = ESX
-culture = atlantic_britanic
+culture = proto_insular_celtic
 religion = catholic
 hre = no
 base_tax = 3
@@ -11,9 +9,6 @@ base_production = 4
 trade_goods = fish
 base_manpower = 3
 capital = "Lundenwic"
-is_city = yes
-add_core = ESX
-add_core = SSX
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

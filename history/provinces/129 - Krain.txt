@@ -1,10 +1,4 @@
 # 129 - Krain
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAB
-#add_core = STY
-add_core = CLI
 culture = illyrian
 religion = catholic
 base_tax = 4
@@ -12,7 +6,6 @@ base_production = 4
 trade_goods = livestock
 base_manpower = 2
 capital = "Laibach"
-is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

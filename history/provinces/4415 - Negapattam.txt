@@ -1,7 +1,5 @@
 #4415 - Negapatam 
 
-owner = TNJ
-controller = TNJ
 culture = tamil
 religion = hinduism
 capital = "Negapatam"
@@ -10,10 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 1
-is_city = yes
 add_vaisyas_or_burghers_effect = yes
-add_core = TNJ
-add_core = MAD
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim

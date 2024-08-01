@@ -1,13 +1,9 @@
-owner = TRI
-controller = TRI
 culture = urnfielder
 religion = catholic
 trade_goods = grain
 capital = "Koblenz"
 base_tax = 4 
 base_production = 4
-is_city = yes
-add_core = TRI
 base_manpower = 2
 hre = yes
 

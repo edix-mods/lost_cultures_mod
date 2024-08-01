@@ -1,8 +1,6 @@
 # - Wankapampa
 
-owner = CJA
-controller = CJA
-culture = inca
+culture = protoquechuan
 religion = inti
 capital = "Wankapampa"
 trade_goods = wool
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = CJA
 
 
 
@@ -21,15 +17,9 @@ discovered_by = CHM
 
 
 1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
 }
 1524.1.1 = { discovered_by = SPA }
 1532.11.16 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
 	culture = castillian
 	religion = catholic
 } # Battle of Cajamarca

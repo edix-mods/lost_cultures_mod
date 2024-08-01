@@ -1,8 +1,5 @@
 # 2167 - Lijiang
 
-owner = CDL
-controller = CDL
-add_core = CDL
 culture = bai
 religion = vajrayana
 capital = "Lijiang"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 

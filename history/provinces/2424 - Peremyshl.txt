@@ -1,7 +1,5 @@
 #2424 - Przemysl
 
-owner = LUD
-controller = LUD
 culture = slavic
 religion = catholic
 hre = no
@@ -10,9 +8,7 @@ base_production = 3
 trade_goods = grain
 base_manpower = 1
 capital = "Przemysl"
-is_city = yes
 estate = estate_nobles
-add_core = LUD
 
 
 

@@ -1,12 +1,8 @@
 # - Angoche
 
-owner = ZAN
-controller = ZAN
-add_core = ZAN
 culture = khoisan
 religion = sunni
 capital = "Angoche"
-is_city = yes
 base_manpower = 1
 trade_goods = ivory
 hre = no

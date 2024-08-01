@@ -17,18 +17,11 @@ center_of_trade = 1
 
 1502.1.1 = { discovered_by = POR } # Gaspar de Lemos
 1555.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
 	culture = urnfielder
 	religion = catholic
-	is_city = yes
 	trade_goods = sugar
 } # The French occupied the area & established a colony
 1565.3.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
 	remove_core = FRA
 	culture = portugese
 } # The French are expelled

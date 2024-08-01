@@ -1,7 +1,5 @@
 #1947 - Gingee
 
-owner = GNG
-controller = GNG
 culture = tamil
 religion = hinduism
 capital = "Gingee"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = KRK
-add_core = GNG
 fort_15th = yes #Gingee Fort
 discovered_by = indian
 discovered_by = muslim 

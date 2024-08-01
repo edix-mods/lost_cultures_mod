@@ -1,0 +1,15 @@
+#5025 - Wilusa
+
+owner = TRO
+controller = TRO
+add_core = TRO
+is_city = yes
+culture = luwian
+religion = orthodox
+capital = "Taruisha & Wilusha"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = muslim

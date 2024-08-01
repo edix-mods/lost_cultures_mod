@@ -1,7 +1,9 @@
 #316 - Izmit
 
-owner = BYZ
-controller = BYZ
+owner = BIT
+controller = BIT
+add_core = BIT
+is_city = yes
 culture = thracian
 religion = orthodox
 capital = "Optimatoi"
@@ -10,10 +12,7 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
 estate = estate_nobles
-add_core = BYZ
-fort_15th = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

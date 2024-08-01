@@ -1,7 +1,5 @@
 #355 - Sirt
 
-owner = FZA
-controller = FZA
 culture = numidian
 religion = sunni
 capital = "Ben Jawad"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = FZA
-add_core = TRP
 add_local_autonomy = 25
 
 

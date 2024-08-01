@@ -1,8 +1,10 @@
 #4269 - Al Wajh
 
-owner = MHD
-controller = MHD
-culture = qedarite
+owner = THA
+controller = THA
+add_core = THA
+is_city = yes
+culture = ancient_arabian
 religion = sunni
 capital = "Al Wajh"
 trade_goods = fish
@@ -10,8 +12,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

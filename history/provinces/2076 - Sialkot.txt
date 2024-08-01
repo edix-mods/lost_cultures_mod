@@ -1,7 +1,5 @@
 #2076 - Sialkot
 
-owner = KHL
-controller = KHL
 culture = indoaryan_c
 religion = hellodharmism
 capital = "Sialkot"
@@ -10,12 +8,7 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
 add_brahmins_or_church_effect = yes
-add_core = KHL
-add_core = GIK
-add_core = PUN
-#add_core = SRH
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

@@ -1,7 +1,5 @@
 #356 - Cyrenaica
 
-owner = MHD
-controller = MHD
 culture = numidian
 religion = sunni
 capital = "Benghazi"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MHD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

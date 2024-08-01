@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = lower_egyptian
+add_accepted_culture = upper_egyptian
+religion = sunni
+technology_group = muslim
+capital = 361 # Cairo

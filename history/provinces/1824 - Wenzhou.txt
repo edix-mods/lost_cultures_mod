@@ -1,7 +1,5 @@
 #1824 - Wenzhou
 
-owner = WUU
-controller = WUU
 culture = old_yue
 religion = confucianism
 capital = "Wenzhou"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = WUU
 
 
 discovered_by = chinese

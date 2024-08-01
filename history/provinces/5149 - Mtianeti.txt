@@ -1,7 +1,5 @@
 #317 - Bursa
 
-owner = GEO
-controller = GEO
 culture = kartli
 religion = orthodox
 capital = "Mtskheta"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = GEO
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

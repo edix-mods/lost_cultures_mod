@@ -1,13 +1,12 @@
 #1227 - Tigre
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = BTI
-culture = geez 
-religion = coptic #But also significant Jewish minority
-capital = "Debarwa"
+owner = DMT
+controller = DMT
+add_core = DMT
 is_city = yes
+culture = geez 
+religion = coptic 
+capital = "Yeha"
 base_manpower = 3
 trade_goods = grain
 hre = no

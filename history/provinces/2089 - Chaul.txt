@@ -1,7 +1,5 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 
-owner = MJT
-controller = MJT
 culture = telegu
 religion = hinduism
 capital = "Chaul"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = MJT
-#add_core = BIJ
 add_rajputs_or_marathas_or_nobles_effect = yes
 fort_15th = yes
 

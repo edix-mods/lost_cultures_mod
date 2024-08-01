@@ -1,9 +1,5 @@
 # No previous file for Lobi
 
-owner = KNG
-controller = KNG
-add_core = KNG
-is_city = yes
 culture = gur 
 religion = shamanism #Fetishism
 capital = "Lobi"

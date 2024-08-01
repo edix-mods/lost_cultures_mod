@@ -1,12 +1,8 @@
 #Kalonga
 
-owner = MRA
-controller = MRA
-add_core = MRA
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Manthimba"
-is_city = yes
 base_manpower = 4
 trade_goods = iron
 hre = no

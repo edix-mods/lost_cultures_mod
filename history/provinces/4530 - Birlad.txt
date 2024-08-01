@@ -1,7 +1,5 @@
 #4530 - Birlad
 
-owner = MOL
-controller = MOL
 culture = dacian
 religion = orthodox
 capital = "Birlad"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-is_city = yes
-add_core = MOL
 
 
 

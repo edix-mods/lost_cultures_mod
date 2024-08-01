@@ -1,11 +1,5 @@
 # 4738 - Trieste
 
-owner = GER
-controller = GER
-add_core = GER
-add_core = HAB
-#add_core = STY
-add_core = CLI
 culture = venetic 
 religion = catholic 
 hre = no
@@ -14,7 +8,6 @@ base_production = 4
 trade_goods = fish
 base_manpower = 2    
 capital = "Trieste" 
-is_city = yes # Estimated
 
 
 discovered_by = western

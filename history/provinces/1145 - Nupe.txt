@@ -1,9 +1,5 @@
 #1145 - Nupe
 
-owner = NUP
-controller = NUP
-add_core = NUP
-is_city = yes
 culture = benue  
 religion = shamanism #Fetishism
 capital = "Nupe"

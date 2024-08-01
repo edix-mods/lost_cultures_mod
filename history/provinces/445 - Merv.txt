@@ -1,7 +1,5 @@
 #445 - Marv
 
-owner = ILK
-controller = ILK
 culture = margian
 religion = sunni
 capital = "Merv"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 10
 base_production = 10
 base_manpower = 7
-is_city = yes
-add_core = ILK
-add_core = SEL
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

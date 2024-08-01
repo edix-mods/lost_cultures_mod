@@ -1,12 +1,8 @@
 #1202 - Mombasa
 
-owner = MBA
-controller = MBA
-add_core = MBA
 culture = south_cushitic
 religion = sunni
 capital = "Mombasa"
-is_city = yes
 base_manpower = 2
 trade_goods = ivory
 hre = no

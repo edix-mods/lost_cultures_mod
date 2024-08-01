@@ -1,16 +1,11 @@
 #Kola
 
-owner = NOV
-controller = NOV 
-add_core = SMI
 capital = "Kola"
 culture = finnopermic
 religion = catholic
 hre = no
-add_core = NOV
 base_tax = 1 
 base_production = 1
-is_city = yes
 trade_goods = fur
 base_manpower = 1
 native_hostileness = 1

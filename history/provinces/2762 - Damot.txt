@@ -1,12 +1,8 @@
 #2762 - Damot
 
-owner = DAM
-controller = DAM
-add_core = DAM
 culture = amharic
 religion = coptic
 capital = "Nekemte"
-is_city = yes
 base_manpower = 2
 trade_goods = gold
 hre = no

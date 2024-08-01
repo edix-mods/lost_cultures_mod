@@ -1,12 +1,12 @@
 #2766 - Mendefera
 
-owner = MED
-controller = MED
-add_core = MED
+owner = DMT
+controller = DMT
+add_core = DMT
+is_city = yes
 culture = geez 
 religion = coptic
 capital = "Mendefera"
-is_city = yes
 base_manpower = 2
 trade_goods = grain
 hre = no

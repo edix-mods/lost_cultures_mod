@@ -1,8 +1,5 @@
 #212 - Girona
 
-owner = CAT		
-controller = CAT
-add_core = CAT
 culture = caltiberian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = fish 
 base_manpower = 3
 capital = "Girona" 
-is_city = yes		# census of 1462, also includes the town of Figueres 
 
 
 

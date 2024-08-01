@@ -1,7 +1,5 @@
 #1023 - Echizen
 
-owner = ASA
-controller = ASA
 culture = kori
 religion = shinto
 capital = "Takefu"
@@ -10,9 +8,6 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = ASA
-add_core = SBA
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

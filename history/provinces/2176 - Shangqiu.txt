@@ -1,8 +1,5 @@
 # 2176 - Shangqiu
 
-owner = LNG
-controller = LNG
-add_core = LNG
 culture = sinitic_c
 religion = mahayana
 capital = "Shangqiu"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 2
-is_city = yes
 
 
 discovered_by = chinese

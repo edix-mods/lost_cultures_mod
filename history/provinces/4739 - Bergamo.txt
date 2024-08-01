@@ -1,7 +1,5 @@
 # 4739 - Bergamo
 
-owner = LOM	
-controller = LOM
 culture = rheatic 
 religion = catholic 
 hre = yes 
@@ -10,8 +8,6 @@ base_production = 3
 trade_goods = cloth
 base_manpower = 2  
 capital = "Bergamo" 
-is_city = yes
-add_core = LOM
 
 discovered_by = western
 discovered_by = eastern

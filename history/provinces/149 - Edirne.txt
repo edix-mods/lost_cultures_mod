@@ -1,7 +1,5 @@
 #149 - Edirne
 
-owner = BYZ
-controller = BYZ
 culture = thracian
 religion = orthodox
 capital = "Adrianopolis"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 6
 base_production = 4
 base_manpower = 4
-is_city = yes
-add_core = BYZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

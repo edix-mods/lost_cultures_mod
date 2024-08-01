@@ -1,9 +1,6 @@
 # Narbonne - Principal cities: Narbonne
 
-owner = TOU
-controller = TOU
 capital = "Narbonne"
-is_city = yes
 culture = urnfielder
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 3
-add_core = TOU
 
 
 

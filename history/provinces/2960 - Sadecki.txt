@@ -1,7 +1,5 @@
 #262 - Sadecki
 
-owner = VIS
-controller = VIS
 culture = slavic
 religion = catholic
 capital = "Nowy Sacz"
@@ -10,8 +8,6 @@ base_tax = 2
 base_production = 3
 trade_goods = iron
 base_manpower = 2
-is_city = yes
-add_core = VIS
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

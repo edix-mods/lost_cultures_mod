@@ -1,7 +1,5 @@
 #531 - North Kanara
 
-owner = CHW
-controller = CHW
 culture = kannada
 religion = jainism
 capital = "Bhatkal"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = yes
-add_core = CHW
 
 discovered_by = nomad_group
 discovered_by = indian

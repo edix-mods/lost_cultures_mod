@@ -1,7 +1,5 @@
 #303 - Saratow
 
-owner = GLH
-controller = GLH    
 culture = scythian
 religion = sunni
 hre = no
@@ -10,8 +8,6 @@ base_production = 4
 trade_goods = livestock   
 base_manpower = 4
 capital = "Ukek"
-is_city = yes
-add_core = GLH
 discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman

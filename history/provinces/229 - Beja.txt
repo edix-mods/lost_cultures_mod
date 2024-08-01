@@ -1,8 +1,5 @@
 #229 - Baixo Alentejo
 
-owner = BDJ
-controller = BDJ
-add_core = BDJ
 culture = paleoiberian
 religion = sunni
 capital = "Baja"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

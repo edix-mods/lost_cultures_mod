@@ -1,7 +1,5 @@
 #595 - Perak
 
-owner = PRK
-controller = PRK
 culture = aslian
 religion = mahayana
 capital = "Perak"
@@ -10,8 +8,6 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 2
-is_city = yes
-add_core = PRK
 
 
 

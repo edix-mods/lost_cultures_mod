@@ -1,17 +1,17 @@
 #405 - Tadmor
 
-owner = MHD
-controller = MHD
+owner = AMU
+controller = AMU
+add_core = AMU
+is_city = yes
 culture = aramaic
 religion = sunni
-capital = "Tadmuriyah"
+capital = "Tadmor"
 trade_goods = livestock
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
-is_city = yes
-add_core = MHD
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

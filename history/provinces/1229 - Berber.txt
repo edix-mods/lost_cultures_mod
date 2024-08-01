@@ -1,5 +1,9 @@
 #1229 - Berber
 
+owner = KUS
+controller = KUS
+add_core = KUS
+is_city = yes
 culture = nubian 
 religion = sunni
 capital = "Berber"

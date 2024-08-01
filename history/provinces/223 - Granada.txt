@@ -1,8 +1,5 @@
 #223 - Granada
 
-owner = GRA
-controller = GRA
-add_core = GRA
 culture = iberian
 religion = sunni
 hre = no
@@ -11,7 +8,6 @@ base_production = 6
 trade_goods = salt
 base_manpower = 4
 capital = "Granatah"
-is_city = yes
 fort_15th = yes
 discovered_by = western
 discovered_by = muslim

@@ -1,10 +1,6 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner =PIC
-controller = PIC
-add_core = PIC
 capital = "Amiens"
-is_city = yes
 estate = estate_nobles
 culture = atlantic_french
 religion = catholic

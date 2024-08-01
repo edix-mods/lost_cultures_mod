@@ -1,8 +1,6 @@
 #238 - Essex
 #+part of Cambridgeshire
 
-owner = ESX
-controller = ESX
 culture = proto_insular_celtic
 religion = catholic
 hre = no
@@ -11,8 +9,6 @@ base_production = 6
 trade_goods = cloth
 base_manpower = 2
 capital = "Colneceastre"
-is_city = yes
-add_core = ESX
 fort_15th = yes
 
 

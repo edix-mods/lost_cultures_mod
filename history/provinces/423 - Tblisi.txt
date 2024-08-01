@@ -1,7 +1,9 @@
 #423 - Kartli
 
-owner = GEO
-controller = GEO
+owner = URA
+controller = URA
+add_core = URA
+is_city = yes
 culture = kartli
 religion = orthodox
 capital = "T'bilisi"
@@ -10,8 +12,6 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-is_city = yes
-add_core = GEO
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

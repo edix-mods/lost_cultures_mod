@@ -1,8 +1,5 @@
 #Lugo
 
-owner = GAL		
-controller = GAL
-add_core = GAL
 culture = paleoiberian
 religion = catholic
 hre = yes
@@ -11,7 +8,6 @@ base_production = 3
 trade_goods = fish
 base_manpower = 2
 capital = "Lugo" 
-is_city = yes
 estate = estate_nobles
  # Santiago de Compostela pilgrimage
 discovered_by = eastern

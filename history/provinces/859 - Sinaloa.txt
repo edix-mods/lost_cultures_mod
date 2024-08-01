@@ -1,6 +1,6 @@
 #859 - Sinaloa
 
-culture = coracholan
+culture = capachan
 religion = totemism 
 capital = "Sinaloa" 
 trade_goods = unknown 

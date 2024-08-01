@@ -1,7 +1,5 @@
 #111 - Friuli
 
-owner = AQU
-controller = AQU
 culture = venetic 
 religion = catholic 
 hre = yes 
@@ -10,8 +8,6 @@ base_production = 5
 trade_goods = wine
 base_manpower = 2    
 capital = "Udine" 
-is_city = yes # Estimated
-add_core = AQU
 fort_15th = yes
 
 discovered_by = western

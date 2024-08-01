@@ -1,10 +1,6 @@
 # No previous file for Chacujal
 
 culture = protoeasternmayan
-owner = KAQ
-controller = KAQ
-add_core = KAQ
-is_city = yes
 religion = mesoamerican_religion
 capital = "Chacujal"
 trade_goods = gems

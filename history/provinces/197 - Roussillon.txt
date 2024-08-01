@@ -1,10 +1,6 @@
 # 197 Roussillon - Principal cities: Perpignan
 
-owner = TOU
-controller = TOU
-add_core = TOU
 capital = "Perpignan"
-is_city = yes
 culture = caltiberian
 religion = catholic
 hre = yes
@@ -12,7 +8,6 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 2
-add_core = CAT
 fort_15th = yes
 
 

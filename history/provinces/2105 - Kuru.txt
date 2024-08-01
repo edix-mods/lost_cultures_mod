@@ -1,8 +1,5 @@
 # 2105 - Kuru
 
-owner = EJZ
-controller = EJZ
-add_core = EJZ
 culture = nivkh
 religion = tengri_pagan_reformed
 capital = "Kuru"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 
 
